@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Band Member 3D Graph</title>
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+        overflow: hidden;
+        font-family: sans-serif;
+      }
+      #graph3d-container,
+      #globe-container {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+      }
+      #globe-container {
+        display: none;
+      }
+      #sidebar {
+        position: absolute;
+        right: 0;
+        top: 0;
+        width: 22%;
+        height: 100%;
+        background: #ffffffcc;
+        padding: 16px;
+        box-sizing: border-box;
+        overflow-y: auto;
+        display: none;
+        border-left: 1px solid #ccc;
+      }
+      .control-panel {
+        position: absolute;
+        top: 10px;
+        left: 10px;
+        background: #ffffffcc;
+        padding: 10px;
+        border-radius: 6px;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+      }
+      .control-panel input[type='text'] {
+        padding: 4px 6px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        font-size: 14px;
+      }
+      .control-panel label {
+        font-size: 14px;
+      }
+      .control-panel button {
+        padding: 4px 8px;
+        font-size: 14px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="graph3d-container"></div>
+    <div id="globe-container"></div>
+    <div id="sidebar"></div>
+    <div class="control-panel">
+      <input type="text" id="searchInput" placeholder="Search…" />
+      <label>
+        <input type="checkbox" id="filter-band" checked /> Bands
+      </label>
+      <label>
+        <input type="checkbox" id="filter-member" checked /> Members
+      </label>
+      <label>
+        <input type="checkbox" id="filter-producer" checked /> Producers
+      </label>
+      <label>
+        <input type="checkbox" id="filter-label" checked /> Labels
+      </label>
+      <label>
+        <input type="checkbox" id="filter-venue" checked /> Venues
+      </label>
+      <label>
+        <input type="checkbox" id="filter-event" checked /> Events
+      </label>
+      <label>
+        <input type="checkbox" id="filter-family" checked /> Family
+      </label>
+      <select id="modeSelect">
+        <option value="normal">Normal</option>
+        <option value="ghost">Ghost</option>
+        <option value="hide">Hide</option>
+      </select>
+      <button id="toggle-view">Globe</button>
+      <label style="margin-left:10px;">
+        Time:
+        <input type="range" id="timeRange" min="1950" max="2025" value="2025" />
+      </label>
+      <button id="saveView">Save View</button>
+      <button id="loadView">Load View</button>
+      <button id="exportPNG">Export PNG</button>
+      <button id="exportJSON">Export JSON</button>
+    </div>
+    <!-- External libraries loaded via CDN for convenience -->
+    <script src="https://cdn.jsdelivr.net/npm/3d-force-graph@1.70.1/dist/3d-force-graph.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/three-globe@2.20.2/dist/three-globe.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.js"></script>
+    <!-- Data file must define either window.data or window.nodes + window.edges -->
+    <script src="data.js" defer></script>
+    <script src="graph3D.js" defer></script>
+    <script src="mapView.js" defer></script>
+    <script src="main.js" defer></script>
+  </body>
+</html>
