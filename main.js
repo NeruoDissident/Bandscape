@@ -250,10 +250,11 @@ function initializeApp() {
   applyFilters();
 }
 
-// Fallback: if data.js doesn't call initializeApp(), call it on DOMContentLoaded
-window.addEventListener('DOMContentLoaded', () => {
-  // Only initialize if not already done
-  if (!window.appInitialized) {
-    initializeApp();
-  }
-});
+// Automatically initialize once this script loads. Because all scripts are
+// loaded with the `defer` attribute, the DOM is already parsed at this point
+// and `data.js` has executed, so the app can safely start now. The
+// `window.appInitialized` flag prevents double initialization if this file is
+// loaded multiple times or if other scripts also attempt to start the app.
+if (!window.appInitialized) {
+  initializeApp();
+}

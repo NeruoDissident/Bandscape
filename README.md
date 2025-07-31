@@ -38,7 +38,7 @@ This project visualizes relationships between bands, members, producers, labels,
 
 ## Updating the Data
 
-Data lives in `data.js`. Replace the placeholder dataset with your enriched data from Phase 1. The script must either set `window.data` to an object containing `nodes` and `edges`, or define `window.nodes` and `window.edges` separately. Each node should include an `id`, `type` and `name`. For proper globes and time filtering, supply `location` (`lat` and `lon`) and `yearsActive` formatted as `"YYYY–YYYY"` or `"YYYY–present"`.
+Data lives in `data.js`. Replace the placeholder dataset with your enriched data from Phase 1. The script must either set `window.data` to an object containing `nodes` and `edges`, or define `window.nodes` and `window.edges` separately. Each node should include an `id`, `type` and `name`. For proper globes and time filtering, supply `location` (`lat` and `lon`) and `yearsActive` formatted as `"YYYY–YYYY"` or `"YYYY–present"`. The application initialises automatically when `main.js` loads, so ensure `data.js` is included before `main.js` in `index.html`.
 
 ## Adding New Entity Types
 
