@@ -1,0 +1,1894 @@
+### BandScape Research Checklist
+Note: Fields marked MISSING need research.
+
+## Bands (35)
+- Name: +44
+  - ID: band_25
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2005  End: 2009
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: Mark Hoppus, Travis Barker, Shane Gallagher, Craig Fairbaugh, Carol Heller
+- Name: Alkaline Trio
+  - ID: band_6
+  - Aliases: MISSING
+  - Description: American punk rock band from Chicago, Illinois. Founded in 1996, the trio blends pop‑punk, punk rock, emo and horror punk.
+  - Image: MISSING
+  - Location: Chicago, United States (41.8781, -87.6298)
+  - Start: 1996  End: MISSING
+  - Origin: Chicago, USA
+  - Tags: Pop punk, Punk rock, Emo, genre_horror_punk
+  - Labels: Epic Records, Big Noise, Hopeless Records, Reprise Records, Epitaph Records, Vagrant Records
+  - Members: Matt Skiba, Trent Reznor, Bert McCracken, Atticus Ross, Robin Finck, Alessandro Cortini, Ilan Rubin, Atom Willard, Rob Doran, Glenn Porter, Mike Felumlee, Derek Grant
+- Name: All Time Low
+  - ID: band_10
+  - Aliases: ATL
+  - Description: American rock band from Towson, Maryland, formed in 2003. Their line‑up consists of Alex Gaskarth, Jack Barakat, Zack Merrick and Rian Dawson.
+  - Image: MISSING
+  - Location: Towson, United States (39.2904, -76.6122)
+  - Start: 2003  End: MISSING
+  - Origin: Towson, USA
+  - Tags: Pop punk, Pop rock, Power pop, Emo pop, Alternative rock
+  - Labels: Warner Bros. Records, Fueled by Ramen, Fantasy Records, Pirates Press
+  - Members: John Nolan, Shaun Cooper, Mark O'Connell, Matt Rubano
+- Name: Angels & Airwaves
+  - ID: band_4
+  - Aliases: AvA
+  - Description: American rock band formed in San Diego in 2005 by Tom DeLonge after Blink‑182 went on hiatus. They draw on alternative rock and space rock and have released multiple albums while functioning as a multimedia project.
+  - Image: MISSING
+  - Location: San Diego, United States (32.7157, -117.1611)
+  - Start: 2005  End: MISSING
+  - Origin: San Diego, USA
+  - Tags: Alternative rock, Space rock
+  - Labels: To the Stars Records, Rise Records, Asian Man Records, Vagrant Records
+  - Members: Tom DeLonge, Skinhead Rob, Kevin Bivona, Dan Andriano, Bert McCracken, Jeph Howard, Dan Whitesides, Joey Bradford, David Kennedy, Atom Willard, Ryan Sinn, Matt Wachter, Eddie Breckenridge
+- Name: Basic Radio
+  - ID: band_13
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1985  End: 1987
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: Tim Armstrong, Matt Freeman
+- Name: Big Rig
+  - ID: band_18
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1993  End: 1993
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: Jesse Michaels, Doug Sangalang, Kevin Cross, Jeremy Goody, Brandon Riggen
+- Name: Blink‑182
+  - ID: band_3
+  - Aliases: Blink 182, Blink
+  - Description: American rock band formed in Poway, California, in 1992. Their most famous line‑up consists of Mark Hoppus, Tom DeLonge and Travis Barker. The group blends catchy pop melodies with fast‑paced punk rock and helped popularise pop‑punk.
+  - Image: MISSING
+  - Location: Poway, United States (32.7157, -117.1611)
+  - Start: 1992  End: MISSING
+  - Origin: Poway, USA
+  - Tags: Pop punk, Punk rock
+  - Labels: MISSING
+  - Members: Mark Hoppus, Tom DeLonge, Travis Barker, Scott Raynor, Matt Skiba
+- Name: Box Car Racer
+  - ID: band_24
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2001  End: 2003
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: Tom DeLonge, Travis Barker, David Kennedy, Anthony Celestino
+- Name: Brand New
+  - ID: band_30
+  - Aliases: MISSING
+  - Description: American rock band from Long Island, New York, formed in 2000 by Jesse Lacey, Vincent Accardi, Garrett Tierney and Brian Lane. The band is associated with emo, alternative rock, indie rock, post-hardcore and early pop punk:contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}.
+  - Image: MISSING
+  - Location: Merrick, United States (40.6629, -73.5515)
+  - Start: 2000  End: MISSING
+  - Origin: Long Island, USA
+  - Tags: Emo, Alternative rock, genre_indie_rock, Post hardcore, Pop punk
+  - Labels: Tiny Evil, DreamWorks Records, Interscope Records, Triple Crown Records, Iodine Recordings, Razor & Tie, Procrastinate! Music Traitors
+  - Members: Jesse Lacey, Vincent Accardi, Garrett Tierney, Brian Lane, Derrick Sherman
+- Name: Charger
+  - ID: band_29
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2018  End: MISSING
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: Matt Freeman, Andrew McGee, Jason Willer
+- Name: Classics of Love
+  - ID: band_20
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2008  End: 2012
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: Jesse Michaels, Mike Huguenor, Morgan Herrell, Max Feshbach, Sharif Dumani, Peter John Fontes
+- Name: Common Rider
+  - ID: band_19
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1999  End: 2003
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: Jesse Michaels, Mass Giorgini, Dan Lumley
+- Name: Dance Hall Crashers
+  - ID: band_14
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1989  End: 1989
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: Tim Armstrong, Matt Freeman, Erik Larsen, Joey Schaaf, Andrew Champion, Grant McIntire, Joel Wing
+- Name: Devils Brigade
+  - ID: band_17
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2000  End: MISSING
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: Matt Freeman, Tim Armstrong, DJ Bonebrake, Rob Milucky, Brett Reed
+- Name: DOOM Regulator
+  - ID: band_21
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2023  End: MISSING
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: Tim Armstrong, Jesse Michaels, Joey Castillo, Spencer Pollard
+- Name: Downfall
+  - ID: band_15
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1989  End: 1989
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: Tim Armstrong, Matt Freeman, Dave Mello, Pat Mello, Jason Hammon
+- Name: Glassjaw
+  - ID: band_32
+  - Aliases: Glass Jaw, The Glassjaw
+  - Description: American post-hardcore band from Hempstead, New York, formed in 1993 by vocalist Daryl Palumbo and guitarist Justin Beck. The band pioneered the post-hardcore genre with a sound blending alternative metal and early nu metal elements:contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}.
+  - Image: MISSING
+  - Location: Hempstead, United States (40.7062, -73.6187)
+  - Start: 1993  End: MISSING
+  - Origin: Hempstead, USA
+  - Tags: Post hardcore, genre_alternative_metal, genre_nu_metal
+  - Labels: label_43, Roadrunner Records, I Am Records, label_42
+  - Members: Daryl Palumbo, Justin Beck, Manuel Carrero
+- Name: Hatebreed
+  - ID: band_34
+  - Aliases: MISSING
+  - Description: American metalcore/hardcore band from Bridgeport, Connecticut, formed in 1994. Known for blending hardcore punk with heavy metal, they helped shape the Connecticut hardcore scene:contentReference[oaicite:8]{index=8}:contentReference[oaicite:9]{index=9}.
+  - Image: MISSING
+  - Location: Bridgeport, United States (41.1865, -73.1952)
+  - Start: 1994  End: MISSING
+  - Origin: Bridgeport, USA
+  - Tags: genre_metalcore, Hardcore punk
+  - Labels: Victory Records, Stillborn Records, Universal Records, Roadrunner Records, Koch Records, Razor & Tie, Nuclear Blast
+  - Members: Jamey Jasta, Chris Beattie
+- Name: Head Automatica
+  - ID: band_33
+  - Aliases: MISSING
+  - Description: American rock/power pop band from Long Island, New York, formed in 2003 as a side project of Glassjaw’s Daryl Palumbo with producer Dan "The Automator" Nakamura:contentReference[oaicite:6]{index=6}:contentReference[oaicite:7]{index=7}. The band combined electronic rock with pop punk influences.
+  - Image: MISSING
+  - Location: Long Island, United States (40.6687, -73.5271)
+  - Start: 2003  End: 2012
+  - Origin: Long Island, USA
+  - Tags: Power pop, Pop punk, genre_indie_rock
+  - Labels: I Am Records
+  - Members: Daryl Palumbo
+- Name: Nine Inch Nails
+  - ID: band_8
+  - Aliases: NIN
+  - Description: American industrial rock band formed in Cleveland, Ohio in 1988. Singer‑songwriter and producer Trent Reznor founded the project; Atticus Ross became a full member in 2016.
+  - Image: MISSING
+  - Location: Cleveland, United States (41.4993, -81.6944)
+  - Start: 1988  End: MISSING
+  - Origin: Cleveland, USA
+  - Tags: Industrial rock
+  - Labels: MISSING
+  - Members: Jason Bynum, Hunter Lamb, John Hembree, Alex Gaskarth, Kevin Bivona
+- Name: NOFX
+  - ID: band_11
+  - Aliases: MISSING
+  - Description: Punk rock band formed in Los Angeles in 1983. Original members Fat Mike, Eric Melvin and Erik Sandin have appeared on every release; El Hefe joined in 1991.
+  - Image: MISSING
+  - Location: Los Angeles, United States (34.0522, -118.2437)
+  - Start: 1983  End: 2024
+  - Origin: Los Angeles, USA
+  - Tags: Punk rock, Melodic hardcore, Skate punk, Ska punk, Pop punk
+  - Labels: Victory Records, Epitaph Records, Fat Wreck Chords
+  - Members: Fred Mascherino, Matthew Fazzi, Eddie Reyes, Antonio Longo
+- Name: Operation Ivy
+  - ID: band_1
+  - Aliases: MISSING
+  - Description: American punk rock band from Berkeley, California, formed in May 1987 and active until 1989. They mixed ska punk, punk rock and hardcore punk and were pivotal to the emergence of the East Bay sound.
+  - Image: MISSING
+  - Location: Berkeley, United States (37.8716, -122.2727)
+  - Start: 1987  End: 1989
+  - Origin: Berkeley, USA
+  - Tags: Ska punk, Punk rock, Hardcore punk
+  - Labels: Lookout! Records, Hellcat Records
+  - Members: Tim Armstrong, Matt Freeman, Jesse Michaels, Dave Mello
+- Name: Paramore
+  - ID: band_9
+  - Aliases: MISSING
+  - Description: American rock band from Franklin, Tennessee, formed in 2004. Since 2017 the band has consisted of Hayley Williams, Taylor York and Zac Farro.
+  - Image: MISSING
+  - Location: Franklin, United States (36.1627, -86.7816)
+  - Start: 2004  End: MISSING
+  - Origin: Franklin, USA
+  - Tags: Pop punk, Emo, Pop rock, Alternative rock, Power pop, New wave
+  - Labels: Pirates Press, Suretone Records
+  - Members: Jack Barakat, Rian Dawson, Zack Merrick, Fat Mike, Eric Melvin, Erik Sandin, El Hefe, Adam Lazzara
+- Name: Rancid
+  - ID: band_2
+  - Aliases: MISSING
+  - Description: American punk rock band formed in Berkeley, California in 1991 by Tim Armstrong and Matt Freeman. Rancid mixes punk rock, ska punk and street punk and helped revive mainstream interest in punk rock in the mid‑1990s.
+  - Image: MISSING
+  - Location: Berkeley, United States (37.8716, -122.2727)
+  - Start: 1991  End: MISSING
+  - Origin: Berkeley, USA
+  - Tags: Punk rock, Ska punk, Street punk
+  - Labels: Hellcat Records, Epitaph Records, Fat Wreck Chords, Lookout! Records, Geffen Records, Suretone Records
+  - Members: Tim Armstrong, Matt Freeman, Lars Frederiksen, Branden Steineckert, Brett Reed
+- Name: Shaken 69
+  - ID: band_16
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1995  End: 1995
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: Tim Armstrong, Matt Freeman, Paul Jackson, Eric Din, Lars Nylander, Mike Park, Dave Mello
+- Name: Simple Creatures
+  - ID: band_26
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2019  End: 2020
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: Mark Hoppus, Alex Gaskarth
+- Name: Taking Back Sunday
+  - ID: band_12
+  - Aliases: MISSING
+  - Description: American rock band from Amityville, New York, formed by guitarist Eddie Reyes and bassist Jesse Lacey in late 1999. The band is associated with emo, post‑hardcore, pop‑punk and alternative rock.
+  - Image: MISSING
+  - Location: Amityville, United States (40.7891, -73.135)
+  - Start: 1999  End: MISSING
+  - Origin: Amityville, USA
+  - Tags: Emo, Post hardcore, Pop punk, Alternative rock
+  - Labels: Sire Records, Suretone Records, Geffen Records, Emerald Moon Records, Fueled by Ramen
+  - Members: Adam Lazzara, John Nolan, Shaun Cooper, Mark O'Connell, Matt Rubano, Fred Mascherino, Matthew Fazzi, Eddie Reyes, Antonio Longo, Jesse Lacey, Steven DeJoseph
+- Name: The Aquabats
+  - ID: band_27
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1994  End: MISSING
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: MC Bat Commander, Crash McLarson, Jimmy the Robot, Ricky Fitness, Eaglebones Falconhawk, Travis Barker
+- Name: The Bouncing Souls
+  - ID: band_35
+  - Aliases: Bouncing Souls
+  - Description: American punk rock band from New Brunswick, New Jersey, formed in 1989. Their upbeat, melodic punk anthems reenergized the New Jersey punk scene in the 1990s:contentReference[oaicite:10]{index=10}:contentReference[oaicite:11]{index=11}.
+  - Image: MISSING
+  - Location: New Brunswick, United States (40.4862, -74.4518)
+  - Start: 1989  End: MISSING
+  - Origin: New Brunswick, USA
+  - Tags: Punk rock, Pop punk, Skate punk, Hardcore punk
+  - Labels: Chunksaah Records, BYO Records, Epitaph Records, Pure Noise Records, Century Media Records
+  - Members: Greg Attonito, Pete Steinkopf, Bryan Kienlen
+- Name: The Crew
+  - ID: band_22
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2021  End: MISSING
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: Tim Armstrong, Matt Freeman, Fletcher Dragge, Byron McCracken, Mike Muir
+- Name: The Interrupters
+  - ID: band_28
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2011  End: MISSING
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: Aimee Interrupter, Kevin Bivona, Justin Bivona, Jesse Bivona
+- Name: The Old Firm Casuals
+  - ID: band_23
+  - Aliases: MISSING
+  - Description: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2010  End: MISSING
+  - Origin: MISSING
+  - Tags: MISSING
+  - Labels: MISSING
+  - Members: Lars Frederiksen, Casey Watson, Paul Rivas, Gabe Gavriloff
+- Name: The Rookie Lot
+  - ID: band_31
+  - Aliases: MISSING
+  - Description: Five-piece melodic hardcore band from Levittown, New York, started in 1998. Members included Jesse Lacey, Garrett Tierney and Brian Lane (who later formed Brand New):contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}.
+  - Image: MISSING
+  - Location: Levittown, United States (40.7259, -73.5143)
+  - Start: 1998  End: 2000
+  - Origin: Levittown, USA
+  - Tags: Melodic hardcore, Hardcore punk
+  - Labels: MISSING
+  - Members: Jesse Lacey, Garrett Tierney, Brian Lane, Brandon Reilly, Alex Dunne
+- Name: The Used
+  - ID: band_7
+  - Aliases: MISSING
+  - Description: American rock band from Orem, Utah, formed in 2000. Their music incorporates emo, screamo, post‑hardcore and pop‑punk.
+  - Image: MISSING
+  - Location: Orem, United States (40.2969, -111.6947)
+  - Start: 2000  End: MISSING
+  - Origin: Orem, USA
+  - Tags: Emo, Screamo, Post hardcore, Pop punk, Punk rock, Alternative rock
+  - Labels: Atlantic Records, Fueled by Ramen, Mystic Records
+  - Members: Hayley Williams, Taylor York, Zac Farro, Josh Farro, Jeremy Davis, Brett Reed, Branden Steineckert
+- Name: Transplants
+  - ID: band_5
+  - Aliases: MISSING
+  - Description: American punk rock and rap rock supergroup from Los Angeles. The band formed in 1999 when Tim Armstrong played beats to his friend Rob Aston; the project grew to include Travis Barker and others.
+  - Image: MISSING
+  - Location: Los Angeles, United States (34.0522, -118.2437)
+  - Start: 1999  End: MISSING
+  - Origin: Los Angeles, USA
+  - Tags: Punk rock, Rap rock
+  - Labels: Hellcat Records, V2 Records
+  - Members: Tim Armstrong, Justin Shekoski, Travis Barker, Quinn Allman
+
+## Members (122)
+- Name: Adam Lazzara
+  - ID: member_43
+  - Aliases: MISSING
+  - Bio: Lead vocalist of Taking Back Sunday since 2001.
+  - Image: MISSING
+  - Location: Sheffield, United States (34.7639, -87.6986)
+  - Start: 2001  End: MISSING
+  - Tags: MISSING
+  - Bands: Taking Back Sunday
+  - Roles: vocals
+- Name: Aimee Interrupter
+  - ID: member_104
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2011  End: MISSING
+  - Tags: MISSING
+  - Bands: The Interrupters
+  - Roles: MISSING
+- Name: Alessandro Cortini
+  - ID: member_25
+  - Aliases: MISSING
+  - Bio: Multi‑instrumentalist who plays bass, keyboards and guitars for Nine Inch Nails.
+  - Image: MISSING
+  - Location: Bologna, Italy (44.4949, 11.3426)
+  - Start: 2005  End: MISSING
+  - Tags: MISSING
+  - Bands: Nine Inch Nails
+  - Roles: bass, keyboards, guitar
+- Name: Alex Dunne
+  - ID: member_122
+  - Aliases: MISSING
+  - Bio: Guitarist of The Rookie Lot (1998–2000). After the band split, he went on to play in the hardcore punk band Crime in Stereo:contentReference[oaicite:30]{index=30}:contentReference[oaicite:31]{index=31}.
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1998  End: MISSING
+  - Tags: Guitarist
+  - Bands: The Rookie Lot
+  - Roles: guitar
+- Name: Alex Gaskarth
+  - ID: member_35
+  - Aliases: MISSING
+  - Bio: Lead vocalist and rhythm guitarist of All Time Low.
+  - Image: MISSING
+  - Location: Harlow, United Kingdom (51.7729, 0.1023)
+  - Start: 2003  End: MISSING
+  - Tags: MISSING
+  - Bands: All Time Low, Simple Creatures
+  - Roles: vocals, guitar
+- Name: Andrew Champion
+  - ID: member_56
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1989  End: MISSING
+  - Tags: MISSING
+  - Bands: Dance Hall Crashers
+  - Roles: MISSING
+- Name: Andrew McGee
+  - ID: member_107
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2018  End: MISSING
+  - Tags: MISSING
+  - Bands: Charger
+  - Roles: MISSING
+- Name: Anthony Celestino
+  - ID: member_94
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2002  End: 2003
+  - Tags: MISSING
+  - Bands: Box Car Racer
+  - Roles: MISSING
+- Name: Antonio Longo
+  - ID: member_51
+  - Aliases: MISSING
+  - Bio: Original lead vocalist of Taking Back Sunday (1999–2001).
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1999  End: 2001
+  - Tags: MISSING
+  - Bands: Taking Back Sunday
+  - Roles: vocals
+- Name: Atom Willard
+  - ID: member_87
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2000  End: MISSING
+  - Tags: MISSING
+  - Bands: Angels & Airwaves, Alkaline Trio
+  - Roles: MISSING
+- Name: Atticus Ross
+  - ID: member_23
+  - Aliases: MISSING
+  - Bio: Musician and composer who became an official member of Nine Inch Nails in 2016.
+  - Image: MISSING
+  - Location: London, United Kingdom (51.5074, -0.1278)
+  - Start: 2016  End: MISSING
+  - Tags: MISSING
+  - Bands: Nine Inch Nails
+  - Roles: keyboards
+- Name: Bert McCracken
+  - ID: member_16
+  - Aliases: MISSING
+  - Bio: Lead vocalist of The Used.
+  - Image: MISSING
+  - Location: Provo, United States (40.2338, -111.6585)
+  - Start: 2000  End: MISSING
+  - Tags: MISSING
+  - Bands: The Used, Alkaline Trio
+  - Roles: vocals
+- Name: Branden Steineckert
+  - ID: member_6
+  - Aliases: MISSING
+  - Bio: Drummer who joined Rancid in 2006 and previously played in The Used.
+  - Image: MISSING
+  - Location: Pocatello, United States (42.8804, -112.4529)
+  - Start: 2000  End: MISSING
+  - Tags: Drummer
+  - Bands: Rancid, The Used
+  - Roles: drums
+- Name: Brandon Reilly
+  - ID: member_121
+  - Aliases: MISSING
+  - Bio: Guitarist of The Rookie Lot (1998–2000), later known as guitarist/vocalist of The Movielife:contentReference[oaicite:28]{index=28}:contentReference[oaicite:29]{index=29} and Nightmare of You.
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1998  End: MISSING
+  - Tags: Guitarist, Vocalist
+  - Bands: The Rookie Lot
+  - Roles: guitar, vocals
+- Name: Brandon Riggen
+  - ID: member_75
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1993  End: MISSING
+  - Tags: MISSING
+  - Bands: Big Rig
+  - Roles: MISSING
+- Name: Brett Reed
+  - ID: member_7
+  - Aliases: MISSING
+  - Bio: Original drummer for Rancid from 1991 to 2006.
+  - Image: MISSING
+  - Location: Oakland, United States (37.8044, -122.2711)
+  - Start: 1991  End: MISSING
+  - Tags: Drummer
+  - Bands: Rancid, Devils Brigade
+  - Roles: drums
+- Name: Brian Lane
+  - ID: member_111
+  - Aliases: MISSING
+  - Bio: Drummer of Brand New, and previously the drummer of the Rookie Lot:contentReference[oaicite:15]{index=15}.
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1998  End: MISSING
+  - Tags: Drummer
+  - Bands: Brand New, The Rookie Lot
+  - Roles: drums
+- Name: Bryan Kienlen
+  - ID: member_120
+  - Aliases: MISSING
+  - Bio: Bass guitarist and co-founder of The Bouncing Souls:contentReference[oaicite:27]{index=27}. Also known for designing the band’s iconic logos.
+  - Image: MISSING
+  - Location: Basking Ridge, United States (40.7064, -74.5493)
+  - Start: 1989  End: MISSING
+  - Tags: Bassist
+  - Bands: The Bouncing Souls
+  - Roles: bass
+- Name: Byron McCracken
+  - ID: member_70
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1988  End: MISSING
+  - Tags: MISSING
+  - Bands: The Crew
+  - Roles: MISSING
+- Name: Carol Heller
+  - ID: member_93
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2005  End: 2005
+  - Tags: MISSING
+  - Bands: +44
+  - Roles: MISSING
+- Name: Casey Watson
+  - ID: member_83
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2010  End: MISSING
+  - Tags: MISSING
+  - Bands: The Old Firm Casuals
+  - Roles: MISSING
+- Name: Chris Beattie
+  - ID: member_117
+  - Aliases: Chris "Boulder" Beattie
+  - Bio: Bass player and co-founder of Hatebreed:contentReference[oaicite:23]{index=23}:contentReference[oaicite:24]{index=24}.
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1994  End: MISSING
+  - Tags: Bassist
+  - Bands: Hatebreed
+  - Roles: bass
+- Name: Craig Fairbaugh
+  - ID: member_92
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2005  End: 2009
+  - Tags: MISSING
+  - Bands: +44
+  - Roles: MISSING
+- Name: Crash McLarson
+  - ID: member_100
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1994  End: MISSING
+  - Tags: MISSING
+  - Bands: The Aquabats
+  - Roles: MISSING
+- Name: Dan Andriano
+  - ID: member_15
+  - Aliases: MISSING
+  - Bio: Bassist and vocalist, known for his work in Alkaline Trio.
+  - Image: MISSING
+  - Location: Elgin, United States (42.0354, -88.2826)
+  - Start: 1997  End: MISSING
+  - Tags: MISSING
+  - Bands: Alkaline Trio
+  - Roles: bass, vocals
+- Name: Dan Lumley
+  - ID: member_77
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1999  End: MISSING
+  - Tags: MISSING
+  - Bands: Common Rider
+  - Roles: MISSING
+- Name: Dan Whitesides
+  - ID: member_18
+  - Aliases: MISSING
+  - Bio: Drummer for The Used since 2006.
+  - Image: MISSING
+  - Location: Salt Lake City, United States (40.7608, -111.891)
+  - Start: 2006  End: MISSING
+  - Tags: MISSING
+  - Bands: The Used
+  - Roles: drums
+- Name: Daryl Palumbo
+  - ID: member_113
+  - Aliases: MISSING
+  - Bio: American singer, best known as the lead vocalist of Glassjaw:contentReference[oaicite:17]{index=17} and the founder of Head Automatica.
+  - Image: MISSING
+  - Location: Bellmore, United States (40.6687, -73.5271)
+  - Start: 1993  End: MISSING
+  - Tags: Vocalist
+  - Bands: Glassjaw, Head Automatica
+  - Roles: vocals
+- Name: Dave Mello
+  - ID: member_4
+  - Aliases: MISSING
+  - Bio: Drummer known for his work with Operation Ivy and related bands.
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1987  End: MISSING
+  - Tags: Drummer
+  - Bands: Operation Ivy, Downfall, Shaken 69
+  - Roles: drums
+- Name: David Kennedy
+  - ID: member_86
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2001  End: MISSING
+  - Tags: MISSING
+  - Bands: Angels & Airwaves, Box Car Racer
+  - Roles: MISSING
+- Name: Derek Grant
+  - ID: member_98
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2001  End: 2023
+  - Tags: MISSING
+  - Bands: Alkaline Trio
+  - Roles: MISSING
+- Name: Derrick Sherman
+  - ID: member_112
+  - Aliases: MISSING
+  - Bio: Guitarist and keyboardist for Brand New (touring member 2005–2009, official 2009–2013):contentReference[oaicite:16]{index=16}.
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2005  End: 2013
+  - Tags: Guitarist
+  - Bands: Brand New
+  - Roles: guitar, keyboards
+- Name: DJ Bonebrake
+  - ID: member_65
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1977  End: MISSING
+  - Tags: MISSING
+  - Bands: Devils Brigade
+  - Roles: MISSING
+- Name: Doug Sangalang
+  - ID: member_72
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1993  End: MISSING
+  - Tags: MISSING
+  - Bands: Big Rig
+  - Roles: MISSING
+- Name: Eaglebones Falconhawk
+  - ID: member_103
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2006  End: MISSING
+  - Tags: MISSING
+  - Bands: The Aquabats
+  - Roles: MISSING
+- Name: Eddie Breckenridge
+  - ID: member_90
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2014  End: 2014
+  - Tags: MISSING
+  - Bands: Angels & Airwaves
+  - Roles: MISSING
+- Name: Eddie Reyes
+  - ID: member_50
+  - Aliases: MISSING
+  - Bio: Guitarist who co‑founded Taking Back Sunday (1999–2018).
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1999  End: 2018
+  - Tags: MISSING
+  - Bands: Taking Back Sunday
+  - Roles: guitar
+- Name: El Hefe
+  - ID: member_42
+  - Aliases: MISSING
+  - Bio: Guitarist and trumpeter who joined NOFX in 1991.
+  - Image: MISSING
+  - Location: Sacramento, United States (38.5816, -121.4944)
+  - Start: 1991  End: MISSING
+  - Tags: MISSING
+  - Bands: NOFX
+  - Roles: guitar
+- Name: Eric Din
+  - ID: member_62
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1995  End: MISSING
+  - Tags: MISSING
+  - Bands: Shaken 69
+  - Roles: MISSING
+- Name: Eric Melvin
+  - ID: member_40
+  - Aliases: MISSING
+  - Bio: Guitarist and founding member of NOFX.
+  - Image: MISSING
+  - Location: Los Angeles, United States (34.0522, -118.2437)
+  - Start: 1983  End: MISSING
+  - Tags: MISSING
+  - Bands: NOFX
+  - Roles: guitar
+- Name: Erik Larsen
+  - ID: member_54
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1989  End: MISSING
+  - Tags: MISSING
+  - Bands: Dance Hall Crashers
+  - Roles: MISSING
+- Name: Erik Sandin
+  - ID: member_41
+  - Aliases: MISSING
+  - Bio: Drummer and founding member of NOFX.
+  - Image: MISSING
+  - Location: Los Angeles, United States (34.0989, -118.3278)
+  - Start: 1983  End: MISSING
+  - Tags: MISSING
+  - Bands: NOFX
+  - Roles: drums
+- Name: Fat Mike
+  - ID: member_39
+  - Aliases: MISSING
+  - Bio: Singer and bassist who co‑founded NOFX.
+  - Image: MISSING
+  - Location: Newton, United States (42.341, -71.2171)
+  - Start: 1983  End: MISSING
+  - Tags: MISSING
+  - Bands: NOFX
+  - Roles: vocals, bass
+- Name: Fletcher Dragge
+  - ID: member_69
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1988  End: MISSING
+  - Tags: MISSING
+  - Bands: The Crew
+  - Roles: MISSING
+- Name: Fred Mascherino
+  - ID: member_48
+  - Aliases: MISSING
+  - Bio: Guitarist and vocalist for Taking Back Sunday (2003–2008).
+  - Image: MISSING
+  - Location: Coatesville, United States (39.9832, -75.8238)
+  - Start: 2003  End: 2008
+  - Tags: MISSING
+  - Bands: Taking Back Sunday
+  - Roles: guitar, vocals
+- Name: Gabe Gavriloff
+  - ID: member_85
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2010  End: MISSING
+  - Tags: MISSING
+  - Bands: The Old Firm Casuals
+  - Roles: MISSING
+- Name: Garrett Tierney
+  - ID: member_110
+  - Aliases: MISSING
+  - Bio: Bass guitarist of Brand New, formerly a member of the Rookie Lot:contentReference[oaicite:13]{index=13}:contentReference[oaicite:14]{index=14}.
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1998  End: MISSING
+  - Tags: Bassist
+  - Bands: Brand New, The Rookie Lot
+  - Roles: bass
+- Name: Glenn Porter
+  - ID: member_96
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1996  End: 2000
+  - Tags: MISSING
+  - Bands: Alkaline Trio
+  - Roles: MISSING
+- Name: Grant McIntire
+  - ID: member_57
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1989  End: MISSING
+  - Tags: MISSING
+  - Bands: Dance Hall Crashers
+  - Roles: MISSING
+- Name: Greg Attonito
+  - ID: member_118
+  - Aliases: MISSING
+  - Bio: Lead vocalist of The Bouncing Souls, which he co-founded in 1989:contentReference[oaicite:25]{index=25}.
+  - Image: MISSING
+  - Location: Basking Ridge, United States (40.7064, -74.5493)
+  - Start: 1989  End: MISSING
+  - Tags: Vocalist
+  - Bands: The Bouncing Souls
+  - Roles: vocals
+- Name: Hayley Williams
+  - ID: member_27
+  - Aliases: MISSING
+  - Bio: Lead vocalist of Paramore.
+  - Image: MISSING
+  - Location: Meridian, United States (32.3643, -88.7037)
+  - Start: 2004  End: MISSING
+  - Tags: MISSING
+  - Bands: Paramore
+  - Roles: vocals
+- Name: Hunter Lamb
+  - ID: member_33
+  - Aliases: MISSING
+  - Bio: Rhythm guitarist for Paramore (2006–2007).
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2006  End: 2007
+  - Tags: MISSING
+  - Bands: Paramore
+  - Roles: guitar
+- Name: Ilan Rubin
+  - ID: member_26
+  - Aliases: MISSING
+  - Bio: Drummer and multi‑instrumentalist who plays with Angels & Airwaves and Nine Inch Nails.
+  - Image: MISSING
+  - Location: San Diego, United States (32.7157, -117.1611)
+  - Start: 2008  End: MISSING
+  - Tags: Drummer
+  - Bands: Angels & Airwaves, Nine Inch Nails
+  - Roles: drums
+- Name: Jack Barakat
+  - ID: member_36
+  - Aliases: MISSING
+  - Bio: Lead guitarist of All Time Low.
+  - Image: MISSING
+  - Location: Lebanon
+  - Start: 2003  End: MISSING
+  - Tags: MISSING
+  - Bands: All Time Low
+  - Roles: guitar
+- Name: Jamey Jasta
+  - ID: member_116
+  - Aliases: James Shanahan, El Odio
+  - Bio: American vocalist, best known as the lead singer of metalcore band Hatebreed:contentReference[oaicite:21]{index=21}:contentReference[oaicite:22]{index=22}. Founder of Stillborn Records and other side projects.
+  - Image: MISSING
+  - Location: West Haven, United States (41.27, -72.947)
+  - Start: 1994  End: MISSING
+  - Tags: Vocalist
+  - Bands: Hatebreed
+  - Roles: vocals
+- Name: Jason Bynum
+  - ID: member_32
+  - Aliases: MISSING
+  - Bio: Rhythm guitarist for Paramore (2004–2005).
+  - Image: MISSING
+  - Location: Nashville, United States (36.1627, -86.7816)
+  - Start: 2004  End: 2005
+  - Tags: MISSING
+  - Bands: Paramore
+  - Roles: guitar
+- Name: Jason Hammon
+  - ID: member_60
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1989  End: MISSING
+  - Tags: MISSING
+  - Bands: Downfall
+  - Roles: MISSING
+- Name: Jason Willer
+  - ID: member_108
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2018  End: MISSING
+  - Tags: MISSING
+  - Bands: Charger
+  - Roles: MISSING
+- Name: Jeph Howard
+  - ID: member_17
+  - Aliases: MISSING
+  - Bio: Bassist of The Used since its formation.
+  - Image: MISSING
+  - Location: Orem, United States (40.2969, -111.6947)
+  - Start: 2000  End: MISSING
+  - Tags: MISSING
+  - Bands: The Used
+  - Roles: bass
+- Name: Jeremy Davis
+  - ID: member_31
+  - Aliases: MISSING
+  - Bio: Bass player for Paramore until 2015.
+  - Image: MISSING
+  - Location: Little Rock, United States (34.7465, -92.2896)
+  - Start: 2004  End: 2015
+  - Tags: MISSING
+  - Bands: Paramore
+  - Roles: bass
+- Name: Jeremy Goody
+  - ID: member_74
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1993  End: MISSING
+  - Tags: MISSING
+  - Bands: Big Rig
+  - Roles: MISSING
+- Name: Jesse Bivona
+  - ID: member_106
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2011  End: MISSING
+  - Tags: MISSING
+  - Bands: The Interrupters
+  - Roles: MISSING
+- Name: Jesse Lacey
+  - ID: member_52
+  - Aliases: MISSING
+  - Bio: Bassist and vocalist in the earliest incarnation of Taking Back Sunday and later leader of Brand New.
+  - Image: MISSING
+  - Location: Levittown, United States (40.7259, -73.5143)
+  - Start: 1999  End: 1999
+  - Tags: MISSING
+  - Bands: Taking Back Sunday, Brand New, The Rookie Lot
+  - Roles: bass, vocals
+- Name: Jesse Michaels
+  - ID: member_3
+  - Aliases: MISSING
+  - Bio: American vocalist and artist best known as the singer for Operation Ivy.
+  - Image: MISSING
+  - Location: Berkeley, United States (37.8716, -122.2727)
+  - Start: 1987  End: MISSING
+  - Tags: Vocalist
+  - Bands: Operation Ivy, DOOM Regulator, Big Rig, Common Rider, Classics of Love
+  - Roles: vocals
+- Name: Jimmy the Robot
+  - ID: member_101
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1997  End: MISSING
+  - Tags: MISSING
+  - Bands: The Aquabats
+  - Roles: MISSING
+- Name: Joel Wing
+  - ID: member_58
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1989  End: MISSING
+  - Tags: MISSING
+  - Bands: Dance Hall Crashers
+  - Roles: MISSING
+- Name: Joey Bradford
+  - ID: member_19
+  - Aliases: MISSING
+  - Bio: Guitarist for The Used since 2018.
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2018  End: MISSING
+  - Tags: MISSING
+  - Bands: The Used
+  - Roles: guitar
+- Name: Joey Castillo
+  - ID: member_67
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1984  End: MISSING
+  - Tags: MISSING
+  - Bands: DOOM Regulator
+  - Roles: MISSING
+- Name: Joey Schaaf
+  - ID: member_55
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1989  End: MISSING
+  - Tags: MISSING
+  - Bands: Dance Hall Crashers
+  - Roles: MISSING
+- Name: John Hembree
+  - ID: member_34
+  - Aliases: MISSING
+  - Bio: Bassist who briefly joined Paramore in 2005.
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2005  End: 2005
+  - Tags: MISSING
+  - Bands: Paramore
+  - Roles: bass
+- Name: John Nolan
+  - ID: member_44
+  - Aliases: MISSING
+  - Bio: Lead guitarist, keyboardist and vocalist for Taking Back Sunday (1999–2003; 2010–present).
+  - Image: MISSING
+  - Location: Baltimore, United States (39.2904, -76.6122)
+  - Start: 1999  End: MISSING
+  - Tags: MISSING
+  - Bands: Taking Back Sunday
+  - Roles: guitar, keyboards, vocals
+- Name: Josh Farro
+  - ID: member_30
+  - Aliases: MISSING
+  - Bio: Guitarist and founding member of Paramore who left in 2010.
+  - Image: MISSING
+  - Location: Voorhees Township, United States (39.85, -74.927)
+  - Start: 2004  End: 2010
+  - Tags: MISSING
+  - Bands: Paramore
+  - Roles: guitar
+- Name: Justin Beck
+  - ID: member_114
+  - Aliases: MISSING
+  - Bio: Guitarist, songwriter and co-founder of Glassjaw:contentReference[oaicite:18]{index=18}.
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1993  End: MISSING
+  - Tags: Guitarist
+  - Bands: Glassjaw
+  - Roles: guitar
+- Name: Justin Bivona
+  - ID: member_105
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2011  End: MISSING
+  - Tags: MISSING
+  - Bands: The Interrupters
+  - Roles: MISSING
+- Name: Justin Shekoski
+  - ID: member_20
+  - Aliases: MISSING
+  - Bio: Guitarist who played with The Used from 2015 to 2018.
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2015  End: 2018
+  - Tags: MISSING
+  - Bands: The Used
+  - Roles: guitar
+- Name: Kevin Bivona
+  - ID: member_14
+  - Aliases: MISSING
+  - Bio: Multi‑instrumentalist who plays bass and keyboards in Transplants and The Interrupters.
+  - Image: MISSING
+  - Location: Van Nuys, United States (34.1899, -118.4513)
+  - Start: 2005  End: MISSING
+  - Tags: MISSING
+  - Bands: Transplants, The Interrupters
+  - Roles: bass, keyboards
+- Name: Kevin Cross
+  - ID: member_73
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1993  End: MISSING
+  - Tags: MISSING
+  - Bands: Big Rig
+  - Roles: MISSING
+- Name: Lars Frederiksen
+  - ID: member_5
+  - Aliases: MISSING
+  - Bio: Guitarist and vocalist, member of Rancid and leader of Lars Frederiksen and the Bastards.
+  - Image: MISSING
+  - Location: Campbell, United States (37.2872, -121.95)
+  - Start: 1993  End: MISSING
+  - Tags: Guitarist, Vocalist
+  - Bands: Rancid, The Old Firm Casuals
+  - Roles: guitar, vocals
+- Name: Lars Nylander
+  - ID: member_63
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1995  End: MISSING
+  - Tags: MISSING
+  - Bands: Shaken 69
+  - Roles: MISSING
+- Name: Manuel Carrero
+  - ID: member_115
+  - Aliases: Manny Carrero
+  - Bio: Bass guitarist of Glassjaw (1998–2000, 2004–2015):contentReference[oaicite:19]{index=19}. He also briefly played with Saves the Day:contentReference[oaicite:20]{index=20}.
+  - Image: MISSING
+  - Location: Hempstead, United States (40.7062, -73.6187)
+  - Start: 1998  End: 2015
+  - Tags: Bassist
+  - Bands: Glassjaw
+  - Roles: bass
+- Name: Mark Hoppus
+  - ID: member_8
+  - Aliases: MISSING
+  - Bio: Bassist and vocalist best known for his work in Blink‑182 and as a producer.
+  - Image: MISSING
+  - Location: Ridgecrest, United States (35.6225, -117.6709)
+  - Start: 1992  End: MISSING
+  - Tags: Bassist, Singer
+  - Bands: Blink‑182, +44, Simple Creatures
+  - Roles: bass, vocals
+- Name: Mark O'Connell
+  - ID: member_46
+  - Aliases: MISSING
+  - Bio: Drummer for Taking Back Sunday since 2001.
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2001  End: MISSING
+  - Tags: Drummer
+  - Bands: Taking Back Sunday
+  - Roles: drums
+- Name: Mass Giorgini
+  - ID: member_76
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1999  End: MISSING
+  - Tags: MISSING
+  - Bands: Common Rider
+  - Roles: MISSING
+- Name: Matt Freeman
+  - ID: member_2
+  - Aliases: Matt McCall
+  - Bio: American bassist and vocalist, founding member of Operation Ivy and Rancid.
+  - Image: MISSING
+  - Location: Berkeley, United States (37.8716, -122.2727)
+  - Start: 1985  End: MISSING
+  - Tags: Bassist
+  - Bands: Operation Ivy, Rancid, Basic Radio, Dance Hall Crashers, Downfall, Shaken 69, Devils Brigade, The Crew, Charger
+  - Roles: bass, vocals
+- Name: Matt Rubano
+  - ID: member_47
+  - Aliases: MISSING
+  - Bio: Bassist for Taking Back Sunday (2003–2010) and current bassist for Angels & Airwaves.
+  - Image: MISSING
+  - Location: Valley Stream, United States (40.6643, -73.7085)
+  - Start: 2003  End: MISSING
+  - Tags: MISSING
+  - Bands: Taking Back Sunday, Angels & Airwaves
+  - Roles: bass
+- Name: Matt Skiba
+  - ID: member_12
+  - Aliases: MISSING
+  - Bio: Guitarist and vocalist, co‑founder of Alkaline Trio and former member of Blink‑182.
+  - Image: MISSING
+  - Location: Chicago, United States (41.8781, -87.6298)
+  - Start: 1996  End: MISSING
+  - Tags: MISSING
+  - Bands: Alkaline Trio, Blink‑182
+  - Roles: guitar, vocals
+- Name: Matt Wachter
+  - ID: member_89
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2003  End: 2019
+  - Tags: MISSING
+  - Bands: Angels & Airwaves
+  - Roles: MISSING
+- Name: Matthew Fazzi
+  - ID: member_49
+  - Aliases: MISSING
+  - Bio: Guitarist and keyboardist for Taking Back Sunday (2008–2010).
+  - Image: MISSING
+  - Location: Buffalo, United States (42.8865, -78.8784)
+  - Start: 2008  End: 2010
+  - Tags: MISSING
+  - Bands: Taking Back Sunday
+  - Roles: guitar, keyboards
+- Name: Max Feshbach
+  - ID: member_82
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2008  End: 2012
+  - Tags: MISSING
+  - Bands: Classics of Love
+  - Roles: MISSING
+- Name: MC Bat Commander
+  - ID: member_99
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1994  End: MISSING
+  - Tags: MISSING
+  - Bands: The Aquabats
+  - Roles: MISSING
+- Name: Mike Felumlee
+  - ID: member_97
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2000  End: 2001
+  - Tags: MISSING
+  - Bands: Alkaline Trio
+  - Roles: MISSING
+- Name: Mike Huguenor
+  - ID: member_80
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2008  End: 2012
+  - Tags: MISSING
+  - Bands: Classics of Love
+  - Roles: MISSING
+- Name: Mike Muir
+  - ID: member_71
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1981  End: MISSING
+  - Tags: MISSING
+  - Bands: The Crew
+  - Roles: MISSING
+- Name: Mike Park
+  - ID: member_64
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1995  End: MISSING
+  - Tags: MISSING
+  - Bands: Shaken 69
+  - Roles: MISSING
+- Name: Morgan Herrell
+  - ID: member_81
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2008  End: 2012
+  - Tags: MISSING
+  - Bands: Classics of Love
+  - Roles: MISSING
+- Name: Pat Mello
+  - ID: member_59
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1989  End: MISSING
+  - Tags: MISSING
+  - Bands: Downfall
+  - Roles: MISSING
+- Name: Paul Jackson
+  - ID: member_61
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1995  End: MISSING
+  - Tags: MISSING
+  - Bands: Shaken 69
+  - Roles: MISSING
+- Name: Paul Rivas
+  - ID: member_84
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2010  End: MISSING
+  - Tags: MISSING
+  - Bands: The Old Firm Casuals
+  - Roles: MISSING
+- Name: Pete Steinkopf
+  - ID: member_119
+  - Aliases: MISSING
+  - Bio: Guitarist and co-founder of The Bouncing Souls:contentReference[oaicite:26]{index=26}.
+  - Image: MISSING
+  - Location: Basking Ridge, United States (40.7064, -74.5493)
+  - Start: 1989  End: MISSING
+  - Tags: Guitarist
+  - Bands: The Bouncing Souls
+  - Roles: guitar
+- Name: Peter John Fontes
+  - ID: member_79
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2020  End: MISSING
+  - Tags: MISSING
+  - Bands: Classics of Love
+  - Roles: MISSING
+- Name: Quinn Allman
+  - ID: member_21
+  - Aliases: MISSING
+  - Bio: Guitarist and founding member of The Used who left in 2015.
+  - Image: MISSING
+  - Location: Orem, United States (40.2969, -111.6947)
+  - Start: 2000  End: 2015
+  - Tags: MISSING
+  - Bands: The Used
+  - Roles: guitar
+- Name: Rian Dawson
+  - ID: member_37
+  - Aliases: MISSING
+  - Bio: Drummer of All Time Low.
+  - Image: MISSING
+  - Location: Baltimore, United States (39.2904, -76.6122)
+  - Start: 2003  End: MISSING
+  - Tags: MISSING
+  - Bands: All Time Low
+  - Roles: drums
+- Name: Ricky Fitness
+  - ID: member_102
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2002  End: MISSING
+  - Tags: MISSING
+  - Bands: The Aquabats
+  - Roles: MISSING
+- Name: Rob Doran
+  - ID: member_95
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1996  End: 1997
+  - Tags: MISSING
+  - Bands: Alkaline Trio
+  - Roles: MISSING
+- Name: Rob Milucky
+  - ID: member_66
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2000  End: MISSING
+  - Tags: MISSING
+  - Bands: Devils Brigade
+  - Roles: MISSING
+- Name: Robin Finck
+  - ID: member_24
+  - Aliases: MISSING
+  - Bio: Guitarist known for touring and recording with Nine Inch Nails.
+  - Image: MISSING
+  - Location: Marietta, United States (33.9526, -84.5499)
+  - Start: 1994  End: MISSING
+  - Tags: MISSING
+  - Bands: Nine Inch Nails
+  - Roles: guitar
+- Name: Ryan Sinn
+  - ID: member_88
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2005  End: 2007
+  - Tags: MISSING
+  - Bands: Angels & Airwaves
+  - Roles: MISSING
+- Name: Scott Raynor
+  - ID: member_11
+  - Aliases: MISSING
+  - Bio: Founding drummer of Blink‑182 who played from 1992 until 1998.
+  - Image: MISSING
+  - Location: Poway, United States (32.9628, -117.0362)
+  - Start: 1992  End: MISSING
+  - Tags: Drummer
+  - Bands: Blink‑182
+  - Roles: drums
+- Name: Shane Gallagher
+  - ID: member_91
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2005  End: 2009
+  - Tags: MISSING
+  - Bands: +44
+  - Roles: MISSING
+- Name: Sharif Dumani
+  - ID: member_78
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2020  End: MISSING
+  - Tags: MISSING
+  - Bands: Classics of Love
+  - Roles: MISSING
+- Name: Shaun Cooper
+  - ID: member_45
+  - Aliases: MISSING
+  - Bio: Bass guitarist for Taking Back Sunday (2001–2003; 2010–present).
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2001  End: MISSING
+  - Tags: MISSING
+  - Bands: Taking Back Sunday
+  - Roles: bass
+- Name: Skinhead Rob
+  - ID: member_13
+  - Aliases: MISSING
+  - Bio: Vocalist and songwriter, member of the rap rock supergroup Transplants.
+  - Image: MISSING
+  - Location: Fresno, United States (36.7468, -119.7726)
+  - Start: 1999  End: MISSING
+  - Tags: MISSING
+  - Bands: Transplants
+  - Roles: vocals
+- Name: Spencer Pollard
+  - ID: member_68
+  - Aliases: MISSING
+  - Bio: MISSING
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2005  End: MISSING
+  - Tags: MISSING
+  - Bands: DOOM Regulator
+  - Roles: MISSING
+- Name: Steven DeJoseph
+  - ID: member_53
+  - Aliases: MISSING
+  - Bio: Drummer who played with Taking Back Sunday in 1999.
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 1999  End: 1999
+  - Tags: Drummer
+  - Bands: Taking Back Sunday
+  - Roles: drums
+- Name: Taylor York
+  - ID: member_28
+  - Aliases: MISSING
+  - Bio: Guitarist and keyboardist for Paramore.
+  - Image: MISSING
+  - Location: Nashville, United States (36.1627, -86.7816)
+  - Start: 2009  End: MISSING
+  - Tags: MISSING
+  - Bands: Paramore
+  - Roles: guitar, keyboards
+- Name: Tim Armstrong
+  - ID: member_1
+  - Aliases: Lint, Tim Timebomb
+  - Bio: American musician known for co‑founding Operation Ivy and Rancid; guitarist and vocalist.
+  - Image: MISSING
+  - Location: Albany, United States (37.8869, -122.2978)
+  - Start: 1985  End: MISSING
+  - Tags: Musician, Producer
+  - Bands: Operation Ivy, Rancid, Transplants, Basic Radio, Dance Hall Crashers, Downfall, Shaken 69, Devils Brigade, The Crew, DOOM Regulator
+  - Roles: guitar, vocals
+- Name: Tom DeLonge
+  - ID: member_9
+  - Aliases: MISSING
+  - Bio: Guitarist, vocalist and entrepreneur; co‑founder of Blink‑182 and leader of Angels & Airwaves.
+  - Image: MISSING
+  - Location: Poway, United States (32.9628, -117.0362)
+  - Start: 1992  End: MISSING
+  - Tags: Guitarist, Vocalist
+  - Bands: Blink‑182, Angels & Airwaves, Box Car Racer
+  - Roles: guitar, vocals
+- Name: Travis Barker
+  - ID: member_10
+  - Aliases: The Baron von Tito, Bones, Clarence
+  - Bio: Drummer known for Blink‑182 and as a prolific collaborator across genres.
+  - Image: MISSING
+  - Location: Fontana, United States (34.0922, -117.435)
+  - Start: 1996  End: MISSING
+  - Tags: Drummer
+  - Bands: Blink‑182, Transplants, Box Car Racer, +44, The Aquabats
+  - Roles: drums
+- Name: Trent Reznor
+  - ID: member_22
+  - Aliases: MISSING
+  - Bio: Singer‑songwriter, producer and founder of Nine Inch Nails.
+  - Image: MISSING
+  - Location: New Castle, United States (41.0037, -80.347)
+  - Start: 1988  End: MISSING
+  - Tags: MISSING
+  - Bands: Nine Inch Nails
+  - Roles: vocals
+- Name: Vincent Accardi
+  - ID: member_109
+  - Aliases: Vin Accardi
+  - Bio: Lead guitarist and backing vocalist of Brand New:contentReference[oaicite:12]{index=12}. He joined the band in 2000, coming from the local Long Island scene.
+  - Image: MISSING
+  - Location: MISSING
+  - Start: 2000  End: MISSING
+  - Tags: Guitarist, Vocalist
+  - Bands: Brand New
+  - Roles: guitar, vocals
+- Name: Zac Farro
+  - ID: member_29
+  - Aliases: MISSING
+  - Bio: Drummer and founding member of Paramore.
+  - Image: MISSING
+  - Location: Voorhees Township, United States (39.85, -74.927)
+  - Start: 2004  End: MISSING
+  - Tags: Drummer
+  - Bands: Paramore
+  - Roles: drums
+- Name: Zack Merrick
+  - ID: member_38
+  - Aliases: MISSING
+  - Bio: Bassist and backing vocalist of All Time Low.
+  - Image: MISSING
+  - Location: Baltimore, United States (39.2904, -76.6122)
+  - Start: 2003  End: MISSING
+  - Tags: MISSING
+  - Bands: All Time Low
+  - Roles: bass, vocals
+
+## Labels (41)
+- Name: Asian Man Records
+  - ID: label_9
+  - Aliases: MISSING
+  - Description: Independent record label that released early Alkaline Trio material.
+  - Location: Monte Sereno, United States (37.2363, -121.9924)
+  - Artists: Alkaline Trio
+- Name: Atlantic Records
+  - ID: label_16
+  - Aliases: MISSING
+  - Description: Major record label; parent company of Fueled by Ramen and home to Paramore releases.
+  - Location: New York, United States (40.7128, -74.006)
+  - Artists: Transplants, Paramore, Taking Back Sunday
+- Name: Big Noise
+  - ID: label_13
+  - Aliases: MISSING
+  - Description: Independent record label associated with releases by The Used.
+  - Location: Los Angeles, United States (34.0522, -118.2437)
+  - Artists: The Used
+- Name: BYO Records
+  - ID: label_38
+  - Aliases: Better Youth Organization
+  - Description: Better Youth Organization Records, a Los Angeles punk label founded in 1982 by members of Youth Brigade:contentReference[oaicite:50]{index=50}. Released a Bouncing Souls split EP in 2002.
+  - Location: Los Angeles, United States (34.0522, -118.2437)
+  - Artists: The Bouncing Souls
+- Name: Century Media Records
+  - ID: label_40
+  - Aliases: MISSING
+  - Description: Heavy metal record label founded in 1988 in Germany, with a US branch. Released Glassjaw’s 2017 album "Material Control".
+  - Location: Leipzig, Germany (51.3397, 12.3731)
+  - Artists: Glassjaw
+- Name: Chunksaah Records
+  - ID: label_37
+  - Aliases: MISSING
+  - Description: Independent punk label founded in 1993 by The Bouncing Souls, originally in New Brunswick and now based in Asbury Park, NJ:contentReference[oaicite:49]{index=49}.
+  - Location: Asbury Park, United States (40.2204, -74.0121)
+  - Artists: The Bouncing Souls
+- Name: DreamWorks Records
+  - ID: label_26
+  - Aliases: MISSING
+  - Description: Defunct major record label that signed Brand New in 2003:contentReference[oaicite:32]{index=32}:contentReference[oaicite:33]{index=33}. It was acquired by Interscope Records in 2004.
+  - Location: Los Angeles, United States (34.0522, -118.2437)
+  - Artists: Brand New
+- Name: Emerald Moon Records
+  - ID: label_24
+  - Aliases: MISSING
+  - Description: PLACEHOLDER: This label data needs to be verified and completed
+  - Location: Baltimore, United States (39.2904, -76.6122)
+  - Artists: All Time Low
+- Name: Epic Records
+  - ID: label_12
+  - Aliases: MISSING
+  - Description: Major record label involved in releasing Alkaline Trio and Angels & Airwaves albums.
+  - Location: New York, United States (40.7128, -74.006)
+  - Artists: Alkaline Trio
+- Name: Epitaph Records
+  - ID: label_3
+  - Aliases: MISSING
+  - Description: Independent record label founded by Brett Gurewitz of Bad Religion.
+  - Location: Los Angeles, United States (34.0522, -118.2437)
+  - Artists: Rancid, NOFX
+- Name: Fantasy Records
+  - ID: label_21
+  - Aliases: MISSING
+  - Description: Record label associated with Taking Back Sunday.
+  - Location: Berkeley, United States (37.8716, -122.2727)
+  - Artists: Taking Back Sunday
+- Name: Fat Wreck Chords
+  - ID: label_4
+  - Aliases: Fat Wreck
+  - Description: Record label founded by Fat Mike of NOFX specialising in punk rock.
+  - Location: San Francisco, United States (37.7749, -122.4194)
+  - Artists: Rancid, NOFX
+- Name: Fueled by Ramen
+  - ID: label_17
+  - Aliases: MISSING
+  - Description: Record label that released albums by Paramore and All Time Low.
+  - Location: Tampa, United States (27.9641, -82.4526)
+  - Artists: Paramore, All Time Low, Taking Back Sunday
+- Name: Geffen Records
+  - ID: label_5
+  - Aliases: MISSING
+  - Description: Major record label based in Los Angeles.
+  - Location: Los Angeles, United States (34.0522, -118.2437)
+  - Artists: Angels & Airwaves
+- Name: Hellcat Records
+  - ID: label_2
+  - Aliases: MISSING
+  - Description: Record label founded by Tim Armstrong and associated with punk and ska. Part of the Epitaph group.
+  - Location: Los Angeles, United States (34.0522, -118.2437)
+  - Artists: Operation Ivy, Rancid, Transplants
+- Name: Hopeless Records
+  - ID: label_14
+  - Aliases: MISSING
+  - Description: Independent record label that has released albums by The Used, All Time Low and Taking Back Sunday.
+  - Location: Van Nuys, United States (34.1899, -118.4513)
+  - Artists: The Used, All Time Low, Taking Back Sunday
+- Name: I Am Records
+  - ID: label_41
+  - Aliases: MISSING
+  - Description: Independent imprint used by Glassjaw for self-releases (e.g., the 2011 "Our Color Green" EP).
+  - Location: Long Island, United States (40.6687, -73.5271)
+  - Artists: Glassjaw
+- Name: Interscope Records
+  - ID: label_25
+  - Aliases: MISSING
+  - Description: PLACEHOLDER: This label data needs to be verified and completed
+  - Location: Santa Monica, United States (34.0194, -118.4912)
+  - Artists: All Time Low
+- Name: Iodine Recordings
+  - ID: label_29
+  - Aliases: MISSING
+  - Description: Independent punk/hardcore label from Boston, Massachusetts, founded in 1996. Early home to bands such as Brand New:contentReference[oaicite:37]{index=37}.
+  - Location: Boston, United States (42.3601, -71.0589)
+  - Artists: Brand New
+- Name: Koch Records
+  - ID: label_35
+  - Aliases: E1 Music
+  - Description: Independent label (later eOne Music) based in New York. Released Hatebreed’s live and cover albums in 2008–2009:contentReference[oaicite:45]{index=45}.
+  - Location: New York, United States (40.7306, -73.9916)
+  - Artists: Hatebreed
+- Name: Lookout! Records
+  - ID: label_1
+  - Aliases: MISSING
+  - Description: Independent record label associated with the East Bay punk scene.
+  - Location: Berkeley, United States (37.8716, -122.2727)
+  - Artists: Operation Ivy, Rancid
+- Name: Mystic Records
+  - ID: label_18
+  - Aliases: MISSING
+  - Description: Independent label that released early NOFX recordings.
+  - Location: Hollywood, United States (34.0989, -118.3278)
+  - Artists: NOFX
+- Name: Nuclear Blast
+  - ID: label_36
+  - Aliases: MISSING
+  - Description: Independent metal label founded in 1987 in Donzdorf, Germany:contentReference[oaicite:46]{index=46}. Released Hatebreed’s recent albums (e.g., 2020’s "Weight of the False Self":contentReference[oaicite:47]{index=47}).
+  - Location: Donzdorf, Germany (48.6854, 9.8105)
+  - Artists: Hatebreed
+- Name: Pirates Press
+  - ID: label_19
+  - Aliases: MISSING
+  - Description: Label that pressed later Rancid releases.
+  - Location: San Francisco, United States (37.7749, -122.4194)
+  - Artists: Rancid
+- Name: Procrastinate! Music Traitors
+  - ID: label_31
+  - Aliases: MISSING
+  - Description: Independent label founded by Brand New for self-releasing their music (e.g., the 2017 album "Science Fiction":contentReference[oaicite:41]{index=41}).
+  - Location: Long Island, United States (40.6687, -73.5271)
+  - Artists: Brand New
+- Name: Pure Noise Records
+  - ID: label_39
+  - Aliases: MISSING
+  - Description: American punk/alternative record label founded in 2009 and originally based in Berkeley, California:contentReference[oaicite:51]{index=51}. Released recent Bouncing Souls material.
+  - Location: Berkeley, United States (37.8716, -122.2727)
+  - Artists: The Bouncing Souls
+- Name: Razor & Tie
+  - ID: label_30
+  - Aliases: MISSING
+  - Description: Independent label based in New York City, known for rock releases and compilations:contentReference[oaicite:38]{index=38}. Released Brand New’s album Deja Entendu (2003) in partnership with Triple Crown:contentReference[oaicite:39]{index=39}:contentReference[oaicite:40]{index=40} and later signed Hatebreed.
+  - Location: New York, United States (40.7282, -73.9946)
+  - Artists: Brand New, Hatebreed
+- Name: Reprise Records
+  - ID: label_15
+  - Aliases: MISSING
+  - Description: Major record label that released The Used's early albums.
+  - Location: Burbank, United States (34.1808, -118.3089)
+  - Artists: The Used
+- Name: Rise Records
+  - ID: label_8
+  - Aliases: MISSING
+  - Description: Independent record label releasing rock and punk music.
+  - Location: Portland, United States (45.5051, -122.675)
+  - Artists: Angels & Airwaves, Alkaline Trio, The Bouncing Souls
+- Name: Roadrunner Records
+  - ID: label_34
+  - Aliases: MISSING
+  - Description: Heavy rock/metal label founded in 1980 in the Netherlands, now a division of Warner Music based in New York:contentReference[oaicite:44]{index=44}. Released Glassjaw’s debut and later Hatebreed albums.
+  - Location: New York, United States (40.742, -73.9895)
+  - Artists: Glassjaw, Hatebreed
+- Name: Sire Records
+  - ID: label_23
+  - Aliases: MISSING
+  - Description: Label that released some of Taking Back Sunday's material.
+  - Location: New York, United States (40.7128, -74.006)
+  - Artists: Taking Back Sunday
+- Name: Stillborn Records
+  - ID: label_32
+  - Aliases: MISSING
+  - Description: Hardcore/metal label founded by Hatebreed vocalist Jamey Jasta, based in West Haven, Connecticut:contentReference[oaicite:42]{index=42}. Released early Hatebreed material.
+  - Location: West Haven, United States (41.27, -72.947)
+  - Artists: Hatebreed
+- Name: Suretone Records
+  - ID: label_6
+  - Aliases: MISSING
+  - Description: Record label associated with releases by Angels & Airwaves.
+  - Location: Los Angeles, United States (34.0522, -118.2437)
+  - Artists: Angels & Airwaves, Paramore, Taking Back Sunday
+- Name: Tiny Evil
+  - ID: label_28
+  - Aliases: MISSING
+  - Description: Imprint of Interscope Records run by executive Luke Wood. Notable releases included Brand New’s third album:contentReference[oaicite:35]{index=35}:contentReference[oaicite:36]{index=36}.
+  - Location: Los Angeles, United States (34.0522, -118.2437)
+  - Artists: Brand New
+- Name: To the Stars Records
+  - ID: label_7
+  - Aliases: MISSING
+  - Description: Independent label created by Tom DeLonge.
+  - Location: San Diego, United States (32.7157, -117.1611)
+  - Artists: Angels & Airwaves
+- Name: Triple Crown Records
+  - ID: label_27
+  - Aliases: MISSING
+  - Description: New York-based independent rock label founded in 1997 by Fred Feldman:contentReference[oaicite:34]{index=34}. Released Brand New’s debut album in 2001.
+  - Location: New York, United States (40.7128, -74.006)
+  - Artists: Brand New
+- Name: Universal Records
+  - ID: label_33
+  - Aliases: MISSING
+  - Description: Major record label under Universal Music Group. Hatebreed’s album "Perseverance" (2002) was released through Universal:contentReference[oaicite:43]{index=43}.
+  - Location: New York, United States (40.7648, -73.9808)
+  - Artists: Hatebreed
+- Name: V2 Records
+  - ID: label_11
+  - Aliases: MISSING
+  - Description: Record label that released Alkaline Trio's album Crimson.
+  - Location: New York, United States (40.7128, -74.006)
+  - Artists: Alkaline Trio
+- Name: Vagrant Records
+  - ID: label_10
+  - Aliases: MISSING
+  - Description: Independent rock label that released several Alkaline Trio albums.
+  - Location: Los Angeles, United States (34.0522, -118.2437)
+  - Artists: Alkaline Trio
+- Name: Victory Records
+  - ID: label_22
+  - Aliases: MISSING
+  - Description: Independent label known for releasing Taking Back Sunday's early albums.
+  - Location: Chicago, United States (41.8781, -87.6298)
+  - Artists: Taking Back Sunday
+- Name: Warner Bros. Records
+  - ID: label_20
+  - Aliases: Warner Bros., Warner Records
+  - Description: Major label that released some Rancid and Taking Back Sunday recordings.
+  - Location: Burbank, United States (34.1808, -118.3089)
+  - Artists: Rancid, Taking Back Sunday, Glassjaw, Head Automatica
+
+## Genres (20)
+- Alternative rock (genre_alternative_rock)
+- Emo (genre_emo)
+- Emo pop (genre_emo_pop)
+- Garage rock (genre_garage_rock)
+- Hardcore punk (genre_hardcore_punk)
+- Industrial rock (genre_industrial_rock)
+- Melodic hardcore (genre_melodic_hardcore)
+- New wave (genre_new_wave)
+- Pop punk (genre_pop_punk)
+- Pop rock (genre_pop_rock)
+- Post hardcore (genre_post_hardcore)
+- Power pop (genre_power_pop)
+- Power pop (genre_power_pop)
+- Punk rock (genre_punk_rock)
+- Rap rock (genre_rap_rock)
+- Screamo (genre_screamo)
+- Ska punk (genre_ska_punk)
+- Skate punk (genre_skate_punk)
+- Space rock (genre_space_rock)
+- Street punk (genre_street_punk)
+
+## Tags (7)
+- Bassist (tag_bassist)
+- Drummer (tag_drummer)
+- Guitarist (tag_guitarist)
+- Musician (tag_musician)
+- Producer (tag_producer)
+- Singer (tag_singer)
+- Vocalist (tag_vocalist)
+
+## Venues (0)
+
+## Events (0)
