@@ -250,28 +250,50 @@ const useDataStore = create((set, get) => ({
         return { ok: res.ok, status: res.status, statusText: res.statusText, text: res.ok ? await res.text() : '' }
       }
 
-      // Prefer data.js (full dataset). Fallback to data.json if unavailable.
-      let source = 'data.js'
-      let data
-      const jsResp = await fetchText('/data.js')
-      if (!jsResp.ok) {
-        console.warn('Primary data (/data.js) not found; falling back to /data.json')
-        const jsonResp = await fetchText('/data.json')
-        if (!jsonResp.ok) throw new Error(`Failed to fetch /data.json: ${jsonResp.status} ${jsonResp.statusText}`)
-        try {
-          data = JSON.parse(jsonResp.text)
-          source = 'data.json'
-        } catch (e) {
-          throw new Error(`Failed to parse /data.json: ${e.message}`)
+      // Load data from separate JSON files: nodesData.json and linksData.json
+      let source = 'nodesData.json + linksData.json'
+      let data = { nodes: [], links: [] }
+      
+      // Fetch nodes data
+      const nodesResp = await fetchText('/nodesData.json')
+      if (!nodesResp.ok) {
+        throw new Error(`Failed to fetch /nodesData.json: ${nodesResp.status} ${nodesResp.statusText}`)
+      }
+      
+      // Fetch links data
+      const linksResp = await fetchText('/linksData.json')
+      if (!linksResp.ok) {
+        throw new Error(`Failed to fetch /linksData.json: ${linksResp.status} ${linksResp.statusText}`)
+      }
+      
+      try {
+        // Parse nodes
+        const nodes = JSON.parse(nodesResp.text)
+        if (!Array.isArray(nodes)) {
+          throw new Error('nodesData.json must contain an array of nodes')
         }
-      } else {
-        try {
-          data = JSON.parse(jsResp.text)
-          source = 'data.js'
-        } catch (e) {
-          // Do NOT fallback on parse errors; surface them to the user so they can fix their data.js
-          throw new Error(`Failed to parse /data.js: ${e.message}`)
+        data.nodes = nodes
+        
+        // Parse links and transform to expected format
+        const linksArray = JSON.parse(linksResp.text)
+        if (!Array.isArray(linksArray)) {
+          throw new Error('linksData.json must contain an array of links')
         }
+        
+        // Transform links from {from, to, type, ...} to {source, target, type, ...} format
+        data.links = linksArray.map((link, index) => ({
+          id: `link_${index + 1}`,
+          type: link.type === 'member_of' ? 'membership' : link.type,
+          source: link.from,
+          target: link.to,
+          start_date: link.start_date,
+          end_date: link.end_date,
+          roles: link.roles || [],
+          attributes: link.attributes || {}
+        }))
+        
+      } catch (e) {
+        throw new Error(`Failed to parse JSON data: ${e.message}`)
       }
 
       // Validate data structure

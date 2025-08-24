@@ -37,6 +37,38 @@ function GraphView() {
     const nodeIdSet = new Set(filteredNodes.map(n => n.id))
     const filteredLinks = links.filter(l => nodeIdSet.has(l.source) && nodeIdSet.has(l.target))
 
+    // Precompute simple connection counts per node by link type for concise tooltips
+    const connById = {}
+    const bump = (id, type) => {
+      if (!id) return
+      if (!connById[id]) connById[id] = { total: 0, membership: 0, label_signing: 0, hosted_at: 0 }
+      connById[id].total += 1
+      if (type && connById[id][type] !== undefined) connById[id][type] += 1
+    }
+    for (const l of filteredLinks) {
+      bump(l.source, l.type)
+      bump(l.target, l.type)
+    }
+
+    // Precompute neighbor band names per member from links (link-first, ignore node arrays)
+    const bandNamesByMemberId = new Map()
+    for (const l of filteredLinks) {
+      if (l.type !== 'membership') continue
+      const src = byId[l.source]
+      const tgt = byId[l.target]
+      if (!src || !tgt) continue
+      // membership is member -> band (but tolerate either direction by checking types)
+      if (src.type === 'member' && tgt.type === 'band') {
+        const list = bandNamesByMemberId.get(src.id) || []
+        if (tgt.name && !list.includes(tgt.name)) list.push(tgt.name)
+        bandNamesByMemberId.set(src.id, list)
+      } else if (src.type === 'band' && tgt.type === 'member') {
+        const list = bandNamesByMemberId.get(tgt.id) || []
+        if (src.name && !list.includes(src.name)) list.push(src.name)
+        bandNamesByMemberId.set(tgt.id, list)
+      }
+    }
+
     console.log(`Graph: Rendering nodes=${filteredNodes.length}, links=${filteredLinks.length}`)
 
     const elements = [
@@ -259,7 +291,10 @@ function GraphView() {
       const typeText = node.type || ''
       const name = node.name || ''
       lines.push(`<div class="ht-name">${name}</div>`)
-      lines.push(`<div class="ht-type">${typeText}</div>`)
+      // Suppress raw type label for members; we will show a friendlier line below
+      if (typeText && typeText !== 'member') {
+        lines.push(`<div class="ht-type">${typeText}</div>`)
+      }
       const years = (node.start_date || node.end_date) ? `${node.start_date || ''}${(node.start_date && node.end_date) ? ' — ' : ''}${node.end_date || (node.start_date ? 'Present' : '')}` : ''
       if (years) lines.push(`<div class="ht-years">${years}</div>`)
       let firstTag = ''
@@ -273,6 +308,37 @@ function GraphView() {
         const city = node.location.city || ''
         const country = node.location.country || ''
         if (city || country) lines.push(`<div class="ht-loc">${[city, country].filter(Boolean).join(', ')}</div>`)
+      }
+      // Connection summary by type (compact, varies by node.type)
+      const c = connById[node.id] || { total: 0, membership: 0, label_signing: 0, hosted_at: 0 }
+      if (node.type === 'band') {
+        const members = c.membership
+        const labels = c.label_signing
+        const events = c.hosted_at
+        const parts = []
+        if (members) parts.push(`${members} member${members!==1?'s':''}`)
+        if (labels) parts.push(`${labels} label${labels!==1?'s':''}`)
+        if (events) parts.push(`${events} event${events!==1?'s':''}`)
+        if (parts.length) lines.push(`<div class="ht-years">${parts.join(' · ')}</div>`)
+      } else if (node.type === 'member') {
+        // Member-specific: derive memberships from links only (ignore node arrays)
+        const bandNames = (bandNamesByMemberId.get(node.id) || []).slice(0, 3)
+        const bandCount = (bandNamesByMemberId.get(node.id) || []).length || c.membership || 0
+        const roles = Array.isArray(node.roles) ? node.roles.filter(Boolean) : []
+        const memberOfLine = `<strong>Member of:</strong> ${bandCount} band${bandCount!==1?'s':''}${bandNames.length ? ' – ' + bandNames.join(', ') : ''}`
+        lines.push(`<div class="ht-years">${memberOfLine}</div>`)
+        if (roles.length) {
+          lines.push(`<div class="ht-years"><strong>Instruments:</strong> ${roles.join(', ')}</div>`)
+        }
+      } else if (node.type === 'label') {
+        const artists = c.label_signing
+        if (artists) lines.push(`<div class="ht-years">${artists} artist${artists!==1?'s':''}</div>`)
+      } else if (node.type === 'venue') {
+        const hosted = c.hosted_at
+        if (hosted) lines.push(`<div class="ht-years">${hosted} event${hosted!==1?'s':''}</div>`)
+      } else if (node.type === 'event') {
+        const venues = c.hosted_at
+        if (venues) lines.push(`<div class="ht-years">${venues} venue${venues!==1?'s':''}</div>`)
       }
       return lines.join('')
     }

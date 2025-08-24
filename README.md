@@ -28,7 +28,7 @@ npm run build
 ```
 
 ### Data
-- Primary dataset is `public/data.js` (JSON content). A smaller fallback is `public/data.json`.
+- Primary dataset is split into `public/nodesData.json` (nodes) and `public/linksData.json` (links). Legacy `public/data.js` is no longer used.
 
 ## Project structure
 ```

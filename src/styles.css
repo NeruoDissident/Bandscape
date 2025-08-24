@@ -259,11 +259,14 @@ html, body, #root {
   border-radius: 12px;
   box-shadow: 0 4px 16px rgba(0,0,0,0.12);
   max-width: 360px;
-  overflow: hidden;
+  max-height: 60vh;
+  overflow: hidden; /* clip rounded corners; inner container scrolls */
 }
 
 .info-content {
   padding: 12px 14px;
+  overflow: auto;            /* enable scroll for long content */
+  -webkit-overflow-scrolling: touch;
 }
 
 .info-content h3 { 
@@ -297,14 +300,10 @@ html, body, #root {
 
 .info-content .type, .info-content .location { margin: 4px 0; color: var(--muted-text); }
 .info-years { color: var(--muted-text); font-size: 12px; margin: 2px 0 6px; }
-.info-content .description { 
-  margin: 8px 0 0; 
-  color: #222; 
-  display: -webkit-box;
-  -webkit-line-clamp: 4;
-  -webkit-box-orient: vertical;
-  line-clamp: 4; /* standard property for compatibility */
-  overflow: hidden;
+.info-content .description {
+  margin: 8px 0 0;
+  color: #222;
+  white-space: normal;
 }
 
 .info-links { margin-top: 8px; display: flex; gap: 8px; flex-wrap: wrap; }

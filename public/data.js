@@ -5,2590 +5,1056 @@
       "type": "band",
       "name": "Operation Ivy",
       "aliases": [],
-      "description": "American punk rock band from Berkeley, California, formed in May 1987 and active until 1989. They mixed ska punk, punk rock and hardcore punk and were pivotal to the emergence of the East Bay sound.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 37.8716,
-        "lng": -122.2727,
-        "city": "Berkeley",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "1987",
-      "end_date": "1989",
-      "origin": "Berkeley, USA",
-      "tag_ids": [
-        "genre_ska_punk",
-        "genre_punk_rock",
-        "genre_hardcore_punk"
-      ],
-      "label_ids": [
-        "label_1",
-        "label_2"
-      ],
-      "member_ids": [
-        "member_1",
-        "member_2",
-        "member_3",
-        "member_4"
-      ]
-    },
-    {
-      "id": "band_2",
-      "type": "band",
-      "name": "Rancid",
-      "aliases": [],
-      "description": "American punk rock band formed in Berkeley, California in 1991 by Tim Armstrong and Matt Freeman. Rancid mixes punk rock, ska punk and street punk and helped revive mainstream interest in punk rock in the mid‑1990s.",
-      "image_url": "",
-      "location": {
-        "lat": 37.8716,
-        "lng": -122.2727,
-        "city": "Berkeley",
-        "country": "United States"
-      },
-      "start_date": "1991",
+      "start_date": null,
       "end_date": null,
-      "origin": "Berkeley, USA",
-      "tag_ids": [
-        "genre_punk_rock",
-        "genre_ska_punk",
-        "genre_street_punk"
-      ],
-      "label_ids": [
-        "label_2",
-        "label_3",
-        "label_4",
-        "label_1",
-        "label_5",
-        "label_6"
-      ],
-      "member_ids": [
-        "member_1",
-        "member_2",
-        "member_5",
-        "member_6",
-        "member_7"
-      ]
-    },
-    {
-      "id": "band_3",
-      "type": "band",
-      "name": "Blink‑182",
-      "aliases": [
-        "Blink 182",
-        "Blink"
-      ],
-      "description": "American rock band formed in Poway, California, in 1992. Their most famous line‑up consists of Mark Hoppus, Tom DeLonge and Travis Barker. The group blends catchy pop melodies with fast‑paced punk rock and helped popularise pop‑punk.",
-      "image_url": "",
-      "location": {
-        "lat": 32.7157,
-        "lng": -117.1611,
-        "city": "Poway",
-        "country": "United States"
-      },
-      "start_date": "1992",
-      "end_date": null,
-      "origin": "Poway, USA",
-      "tag_ids": [
-        "genre_pop_punk",
-        "genre_punk_rock"
-      ],
-      "label_ids": [],
-      "member_ids": [
-        "member_8",
-        "member_9",
-        "member_10",
-        "member_11",
-        "member_12"
-      ]
-    },
-    {
-      "id": "band_4",
-      "type": "band",
-      "name": "Angels & Airwaves",
-      "aliases": [
-        "AvA"
-      ],
-      "description": "American rock band formed in San Diego in 2005 by Tom DeLonge after Blink‑182 went on hiatus. They draw on alternative rock and space rock and have released multiple albums while functioning as a multimedia project.",
-      "image_url": "",
-      "location": {
-        "lat": 32.7157,
-        "lng": -117.1611,
-        "city": "San Diego",
-        "country": "United States"
-      },
-      "start_date": "2005",
-      "end_date": null,
-      "origin": "San Diego, USA",
-      "tag_ids": [
-        "genre_alternative_rock",
-        "genre_space_rock"
-      ],
-      "label_ids": [
-        "label_7",
-        "label_8",
-        "label_9",
-        "label_10"
-      ],
-      "member_ids": [
-        "member_9",
-        "member_13",
-        "member_14",
-        "member_15",
-        "member_16",
-        "member_17",
-        "member_18",
-        "member_19",
-        "member_86",
-        "member_87",
-        "member_88",
-        "member_89",
-        "member_90"
-      ]
-    },
-    {
-      "id": "band_5",
-      "type": "band",
-      "name": "Transplants",
-      "aliases": [],
-      "description": "American punk rock and rap rock supergroup from Los Angeles. The band formed in 1999 when Tim Armstrong played beats to his friend Rob Aston; the project grew to include Travis Barker and others.",
-      "image_url": "",
-      "location": {
-        "lat": 34.0522,
-        "lng": -118.2437,
-        "city": "Los Angeles",
-        "country": "United States"
-      },
-      "start_date": "1999",
-      "end_date": null,
-      "origin": "Los Angeles, USA",
-      "tag_ids": [
-        "genre_punk_rock",
-        "genre_rap_rock"
-      ],
-      "label_ids": [
-        "label_2",
-        "label_11"
-      ],
-      "member_ids": [
-        "member_1",
-        "member_20",
-        "member_10",
-        "member_21"
-      ]
-    },
-    {
-      "id": "band_6",
-      "type": "band",
-      "name": "Alkaline Trio",
-      "aliases": [],
-      "description": "American punk rock band from Chicago, Illinois. Founded in 1996, the trio blends pop‑punk, punk rock, emo and horror punk.",
-      "image_url": "",
-      "location": {
-        "lat": 41.8781,
-        "lng": -87.6298,
-        "city": "Chicago",
-        "country": "United States"
-      },
-      "start_date": "1996",
-      "end_date": null,
-      "origin": "Chicago, USA",
-      "tag_ids": [
-        "genre_pop_punk",
-        "genre_punk_rock",
-        "genre_emo",
-        "genre_horror_punk"
-      ],
-      "label_ids": [
-        "label_12",
-        "label_13",
-        "label_14",
-        "label_15",
-        "label_3",
-        "label_10"
-      ],
-      "member_ids": [
-        "member_12",
-        "member_22",
-        "member_16",
-        "member_23",
-        "member_24",
-        "member_25",
-        "member_26",
-        "member_87",
-        "member_95",
-        "member_96",
-        "member_97",
-        "member_98"
-      ]
-    },
-    {
-      "id": "band_7",
-      "type": "band",
-      "name": "The Used",
-      "aliases": [],
-      "description": "American rock band from Orem, Utah, formed in 2000. Their music incorporates emo, screamo, post‑hardcore and pop‑punk.",
-      "image_url": "",
-      "location": {
-        "lat": 40.2969,
-        "lng": -111.6947,
-        "city": "Orem",
-        "country": "United States"
-      },
-      "start_date": "2000",
-      "end_date": null,
-      "origin": "Orem, USA",
-      "tag_ids": [
-        "genre_emo",
-        "genre_screamo",
-        "genre_post_hardcore",
-        "genre_pop_punk",
-        "genre_punk_rock",
-        "genre_alternative_rock"
-      ],
-      "label_ids": [
-        "label_16",
-        "label_17",
-        "label_18"
-      ],
-      "member_ids": [
-        "member_27",
-        "member_28",
-        "member_29",
-        "member_30",
-        "member_31",
-        "member_7",
-        "member_6"
-      ]
-    },
-    {
-      "id": "band_8",
-      "type": "band",
-      "name": "Nine Inch Nails",
-      "aliases": [
-        "NIN"
-      ],
-      "description": "American industrial rock band formed in Cleveland, Ohio in 1988. Singer‑songwriter and producer Trent Reznor founded the project; Atticus Ross became a full member in 2016.",
-      "image_url": "",
-      "location": {
-        "lat": 41.4993,
-        "lng": -81.6944,
-        "city": "Cleveland",
-        "country": "United States"
-      },
-      "start_date": "1988",
-      "end_date": null,
-      "origin": "Cleveland, USA",
-      "tag_ids": [
-        "genre_industrial_rock"
-      ],
-      "label_ids": [],
-      "member_ids": [
-        "member_32",
-        "member_33",
-        "member_34",
-        "member_35",
-        "member_14"
-      ]
-    },
-    {
-      "id": "band_9",
-      "type": "band",
-      "name": "Paramore",
-      "aliases": [],
-      "description": "American rock band from Franklin, Tennessee, formed in 2004. Since 2017 the band has consisted of Hayley Williams, Taylor York and Zac Farro.",
-      "image_url": "",
-      "location": {
-        "lat": 36.1627,
-        "lng": -86.7816,
-        "city": "Franklin",
-        "country": "United States"
-      },
-      "start_date": "2004",
-      "end_date": null,
-      "origin": "Franklin, USA",
-      "tag_ids": [
-        "genre_pop_punk",
-        "genre_emo",
-        "genre_pop_rock",
-        "genre_alternative_rock",
-        "genre_power_pop",
-        "genre_new_wave"
-      ],
-      "label_ids": [
-        "label_19",
-        "label_6"
-      ],
-      "member_ids": [
-        "member_36",
-        "member_37",
-        "member_38",
-        "member_39",
-        "member_40",
-        "member_41",
-        "member_42",
-        "member_43"
-      ]
-    },
-    {
-      "id": "band_10",
-      "type": "band",
-      "name": "All Time Low",
-      "aliases": [
-        "ATL"
-      ],
-      "description": "American rock band from Towson, Maryland, formed in 2003. Their line‑up consists of Alex Gaskarth, Jack Barakat, Zack Merrick and Rian Dawson.",
-      "image_url": "",
-      "location": {
-        "lat": 39.2904,
-        "lng": -76.6122,
-        "city": "Towson",
-        "country": "United States"
-      },
-      "start_date": "2003",
-      "end_date": null,
-      "origin": "Towson, USA",
-      "tag_ids": [
-        "genre_pop_punk",
-        "genre_pop_rock",
-        "genre_power_pop",
-        "genre_emo_pop",
-        "genre_alternative_rock"
-      ],
-      "label_ids": [
-        "label_20",
-        "label_17",
-        "label_21",
-        "label_19"
-      ],
-      "member_ids": [
-        "member_44",
-        "member_45",
-        "member_46",
-        "member_47"
-      ]
-    },
-    {
-      "id": "band_11",
-      "type": "band",
-      "name": "NOFX",
-      "aliases": [],
-      "description": "Punk rock band formed in Los Angeles in 1983. Original members Fat Mike, Eric Melvin and Erik Sandin have appeared on every release; El Hefe joined in 1991.",
-      "image_url": "",
-      "location": {
-        "lat": 34.0522,
-        "lng": -118.2437,
-        "city": "Los Angeles",
-        "country": "United States"
-      },
-      "start_date": "1983",
-      "end_date": "2024",
-      "origin": "Los Angeles, USA",
-      "tag_ids": [
-        "genre_punk_rock",
-        "genre_melodic_hardcore",
-        "genre_skate_punk",
-        "genre_ska_punk",
-        "genre_pop_punk"
-      ],
-      "label_ids": [
-        "label_22",
-        "label_3",
-        "label_4"
-      ],
-      "member_ids": [
-        "member_48",
-        "member_49",
-        "member_50",
-        "member_51"
-      ]
-    },
-    {
-      "id": "band_12",
-      "type": "band",
-      "name": "Taking Back Sunday",
-      "aliases": [],
-      "description": "American rock band from Amityville, New York, formed by guitarist Eddie Reyes and bassist Jesse Lacey in late 1999. The band is associated with emo, post‑hardcore, pop‑punk and alternative rock.",
-      "image_url": "",
-      "location": {
-        "lat": 40.7891,
-        "lng": -73.135,
-        "city": "Amityville",
-        "country": "United States"
-      },
-      "start_date": "1999",
-      "end_date": null,
-      "origin": "Amityville, USA",
-      "tag_ids": [
-        "genre_emo",
-        "genre_post_hardcore",
-        "genre_pop_punk",
-        "genre_alternative_rock"
-      ],
-      "label_ids": [
-        "label_23",
-        "label_6",
-        "label_5",
-        "label_24",
-        "label_17"
-      ],
-      "member_ids": [
-        "member_43",
-        "member_44",
-        "member_45",
-        "member_46",
-        "member_47",
-        "member_48",
-        "member_49",
-        "member_50",
-        "member_51",
-        "member_52",
-        "member_53"
-      ]
+      "origin": "",
+      "tag_ids": []
     },
     {
       "id": "member_1",
       "type": "member",
-      "name": "Tim Armstrong",
-      "aliases": [
-        "Lint",
-        "Tim Timebomb"
-      ],
-      "description": "American musician known for co‑founding Operation Ivy and Rancid; guitarist and vocalist.",
+      "name": "Jesse Michaels",
+      "aliases": [],
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 37.8869,
-        "lng": -122.2978,
-        "city": "Albany",
-        "country": "United States"
-      },
-      "start_date": "1985",
-      "end_date": null,
-      "tag_ids": [
-        "tag_musician",
-        "tag_producer"
-      ],
-      "band_ids": [
-        "band_1",
-        "band_2",
-        "band_5",
-        "band_13",
-        "band_14",
-        "band_15",
-        "band_16",
-        "band_17",
-        "band_22",
-        "band_21"
-      ],
-      "roles": [
-        "guitar",
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_2",
       "type": "member",
-      "name": "Matt Freeman",
-      "aliases": [
-        "Matt McCall"
-      ],
-      "description": "American bassist and vocalist, founding member of Operation Ivy and Rancid.",
+      "name": "Tim Armstrong",
+      "aliases": [],
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 37.8716,
-        "lng": -122.2727,
-        "city": "Berkeley",
-        "country": "United States"
-      },
-      "start_date": "1985",
-      "end_date": null,
-      "tag_ids": [
-        "tag_bassist"
-      ],
-      "band_ids": [
-        "band_1",
-        "band_2",
-        "band_13",
-        "band_14",
-        "band_15",
-        "band_16",
-        "band_17",
-        "band_22",
-        "band_29"
-      ],
-      "roles": [
-        "bass",
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_3",
       "type": "member",
-      "name": "Jesse Michaels",
+      "name": "Matt Freeman",
       "aliases": [],
-      "description": "American vocalist and artist best known as the singer for Operation Ivy.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 37.8716,
-        "lng": -122.2727,
-        "city": "Berkeley",
-        "country": "United States"
-      },
-      "start_date": "1987",
-      "end_date": null,
-      "tag_ids": [
-        "tag_vocalist"
-      ],
-      "band_ids": [
-        "band_1",
-        "band_21",
-        "band_18",
-        "band_19",
-        "band_20"
-      ],
-      "roles": [
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_4",
       "type": "member",
       "name": "Dave Mello",
       "aliases": [],
-      "description": "Drummer known for his work with Operation Ivy and related bands.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_2",
+      "type": "band",
+      "name": "Rancid",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "1987",
+      "start_date": null,
       "end_date": null,
-      "tag_ids": [
-        "tag_drummer"
-      ],
-      "band_ids": [
-        "band_1",
-        "band_15",
-        "band_16"
-      ],
-      "roles": [
-        "drums"
-      ]
+      "origin": "",
+      "tag_ids": []
     },
     {
       "id": "member_5",
       "type": "member",
       "name": "Lars Frederiksen",
       "aliases": [],
-      "description": "Guitarist and vocalist, member of Rancid and leader of Lars Frederiksen and the Bastards.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 37.2872,
-        "lng": -121.95,
-        "city": "Campbell",
-        "country": "United States"
-      },
-      "start_date": "1993",
-      "end_date": null,
-      "tag_ids": [
-        "tag_guitarist",
-        "tag_vocalist"
-      ],
-      "band_ids": [
-        "band_2",
-        "band_23"
-      ],
-      "roles": [
-        "guitar",
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_6",
       "type": "member",
       "name": "Branden Steineckert",
       "aliases": [],
-      "description": "Drummer who joined Rancid in 2006 and previously played in The Used.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 42.8804,
-        "lng": -112.4529,
-        "city": "Pocatello",
-        "country": "United States"
-      },
-      "start_date": "2000",
-      "end_date": null,
-      "tag_ids": [
-        "tag_drummer"
-      ],
-      "band_ids": [
-        "band_2",
-        "band_7"
-      ],
-      "roles": [
-        "drums"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_7",
       "type": "member",
       "name": "Brett Reed",
       "aliases": [],
-      "description": "Original drummer for Rancid from 1991 to 2006.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_3",
+      "type": "band",
+      "name": "Blink-182",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 37.8044,
-        "lng": -122.2711,
-        "city": "Oakland",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "1991",
+      "start_date": null,
       "end_date": null,
-      "tag_ids": [
-        "tag_drummer"
-      ],
-      "band_ids": [
-        "band_2",
-        "band_17"
-      ],
-      "roles": [
-        "drums"
-      ]
+      "origin": "",
+      "tag_ids": []
     },
     {
       "id": "member_8",
       "type": "member",
       "name": "Mark Hoppus",
       "aliases": [],
-      "description": "Bassist and vocalist best known for his work in Blink‑182 and as a producer.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 35.6225,
-        "lng": -117.6709,
-        "city": "Ridgecrest",
-        "country": "United States"
-      },
-      "start_date": "1992",
-      "end_date": null,
-      "tag_ids": [
-        "tag_bassist",
-        "tag_singer"
-      ],
-      "band_ids": [
-        "band_3",
-        "band_25",
-        "band_26"
-      ],
-      "roles": [
-        "bass",
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_9",
       "type": "member",
       "name": "Tom DeLonge",
       "aliases": [],
-      "description": "Guitarist, vocalist and entrepreneur; co‑founder of Blink‑182 and leader of Angels & Airwaves.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 32.9628,
-        "lng": -117.0362,
-        "city": "Poway",
-        "country": "United States"
-      },
-      "start_date": "1992",
-      "end_date": null,
-      "tag_ids": [
-        "tag_guitarist",
-        "tag_vocalist"
-      ],
-      "band_ids": [
-        "band_3",
-        "band_4",
-        "band_24"
-      ],
-      "roles": [
-        "guitar",
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_10",
       "type": "member",
       "name": "Travis Barker",
-      "aliases": [
-        "The Baron von Tito",
-        "Bones",
-        "Clarence"
-      ],
-      "description": "Drummer known for Blink‑182 and as a prolific collaborator across genres.",
+      "aliases": [],
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 34.0922,
-        "lng": -117.435,
-        "city": "Fontana",
-        "country": "United States"
-      },
-      "start_date": "1996",
-      "end_date": null,
-      "tag_ids": [
-        "tag_drummer"
-      ],
-      "band_ids": [
-        "band_3",
-        "band_5",
-        "band_24",
-        "band_25",
-        "band_27"
-      ],
-      "roles": [
-        "drums"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_11",
       "type": "member",
       "name": "Scott Raynor",
       "aliases": [],
-      "description": "Founding drummer of Blink‑182 who played from 1992 until 1998.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 32.9628,
-        "lng": -117.0362,
-        "city": "Poway",
-        "country": "United States"
-      },
-      "start_date": "1992",
-      "end_date": null,
-      "tag_ids": [
-        "tag_drummer"
-      ],
-      "band_ids": [
-        "band_3"
-      ],
-      "roles": [
-        "drums"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_12",
       "type": "member",
       "name": "Matt Skiba",
       "aliases": [],
-      "description": "Guitarist and vocalist, co‑founder of Alkaline Trio and former member of Blink‑182.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_4",
+      "type": "band",
+      "name": "Angels & Airwaves",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 41.8781,
-        "lng": -87.6298,
-        "city": "Chicago",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "1996",
+      "start_date": null,
       "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_6",
-        "band_3"
-      ],
-      "roles": [
-        "guitar",
-        "vocals"
-      ]
+      "origin": "",
+      "tag_ids": []
     },
     {
       "id": "member_13",
       "type": "member",
-      "name": "Skinhead Rob",
+      "name": "David Kennedy",
       "aliases": [],
-      "description": "Vocalist and songwriter, member of the rap rock supergroup Transplants.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 36.7468,
-        "lng": -119.7726,
-        "city": "Fresno",
-        "country": "United States"
-      },
-      "start_date": "1999",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_5"
-      ],
-      "roles": [
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_14",
       "type": "member",
-      "name": "Kevin Bivona",
+      "name": "Ilan Rubin",
       "aliases": [],
-      "description": "Multi‑instrumentalist who plays bass and keyboards in Transplants and The Interrupters.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 34.1899,
-        "lng": -118.4513,
-        "city": "Van Nuys",
-        "country": "United States"
-      },
-      "start_date": "2005",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_5",
-        "band_28"
-      ],
-      "roles": [
-        "bass",
-        "keyboards"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_15",
       "type": "member",
-      "name": "Dan Andriano",
+      "name": "Matt Rubano",
       "aliases": [],
-      "description": "Bassist and vocalist, known for his work in Alkaline Trio.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 42.0354,
-        "lng": -88.2826,
-        "city": "Elgin",
-        "country": "United States"
-      },
-      "start_date": "1997",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_6"
-      ],
-      "roles": [
-        "bass",
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_16",
       "type": "member",
-      "name": "Bert McCracken",
+      "name": "Atom Willard",
       "aliases": [],
-      "description": "Lead vocalist of The Used.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 40.2338,
-        "lng": -111.6585,
-        "city": "Provo",
-        "country": "United States"
-      },
-      "start_date": "2000",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_7",
-        "band_6"
-      ],
-      "roles": [
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_17",
       "type": "member",
-      "name": "Jeph Howard",
+      "name": "Ryan Sinn",
       "aliases": [],
-      "description": "Bassist of The Used since its formation.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 40.2969,
-        "lng": -111.6947,
-        "city": "Orem",
-        "country": "United States"
-      },
-      "start_date": "2000",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_7"
-      ],
-      "roles": [
-        "bass"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_18",
       "type": "member",
-      "name": "Dan Whitesides",
+      "name": "Matt Wachter",
       "aliases": [],
-      "description": "Drummer for The Used since 2006.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 40.7608,
-        "lng": -111.891,
-        "city": "Salt Lake City",
-        "country": "United States"
-      },
-      "start_date": "2006",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_7"
-      ],
-      "roles": [
-        "drums"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_19",
       "type": "member",
-      "name": "Joey Bradford",
+      "name": "Eddie Breckenridge",
       "aliases": [],
-      "description": "Guitarist for The Used since 2018.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_5",
+      "type": "band",
+      "name": "Transplants",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "2018",
+      "start_date": null,
       "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_7"
-      ],
-      "roles": [
-        "guitar"
-      ]
+      "origin": "",
+      "tag_ids": []
     },
     {
       "id": "member_20",
       "type": "member",
-      "name": "Justin Shekoski",
+      "name": "Rob Aston",
       "aliases": [],
-      "description": "Guitarist who played with The Used from 2015 to 2018.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2015",
-      "end_date": "2018",
-      "tag_ids": [],
-      "band_ids": [
-        "band_7"
-      ],
-      "roles": [
-        "guitar"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_21",
       "type": "member",
-      "name": "Quinn Allman",
+      "name": "Kevin Bivona",
       "aliases": [],
-      "description": "Guitarist and founding member of The Used who left in 2015.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_6",
+      "type": "band",
+      "name": "Alkaline Trio",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 40.2969,
-        "lng": -111.6947,
-        "city": "Orem",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "2000",
-      "end_date": "2015",
-      "tag_ids": [],
-      "band_ids": [
-        "band_7"
-      ],
-      "roles": [
-        "guitar"
-      ]
+      "start_date": null,
+      "end_date": null,
+      "origin": "",
+      "tag_ids": []
     },
     {
       "id": "member_22",
       "type": "member",
-      "name": "Trent Reznor",
+      "name": "Dan Andriano",
       "aliases": [],
-      "description": "Singer‑songwriter, producer and founder of Nine Inch Nails.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 41.0037,
-        "lng": -80.347,
-        "city": "New Castle",
-        "country": "United States"
-      },
-      "start_date": "1988",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_8"
-      ],
-      "roles": [
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_23",
       "type": "member",
-      "name": "Atticus Ross",
+      "name": "Rob Doran",
       "aliases": [],
-      "description": "Musician and composer who became an official member of Nine Inch Nails in 2016.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 51.5074,
-        "lng": -0.1278,
-        "city": "London",
-        "country": "United Kingdom"
-      },
-      "start_date": "2016",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_8"
-      ],
-      "roles": [
-        "keyboards"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_24",
       "type": "member",
-      "name": "Robin Finck",
+      "name": "Glenn Porter",
       "aliases": [],
-      "description": "Guitarist known for touring and recording with Nine Inch Nails.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 33.9526,
-        "lng": -84.5499,
-        "city": "Marietta",
-        "country": "United States"
-      },
-      "start_date": "1994",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_8"
-      ],
-      "roles": [
-        "guitar"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_25",
       "type": "member",
-      "name": "Alessandro Cortini",
+      "name": "Mike Felumlee",
       "aliases": [],
-      "description": "Multi‑instrumentalist who plays bass, keyboards and guitars for Nine Inch Nails.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 44.4949,
-        "lng": 11.3426,
-        "city": "Bologna",
-        "country": "Italy"
-      },
-      "start_date": "2005",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_8"
-      ],
-      "roles": [
-        "bass",
-        "keyboards",
-        "guitar"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_26",
       "type": "member",
-      "name": "Ilan Rubin",
+      "name": "Derek Grant",
       "aliases": [],
-      "description": "Drummer and multi‑instrumentalist who plays with Angels & Airwaves and Nine Inch Nails.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_7",
+      "type": "band",
+      "name": "The Used",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 32.7157,
-        "lng": -117.1611,
-        "city": "San Diego",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "2008",
+      "start_date": null,
       "end_date": null,
-      "tag_ids": [
-        "tag_drummer"
-      ],
-      "band_ids": [
-        "band_4",
-        "band_8"
-      ],
-      "roles": [
-        "drums"
-      ]
+      "origin": "",
+      "tag_ids": []
     },
     {
       "id": "member_27",
       "type": "member",
-      "name": "Hayley Williams",
+      "name": "Bert McCracken",
       "aliases": [],
-      "description": "Lead vocalist of Paramore.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 32.3643,
-        "lng": -88.7037,
-        "city": "Meridian",
-        "country": "United States"
-      },
-      "start_date": "2004",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_9"
-      ],
-      "roles": [
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_28",
       "type": "member",
-      "name": "Taylor York",
+      "name": "Jeph Howard",
       "aliases": [],
-      "description": "Guitarist and keyboardist for Paramore.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 36.1627,
-        "lng": -86.7816,
-        "city": "Nashville",
-        "country": "United States"
-      },
-      "start_date": "2009",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_9"
-      ],
-      "roles": [
-        "guitar",
-        "keyboards"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_29",
       "type": "member",
-      "name": "Zac Farro",
+      "name": "Dan Whitesides",
       "aliases": [],
-      "description": "Drummer and founding member of Paramore.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 39.85,
-        "lng": -74.927,
-        "city": "Voorhees Township",
-        "country": "United States"
-      },
-      "start_date": "2004",
-      "end_date": null,
-      "tag_ids": [
-        "tag_drummer"
-      ],
-      "band_ids": [
-        "band_9"
-      ],
-      "roles": [
-        "drums"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_30",
       "type": "member",
-      "name": "Josh Farro",
+      "name": "Joey Bradford",
       "aliases": [],
-      "description": "Guitarist and founding member of Paramore who left in 2010.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 39.85,
-        "lng": -74.927,
-        "city": "Voorhees Township",
-        "country": "United States"
-      },
-      "start_date": "2004",
-      "end_date": "2010",
-      "tag_ids": [],
-      "band_ids": [
-        "band_9"
-      ],
-      "roles": [
-        "guitar"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_31",
       "type": "member",
-      "name": "Jeremy Davis",
+      "name": "Quinn Allman",
       "aliases": [],
-      "description": "Bass player for Paramore until 2015.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 34.7465,
-        "lng": -92.2896,
-        "city": "Little Rock",
-        "country": "United States"
-      },
-      "start_date": "2004",
-      "end_date": "2015",
-      "tag_ids": [],
-      "band_ids": [
-        "band_9"
-      ],
-      "roles": [
-        "bass"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_32",
       "type": "member",
-      "name": "Jason Bynum",
+      "name": "Justin Shekoski",
       "aliases": [],
-      "description": "Rhythm guitarist for Paramore (2004–2005).",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_8",
+      "type": "band",
+      "name": "Nine Inch Nails",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 36.1627,
-        "lng": -86.7816,
-        "city": "Nashville",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "2004",
-      "end_date": "2005",
-      "tag_ids": [],
-      "band_ids": [
-        "band_9"
-      ],
-      "roles": [
-        "guitar"
-      ]
+      "start_date": null,
+      "end_date": null,
+      "origin": "",
+      "tag_ids": []
     },
     {
       "id": "member_33",
       "type": "member",
-      "name": "Hunter Lamb",
+      "name": "Trent Reznor",
       "aliases": [],
-      "description": "Rhythm guitarist for Paramore (2006–2007).",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2006",
-      "end_date": "2007",
-      "tag_ids": [],
-      "band_ids": [
-        "band_9"
-      ],
-      "roles": [
-        "guitar"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_34",
       "type": "member",
-      "name": "John Hembree",
+      "name": "Atticus Ross",
       "aliases": [],
-      "description": "Bassist who briefly joined Paramore in 2005.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2005",
-      "end_date": "2005",
-      "tag_ids": [],
-      "band_ids": [
-        "band_9"
-      ],
-      "roles": [
-        "bass"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_35",
       "type": "member",
-      "name": "Alex Gaskarth",
+      "name": "Robin Finck",
       "aliases": [],
-      "description": "Lead vocalist and rhythm guitarist of All Time Low.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 51.7729,
-        "lng": 0.1023,
-        "city": "Harlow",
-        "country": "United Kingdom"
-      },
-      "start_date": "2003",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_10",
-        "band_26"
-      ],
-      "roles": [
-        "vocals",
-        "guitar"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_36",
       "type": "member",
-      "name": "Jack Barakat",
+      "name": "Alessandro Cortini",
       "aliases": [],
-      "description": "Lead guitarist of All Time Low.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": "Lebanon"
-      },
-      "start_date": "2003",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_10"
-      ],
-      "roles": [
-        "guitar"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_37",
       "type": "member",
-      "name": "Rian Dawson",
+      "name": "Josh Freese",
       "aliases": [],
-      "description": "Drummer of All Time Low.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 39.2904,
-        "lng": -76.6122,
-        "city": "Baltimore",
-        "country": "United States"
-      },
-      "start_date": "2003",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_10"
-      ],
-      "roles": [
-        "drums"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_38",
       "type": "member",
-      "name": "Zack Merrick",
+      "name": "Danny Lohner",
       "aliases": [],
-      "description": "Bassist and backing vocalist of All Time Low.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 39.2904,
-        "lng": -76.6122,
-        "city": "Baltimore",
-        "country": "United States"
-      },
-      "start_date": "2003",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_10"
-      ],
-      "roles": [
-        "bass",
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_39",
       "type": "member",
-      "name": "Fat Mike",
+      "name": "Jeordie White",
       "aliases": [],
-      "description": "Singer and bassist who co‑founded NOFX.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_9",
+      "type": "band",
+      "name": "Paramore",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 42.341,
-        "lng": -71.2171,
-        "city": "Newton",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "1983",
+      "start_date": null,
       "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_11"
-      ],
-      "roles": [
-        "vocals",
-        "bass"
-      ]
+      "origin": "",
+      "tag_ids": []
     },
     {
       "id": "member_40",
       "type": "member",
-      "name": "Eric Melvin",
+      "name": "Hayley Williams",
       "aliases": [],
-      "description": "Guitarist and founding member of NOFX.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 34.0522,
-        "lng": -118.2437,
-        "city": "Los Angeles",
-        "country": "United States"
-      },
-      "start_date": "1983",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_11"
-      ],
-      "roles": [
-        "guitar"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_41",
       "type": "member",
-      "name": "Erik Sandin",
+      "name": "Taylor York",
       "aliases": [],
-      "description": "Drummer and founding member of NOFX.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 34.0989,
-        "lng": -118.3278,
-        "city": "Los Angeles",
-        "country": "United States"
-      },
-      "start_date": "1983",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_11"
-      ],
-      "roles": [
-        "drums"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_42",
       "type": "member",
-      "name": "El Hefe",
+      "name": "Zac Farro",
       "aliases": [],
-      "description": "Guitarist and trumpeter who joined NOFX in 1991.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 38.5816,
-        "lng": -121.4944,
-        "city": "Sacramento",
-        "country": "United States"
-      },
-      "start_date": "1991",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_11"
-      ],
-      "roles": [
-        "guitar"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_43",
       "type": "member",
-      "name": "Adam Lazzara",
+      "name": "Josh Farro",
       "aliases": [],
-      "description": "Lead vocalist of Taking Back Sunday since 2001.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 34.7639,
-        "lng": -87.6986,
-        "city": "Sheffield",
-        "country": "United States"
-      },
-      "start_date": "2001",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_12"
-      ],
-      "roles": [
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_44",
       "type": "member",
-      "name": "John Nolan",
+      "name": "Jason Bynum",
       "aliases": [],
-      "description": "Lead guitarist, keyboardist and vocalist for Taking Back Sunday (1999–2003; 2010–present).",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 39.2904,
-        "lng": -76.6122,
-        "city": "Baltimore",
-        "country": "United States"
-      },
-      "start_date": "1999",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_12"
-      ],
-      "roles": [
-        "guitar",
-        "keyboards",
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_45",
       "type": "member",
-      "name": "Shaun Cooper",
+      "name": "Hunter Lamb",
       "aliases": [],
-      "description": "Bass guitarist for Taking Back Sunday (2001–2003; 2010–present).",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2001",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_12"
-      ],
-      "roles": [
-        "bass"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_46",
       "type": "member",
-      "name": "Mark O'Connell",
+      "name": "Jeremy Davis",
       "aliases": [],
-      "description": "Drummer for Taking Back Sunday since 2001.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2001",
-      "end_date": null,
-      "tag_ids": [
-        "tag_drummer"
-      ],
-      "band_ids": [
-        "band_12"
-      ],
-      "roles": [
-        "drums"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_47",
       "type": "member",
-      "name": "Matt Rubano",
+      "name": "John Hembree",
       "aliases": [],
-      "description": "Bassist for Taking Back Sunday (2003–2010) and current bassist for Angels & Airwaves.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_10",
+      "type": "band",
+      "name": "All Time Low",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 40.6643,
-        "lng": -73.7085,
-        "city": "Valley Stream",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "2003",
+      "start_date": null,
       "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_12",
-        "band_4"
-      ],
-      "roles": [
-        "bass"
-      ]
+      "origin": "",
+      "tag_ids": []
     },
     {
       "id": "member_48",
       "type": "member",
-      "name": "Fred Mascherino",
+      "name": "Alex Gaskarth",
       "aliases": [],
-      "description": "Guitarist and vocalist for Taking Back Sunday (2003–2008).",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 39.9832,
-        "lng": -75.8238,
-        "city": "Coatesville",
-        "country": "United States"
-      },
-      "start_date": "2003",
-      "end_date": "2008",
-      "tag_ids": [],
-      "band_ids": [
-        "band_12"
-      ],
-      "roles": [
-        "guitar",
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_49",
       "type": "member",
-      "name": "Matthew Fazzi",
+      "name": "Jack Barakat",
       "aliases": [],
-      "description": "Guitarist and keyboardist for Taking Back Sunday (2008–2010).",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 42.8865,
-        "lng": -78.8784,
-        "city": "Buffalo",
-        "country": "United States"
-      },
-      "start_date": "2008",
-      "end_date": "2010",
-      "tag_ids": [],
-      "band_ids": [
-        "band_12"
-      ],
-      "roles": [
-        "guitar",
-        "keyboards"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_50",
       "type": "member",
-      "name": "Eddie Reyes",
+      "name": "Rian Dawson",
       "aliases": [],
-      "description": "Guitarist who co‑founded Taking Back Sunday (1999–2018).",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1999",
-      "end_date": "2018",
-      "tag_ids": [],
-      "band_ids": [
-        "band_12"
-      ],
-      "roles": [
-        "guitar"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_51",
       "type": "member",
-      "name": "Antonio Longo",
+      "name": "Zack Merrick",
       "aliases": [],
-      "description": "Original lead vocalist of Taking Back Sunday (1999–2001).",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1999",
-      "end_date": "2001",
-      "tag_ids": [],
-      "band_ids": [
-        "band_12"
-      ],
-      "roles": [
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_52",
       "type": "member",
-      "name": "Jesse Lacey",
+      "name": "Chris Cortilello",
       "aliases": [],
-      "description": "Bassist and vocalist in the earliest incarnation of Taking Back Sunday and later leader of Brand New.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 40.7259,
-        "lng": -73.5143,
-        "city": "Levittown",
-        "country": "United States"
-      },
-      "start_date": "1999",
-      "end_date": "1999",
-      "tag_ids": [],
-      "band_ids": [
-        "band_12",
-        "band_30",
-        "band_31"
-      ],
-      "roles": [
-        "bass",
-        "vocals"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_53",
       "type": "member",
-      "name": "Steven DeJoseph",
+      "name": "TJ Ihle",
       "aliases": [],
-      "description": "Drummer who played with Taking Back Sunday in 1999.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_11",
+      "type": "band",
+      "name": "NOFX",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
-      },
-      "start_date": "1999",
-      "end_date": "1999",
-      "tag_ids": [
-        "tag_drummer"
-      ],
-      "band_ids": [
-        "band_12"
-      ],
-      "roles": [
-        "drums"
-      ]
-    },
-    {
-      "id": "label_1",
-      "type": "label",
-      "name": "Lookout! Records",
-      "description": "Independent record label associated with the East Bay punk scene.",
-      "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 37.8716,
-        "lng": -122.2727,
-        "city": "Berkeley",
-        "country": "United States"
       },
       "start_date": null,
       "end_date": null,
-      "artist_ids": [
-        "band_1",
-        "band_2"
-      ]
+      "origin": "",
+      "tag_ids": []
     },
     {
-      "id": "label_2",
-      "type": "label",
-      "name": "Hellcat Records",
-      "description": "Record label founded by Tim Armstrong and associated with punk and ska. Part of the Epitaph group.",
-      "image_url": "",
+      "id": "member_54",
+      "type": "member",
+      "name": "Fat Mike (Michael Burkett)",
       "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_55",
+      "type": "member",
+      "name": "Eric Melvin",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_56",
+      "type": "member",
+      "name": "Erik Sandin",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_57",
+      "type": "member",
+      "name": "El Hefe (Aaron Abeyta)",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_58",
+      "type": "member",
+      "name": "Dave Casillas",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_59",
+      "type": "member",
+      "name": "Steve Kidwiler",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_12",
+      "type": "band",
+      "name": "Taking Back Sunday",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 34.0522,
-        "lng": -118.2437,
-        "city": "Los Angeles",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
       "start_date": null,
       "end_date": null,
-      "artist_ids": [
-        "band_1",
-        "band_2",
-        "band_5"
-      ]
+      "origin": "",
+      "tag_ids": []
     },
     {
-      "id": "label_3",
-      "type": "label",
-      "name": "Epitaph Records",
-      "description": "Independent record label founded by Brett Gurewitz of Bad Religion.",
+      "id": "member_60",
+      "type": "member",
+      "name": "Adam Lazzara",
+      "aliases": [],
+      "description": "",
       "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 34.0522,
-        "lng": -118.2437,
-        "city": "Los Angeles",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_2",
-        "band_11"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
-      "id": "label_4",
-      "type": "label",
-      "name": "Fat Wreck Chords",
-      "description": "Record label founded by Fat Mike of NOFX specialising in punk rock.",
+      "id": "member_61",
+      "type": "member",
+      "name": "John Nolan",
+      "aliases": [],
+      "description": "",
       "image_url": "",
-      "aliases": [
-        "Fat Wreck"
-      ],
-      "location": {
-        "lat": 37.7749,
-        "lng": -122.4194,
-        "city": "San Francisco",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_2",
-        "band_11"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
-      "id": "label_5",
-      "type": "label",
-      "name": "Geffen Records",
-      "description": "Major record label based in Los Angeles.",
+      "id": "member_62",
+      "type": "member",
+      "name": "Shaun Cooper",
+      "aliases": [],
+      "description": "",
       "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 34.0522,
-        "lng": -118.2437,
-        "city": "Los Angeles",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_4"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
-      "id": "label_6",
-      "type": "label",
-      "name": "Suretone Records",
-      "description": "Record label associated with releases by Angels & Airwaves.",
+      "id": "member_63",
+      "type": "member",
+      "name": "Mark O'Connell",
+      "aliases": [],
+      "description": "",
       "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 34.0522,
-        "lng": -118.2437,
-        "city": "Los Angeles",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_4",
-        "band_9",
-        "band_12"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
-      "id": "label_7",
-      "type": "label",
-      "name": "To the Stars Records",
-      "description": "Independent label created by Tom DeLonge.",
+      "id": "member_64",
+      "type": "member",
+      "name": "Jesse Lacey",
+      "aliases": [],
+      "description": "",
       "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 32.7157,
-        "lng": -117.1611,
-        "city": "San Diego",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_4"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
-      "id": "label_8",
-      "type": "label",
-      "name": "Rise Records",
-      "description": "Independent record label releasing rock and punk music.",
+      "id": "member_65",
+      "type": "member",
+      "name": "Antonio Longo",
+      "aliases": [],
+      "description": "",
       "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 45.5051,
-        "lng": -122.675,
-        "city": "Portland",
-        "country": "United States"
-      },
-      "start_date": "1991",
-      "end_date": null,
-      "artist_ids": [
-        "band_4",
-        "band_6",
-        "band_35"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
-      "id": "label_9",
-      "type": "label",
-      "name": "Asian Man Records",
-      "description": "Independent record label that released early Alkaline Trio material.",
+      "id": "member_66",
+      "type": "member",
+      "name": "Eddie Reyes",
+      "aliases": [],
+      "description": "",
       "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 37.2363,
-        "lng": -121.9924,
-        "city": "Monte Sereno",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_6"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
-      "id": "label_10",
-      "type": "label",
-      "name": "Vagrant Records",
-      "description": "Independent rock label that released several Alkaline Trio albums.",
+      "id": "member_67",
+      "type": "member",
+      "name": "Fred Mascherino",
+      "aliases": [],
+      "description": "",
       "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 34.0522,
-        "lng": -118.2437,
-        "city": "Los Angeles",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_6"
-      ]
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
-      "id": "label_11",
-      "type": "label",
-      "name": "V2 Records",
-      "description": "Record label that released Alkaline Trio's album Crimson.",
+      "id": "member_68",
+      "type": "member",
+      "name": "Matthew Fazzi",
+      "aliases": [],
+      "description": "",
       "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 40.7128,
-        "lng": -74.006,
-        "city": "New York",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_6"
-      ]
-    },
-    {
-      "id": "label_12",
-      "type": "label",
-      "name": "Epic Records",
-      "description": "Major record label involved in releasing Alkaline Trio and Angels & Airwaves albums.",
-      "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 40.7128,
-        "lng": -74.006,
-        "city": "New York",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_6"
-      ]
-    },
-    {
-      "id": "label_13",
-      "type": "label",
-      "name": "Big Noise",
-      "description": "Independent record label associated with releases by The Used.",
-      "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 34.0522,
-        "lng": -118.2437,
-        "city": "Los Angeles",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_7"
-      ]
-    },
-    {
-      "id": "label_14",
-      "type": "label",
-      "name": "Hopeless Records",
-      "description": "Independent record label that has released albums by The Used, All Time Low and Taking Back Sunday.",
-      "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 34.1899,
-        "lng": -118.4513,
-        "city": "Van Nuys",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_7",
-        "band_10",
-        "band_12"
-      ]
-    },
-    {
-      "id": "label_15",
-      "type": "label",
-      "name": "Reprise Records",
-      "description": "Major record label that released The Used's early albums.",
-      "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 34.1808,
-        "lng": -118.3089,
-        "city": "Burbank",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_7"
-      ]
-    },
-    {
-      "id": "label_16",
-      "type": "label",
-      "name": "Atlantic Records",
-      "description": "Major record label; parent company of Fueled by Ramen and home to Paramore releases.",
-      "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 40.7128,
-        "lng": -74.006,
-        "city": "New York",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_5",
-        "band_9",
-        "band_12"
-      ]
-    },
-    {
-      "id": "label_17",
-      "type": "label",
-      "name": "Fueled by Ramen",
-      "description": "Record label that released albums by Paramore and All Time Low.",
-      "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 27.9641,
-        "lng": -82.4526,
-        "city": "Tampa",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_9",
-        "band_10",
-        "band_12"
-      ]
-    },
-    {
-      "id": "label_18",
-      "type": "label",
-      "name": "Mystic Records",
-      "description": "Independent label that released early NOFX recordings.",
-      "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 34.0989,
-        "lng": -118.3278,
-        "city": "Hollywood",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_11"
-      ]
-    },
-    {
-      "id": "label_19",
-      "type": "label",
-      "name": "Pirates Press",
-      "description": "Label that pressed later Rancid releases.",
-      "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 37.7749,
-        "lng": -122.4194,
-        "city": "San Francisco",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_2"
-      ]
-    },
-    {
-      "id": "label_20",
-      "type": "label",
-      "name": "Warner Bros. Records",
-      "description": "Major label that released some Rancid and Taking Back Sunday recordings.",
-      "image_url": "",
-      "aliases": [
-        "Warner Bros.",
-        "Warner Records"
-      ],
-      "location": {
-        "lat": 34.1808,
-        "lng": -118.3089,
-        "city": "Burbank",
-        "country": "United States"
-      },
-      "start_date": "1958",
-      "end_date": null,
-      "artist_ids": [
-        "band_2",
-        "band_12",
-        "band_32",
-        "band_33"
-      ]
-    },
-    {
-      "id": "label_21",
-      "type": "label",
-      "name": "Fantasy Records",
-      "description": "Record label associated with Taking Back Sunday.",
-      "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 37.8716,
-        "lng": -122.2727,
-        "city": "Berkeley",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_12"
-      ]
-    },
-    {
-      "id": "label_22",
-      "type": "label",
-      "name": "Victory Records",
-      "description": "Independent label known for releasing Taking Back Sunday's early albums.",
-      "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 41.8781,
-        "lng": -87.6298,
-        "city": "Chicago",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_12"
-      ]
-    },
-    {
-      "id": "label_23",
-      "type": "label",
-      "name": "Sire Records",
-      "description": "Label that released some of Taking Back Sunday's material.",
-      "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 40.7128,
-        "lng": -74.006,
-        "city": "New York",
-        "country": "United States"
-      },
-      "start_date": null,
-      "end_date": null,
-      "artist_ids": [
-        "band_12"
-      ]
-    },
-    {
-      "id": "label_24",
-      "type": "label",
-      "name": "Emerald Moon Records",
-      "description": "PLACEHOLDER: This label data needs to be verified and completed",
-      "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 39.2904,
-        "lng": -76.6122,
-        "city": "Baltimore",
-        "country": "United States"
-      },
-      "start_date": "",
-      "end_date": "",
-      "artist_ids": [
-        "band_10"
-      ]
-    },
-    {
-      "id": "label_25",
-      "type": "label",
-      "name": "Interscope Records",
-      "description": "PLACEHOLDER: This label data needs to be verified and completed",
-      "image_url": "",
-      "aliases": [],
-      "location": {
-        "lat": 34.0194,
-        "lng": -118.4912,
-        "city": "Santa Monica",
-        "country": "United States"
-      },
-      "start_date": "",
-      "end_date": "",
-      "artist_ids": [
-        "band_10"
-      ]
-    },
-    {
-      "id": "genre_alternative_rock",
-      "type": "genre",
-      "name": "Alternative rock",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_emo",
-      "type": "genre",
-      "name": "Emo",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_emo_pop",
-      "type": "genre",
-      "name": "Emo pop",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_garage_rock",
-      "type": "genre",
-      "name": "Garage rock",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_hardcore_punk",
-      "type": "genre",
-      "name": "Hardcore punk",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_industrial_rock",
-      "type": "genre",
-      "name": "Industrial rock",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_melodic_hardcore",
-      "type": "genre",
-      "name": "Melodic hardcore",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_new_wave",
-      "type": "genre",
-      "name": "New wave",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_pop_punk",
-      "type": "genre",
-      "name": "Pop punk",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_pop_rock",
-      "type": "genre",
-      "name": "Pop rock",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_post_hardcore",
-      "type": "genre",
-      "name": "Post hardcore",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_power_pop",
-      "type": "genre",
-      "name": "Power pop",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_punk_rock",
-      "type": "genre",
-      "name": "Punk rock",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_rap_rock",
-      "type": "genre",
-      "name": "Rap rock",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_ska_punk",
-      "type": "genre",
-      "name": "Ska punk",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_skate_punk",
-      "type": "genre",
-      "name": "Skate punk",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_screamo",
-      "type": "genre",
-      "name": "Screamo",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_space_rock",
-      "type": "genre",
-      "name": "Space rock",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_street_punk",
-      "type": "genre",
-      "name": "Street punk",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "genre_power_pop",
-      "type": "genre",
-      "name": "Power pop",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "tag_musician",
-      "type": "tag",
-      "name": "Musician",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "tag_producer",
-      "type": "tag",
-      "name": "Producer",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "tag_bassist",
-      "type": "tag",
-      "name": "Bassist",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "tag_vocalist",
-      "type": "tag",
-      "name": "Vocalist",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "tag_drummer",
-      "type": "tag",
-      "name": "Drummer",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "tag_guitarist",
-      "type": "tag",
-      "name": "Guitarist",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
-    },
-    {
-      "id": "tag_singer",
-      "type": "tag",
-      "name": "Singer",
-      "aliases": [],
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      }
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "band_13",
@@ -2597,21 +1063,66 @@
       "aliases": [],
       "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "1985",
-      "end_date": "1987",
+      "start_date": null,
+      "end_date": null,
       "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_1",
-        "member_2"
-      ]
+      "tag_ids": []
+    },
+    {
+      "id": "member_69",
+      "type": "member",
+      "name": "Steve Porter",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_70",
+      "type": "member",
+      "name": "Jason DeVore",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_71",
+      "type": "member",
+      "name": "John Doho",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_72",
+      "type": "member",
+      "name": "Ryan Copeland",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "band_14",
@@ -2620,26 +1131,90 @@
       "aliases": [],
       "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "1989",
-      "end_date": "1989",
+      "start_date": null,
+      "end_date": null,
       "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_1",
-        "member_2",
-        "member_54",
-        "member_55",
-        "member_56",
-        "member_57",
-        "member_58"
-      ]
+      "tag_ids": []
+    },
+    {
+      "id": "member_73",
+      "type": "member",
+      "name": "Elyse Rogers",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_74",
+      "type": "member",
+      "name": "Karina Denike",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_75",
+      "type": "member",
+      "name": "Scott Goodell",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_76",
+      "type": "member",
+      "name": "Aaron Barrett",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_77",
+      "type": "member",
+      "name": "Jason Hammon",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_78",
+      "type": "member",
+      "name": "Gordon Tsai",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "band_15",
@@ -2648,24 +1223,18 @@
       "aliases": [],
       "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "1989",
-      "end_date": "1989",
+      "start_date": null,
+      "end_date": null,
       "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_1",
-        "member_2",
-        "member_4",
-        "member_59",
-        "member_60"
-      ]
+      "tag_ids": []
     },
     {
       "id": "band_16",
@@ -2674,26 +1243,42 @@
       "aliases": [],
       "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "1995",
-      "end_date": "1995",
+      "start_date": null,
+      "end_date": null,
       "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_1",
-        "member_2",
-        "member_61",
-        "member_62",
-        "member_63",
-        "member_64",
-        "member_4"
-      ]
+      "tag_ids": []
+    },
+    {
+      "id": "member_79",
+      "type": "member",
+      "name": "Eric",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_80",
+      "type": "member",
+      "name": "Wayne",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "band_17",
@@ -2702,24 +1287,30 @@
       "aliases": [],
       "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "2000",
+      "start_date": null,
       "end_date": null,
       "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_2",
-        "member_1",
-        "member_65",
-        "member_66",
-        "member_7"
-      ]
+      "tag_ids": []
+    },
+    {
+      "id": "member_81",
+      "type": "member",
+      "name": "Rob Milucky",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "band_18",
@@ -2728,24 +1319,42 @@
       "aliases": [],
       "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "1993",
-      "end_date": "1993",
+      "start_date": null,
+      "end_date": null,
       "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_3",
-        "member_72",
-        "member_73",
-        "member_74",
-        "member_75"
-      ]
+      "tag_ids": []
+    },
+    {
+      "id": "member_82",
+      "type": "member",
+      "name": "Reid Farrington",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_83",
+      "type": "member",
+      "name": "Emil Slivka",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "band_19",
@@ -2754,22 +1363,42 @@
       "aliases": [],
       "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "1999",
-      "end_date": "2003",
+      "start_date": null,
+      "end_date": null,
       "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_3",
-        "member_76",
-        "member_77"
-      ]
+      "tag_ids": []
+    },
+    {
+      "id": "member_84",
+      "type": "member",
+      "name": "Mass Giorgini",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_85",
+      "type": "member",
+      "name": "Dan Lumley",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "band_20",
@@ -2778,2459 +1407,1398 @@
       "aliases": [],
       "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "2008",
-      "end_date": "2012",
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_3",
-        "member_80",
-        "member_81",
-        "member_82",
-        "member_78",
-        "member_79"
-      ]
-    },
-    {
-      "id": "band_21",
-      "type": "band",
-      "name": "DOOM Regulator",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2023",
+      "start_date": null,
       "end_date": null,
       "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_1",
-        "member_3",
-        "member_67",
-        "member_68"
-      ]
+      "tag_ids": []
     },
     {
-      "id": "band_22",
-      "type": "band",
-      "name": "The Crew",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2021",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_1",
-        "member_2",
-        "member_69",
-        "member_70",
-        "member_71"
-      ]
-    },
-    {
-      "id": "band_23",
-      "type": "band",
-      "name": "The Old Firm Casuals",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2010",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_5",
-        "member_83",
-        "member_84",
-        "member_85"
-      ]
-    },
-    {
-      "id": "band_24",
-      "type": "band",
-      "name": "Box Car Racer",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2001",
-      "end_date": "2003",
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_9",
-        "member_10",
-        "member_86",
-        "member_94"
-      ]
-    },
-    {
-      "id": "band_25",
-      "type": "band",
-      "name": "+44",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2005",
-      "end_date": "2009",
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_8",
-        "member_10",
-        "member_91",
-        "member_92",
-        "member_93"
-      ]
-    },
-    {
-      "id": "band_26",
-      "type": "band",
-      "name": "Simple Creatures",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2019",
-      "end_date": "2020",
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_8",
-        "member_35"
-      ]
-    },
-    {
-      "id": "band_27",
-      "type": "band",
-      "name": "The Aquabats",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1994",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_99",
-        "member_100",
-        "member_101",
-        "member_102",
-        "member_103",
-        "member_10"
-      ]
-    },
-    {
-      "id": "band_28",
-      "type": "band",
-      "name": "The Interrupters",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2011",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_104",
-        "member_14",
-        "member_105",
-        "member_106"
-      ]
-    },
-    {
-      "id": "band_29",
-      "type": "band",
-      "name": "Charger",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2018",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [
-        "member_2",
-        "member_107",
-        "member_108"
-      ]
-    },
-    {
-      "id": "member_54",
-      "type": "member",
-      "name": "Erik Larsen",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1989",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_14"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_55",
-      "type": "member",
-      "name": "Joey Schaaf",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1989",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_14"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_56",
-      "type": "member",
-      "name": "Andrew Champion",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1989",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_14"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_57",
-      "type": "member",
-      "name": "Grant McIntire",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1989",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_14"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_58",
-      "type": "member",
-      "name": "Joel Wing",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1989",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_14"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_59",
-      "type": "member",
-      "name": "Pat Mello",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1989",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_15"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_60",
-      "type": "member",
-      "name": "Jason Hammon",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1989",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_15"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_61",
-      "type": "member",
-      "name": "Paul Jackson",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1995",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_16"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_62",
-      "type": "member",
-      "name": "Eric Din",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1995",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_16"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_63",
-      "type": "member",
-      "name": "Lars Nylander",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1995",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_16"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_64",
-      "type": "member",
-      "name": "Mike Park",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1995",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_16"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_65",
-      "type": "member",
-      "name": "DJ Bonebrake",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1977",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_17"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_66",
-      "type": "member",
-      "name": "Rob Milucky",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2000",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_17"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_67",
-      "type": "member",
-      "name": "Joey Castillo",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1984",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_21"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_68",
-      "type": "member",
-      "name": "Spencer Pollard",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2005",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_21"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_69",
-      "type": "member",
-      "name": "Fletcher Dragge",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1988",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_22"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_70",
-      "type": "member",
-      "name": "Byron McCracken",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1988",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_22"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_71",
-      "type": "member",
-      "name": "Mike Muir",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1981",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_22"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_72",
-      "type": "member",
-      "name": "Doug Sangalang",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1993",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_18"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_73",
-      "type": "member",
-      "name": "Kevin Cross",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1993",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_18"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_74",
-      "type": "member",
-      "name": "Jeremy Goody",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1993",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_18"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_75",
-      "type": "member",
-      "name": "Brandon Riggen",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1993",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_18"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_76",
-      "type": "member",
-      "name": "Mass Giorgini",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1999",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_19"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_77",
-      "type": "member",
-      "name": "Dan Lumley",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1999",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_19"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_78",
-      "type": "member",
-      "name": "Sharif Dumani",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2020",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_20"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_79",
-      "type": "member",
-      "name": "Peter John Fontes",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2020",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_20"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_80",
+      "id": "member_86",
       "type": "member",
       "name": "Mike Huguenor",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2008",
-      "end_date": "2012",
-      "tag_ids": [],
-      "band_ids": [
-        "band_20"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
-      "id": "member_81",
+      "id": "member_87",
       "type": "member",
       "name": "Morgan Herrell",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2008",
-      "end_date": "2012",
-      "tag_ids": [],
-      "band_ids": [
-        "band_20"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_82",
-      "type": "member",
-      "name": "Max Feshbach",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2008",
-      "end_date": "2012",
-      "tag_ids": [],
-      "band_ids": [
-        "band_20"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_83",
-      "type": "member",
-      "name": "Casey Watson",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2010",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_23"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_84",
-      "type": "member",
-      "name": "Paul Rivas",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2010",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_23"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_85",
-      "type": "member",
-      "name": "Gabe Gavriloff",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2010",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_23"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_86",
-      "type": "member",
-      "name": "David Kennedy",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2001",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_4",
-        "band_24"
-      ],
-      "roles": []
-    },
-    {
-      "id": "member_87",
-      "type": "member",
-      "name": "Atom Willard",
-      "aliases": [],
-      "description": "",
-      "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2000",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_4",
-        "band_6"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_88",
       "type": "member",
-      "name": "Ryan Sinn",
+      "name": "Melanie Zummo",
       "aliases": [],
       "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_21",
+      "type": "band",
+      "name": "The Forgotten",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "2005",
-      "end_date": "2007",
-      "tag_ids": [],
-      "band_ids": [
-        "band_4"
-      ],
-      "roles": []
+      "start_date": null,
+      "end_date": null,
+      "origin": "",
+      "tag_ids": []
     },
     {
       "id": "member_89",
       "type": "member",
-      "name": "Matt Wachter",
+      "name": "Ken Helwig",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2003",
-      "end_date": "2019",
-      "tag_ids": [],
-      "band_ids": [
-        "band_4"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_90",
       "type": "member",
-      "name": "Eddie Breckenridge",
+      "name": "Adam Petrick",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2014",
-      "end_date": "2014",
-      "tag_ids": [],
-      "band_ids": [
-        "band_4"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_91",
       "type": "member",
-      "name": "Shane Gallagher",
+      "name": "Jeff Brookshire",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2005",
-      "end_date": "2009",
-      "tag_ids": [],
-      "band_ids": [
-        "band_25"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_92",
       "type": "member",
-      "name": "Craig Fairbaugh",
+      "name": "Todd Jacobson",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2005",
-      "end_date": "2009",
-      "tag_ids": [],
-      "band_ids": [
-        "band_25"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_93",
       "type": "member",
-      "name": "Carol Heller",
+      "name": "Kane Kelly",
       "aliases": [],
       "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_22",
+      "type": "band",
+      "name": "No Use for a Name",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "2005",
-      "end_date": "2005",
-      "tag_ids": [],
-      "band_ids": [
-        "band_25"
-      ],
-      "roles": []
+      "start_date": null,
+      "end_date": null,
+      "origin": "",
+      "tag_ids": []
     },
     {
       "id": "member_94",
       "type": "member",
-      "name": "Anthony Celestino",
+      "name": "Tony Sly",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2002",
-      "end_date": "2003",
-      "tag_ids": [],
-      "band_ids": [
-        "band_24"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_95",
       "type": "member",
-      "name": "Rob Doran",
+      "name": "Chris Shiflett",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1996",
-      "end_date": "1997",
-      "tag_ids": [],
-      "band_ids": [
-        "band_6"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_96",
       "type": "member",
-      "name": "Glenn Porter",
+      "name": "Dave Nassie",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1996",
-      "end_date": "2000",
-      "tag_ids": [],
-      "band_ids": [
-        "band_6"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_97",
       "type": "member",
-      "name": "Mike Felumlee",
+      "name": "Robin Pfefer",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2000",
-      "end_date": "2001",
-      "tag_ids": [],
-      "band_ids": [
-        "band_6"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_98",
       "type": "member",
-      "name": "Derek Grant",
+      "name": "Matt Riddle",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2001",
-      "end_date": "2023",
-      "tag_ids": [],
-      "band_ids": [
-        "band_6"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_99",
       "type": "member",
-      "name": "MC Bat Commander",
+      "name": "Boz Rivera",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1994",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_27"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_100",
       "type": "member",
-      "name": "Crash McLarson",
+      "name": "Steve Papoutsis",
       "aliases": [],
       "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_23",
+      "type": "band",
+      "name": "Sick of It All",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "1994",
+      "start_date": null,
       "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_27"
-      ],
-      "roles": []
+      "origin": "",
+      "tag_ids": []
     },
     {
       "id": "member_101",
       "type": "member",
-      "name": "Jimmy the Robot",
+      "name": "Lou Koller",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1997",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_27"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_102",
       "type": "member",
-      "name": "Ricky Fitness",
+      "name": "Pete Koller",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2002",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_27"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_103",
       "type": "member",
-      "name": "Eaglebones Falconhawk",
+      "name": "Craig Setari",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2006",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_27"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_104",
       "type": "member",
-      "name": "Aimee Interrupter",
+      "name": "Armand Majidi",
       "aliases": [],
       "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_24",
+      "type": "band",
+      "name": "Red Hot Chili Peppers",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "2011",
+      "start_date": null,
       "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_28"
-      ],
-      "roles": []
+      "origin": "",
+      "tag_ids": []
     },
     {
       "id": "member_105",
       "type": "member",
-      "name": "Justin Bivona",
+      "name": "Anthony Kiedis",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2011",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_28"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_106",
       "type": "member",
-      "name": "Jesse Bivona",
+      "name": "Flea (Michael Balzary)",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2011",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_28"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_107",
       "type": "member",
-      "name": "Andrew McGee",
+      "name": "Chad Smith",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2018",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_29"
-      ],
-      "roles": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_108",
       "type": "member",
-      "name": "Jason Willer",
+      "name": "John Frusciante",
       "aliases": [],
       "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2018",
-      "end_date": null,
-      "tag_ids": [],
-      "band_ids": [
-        "band_29"
-      ],
-      "roles": []
-    },
-    {
-      "id": "band_30",
-      "type": "band",
-      "name": "Brand New",
-      "aliases": [],
-      "description": "American rock band from Long Island, New York, formed in 2000 by Jesse Lacey, Vincent Accardi, Garrett Tierney and Brian Lane. The band is associated with emo, alternative rock, indie rock, post-hardcore and early pop punk:contentReference[oaicite:0]{index=0}:contentReference[oaicite:1]{index=1}.",
-      "image_url": "",
-      "location": {
-        "lat": 40.6629,
-        "lng": -73.5515,
-        "city": "Merrick",
-        "country": "United States"
-      },
-      "start_date": "2000",
-      "end_date": null,
-      "origin": "Long Island, USA",
-      "tag_ids": [
-        "genre_emo",
-        "genre_alternative_rock",
-        "genre_indie_rock",
-        "genre_post_hardcore",
-        "genre_pop_punk"
-      ],
-      "label_ids": [
-        "label_28",
-        "label_26",
-        "label_25",
-        "label_27",
-        "label_29",
-        "label_30",
-        "label_31"
-      ],
-      "member_ids": [
-        "member_52",
-        "member_109",
-        "member_110",
-        "member_111",
-        "member_112"
-      ],
-      "band_ids": [],
+      "website_url": "",
+      "socials": {},
       "roles": [],
-      "artist_ids": []
-    },
-    {
-      "id": "band_31",
-      "type": "band",
-      "name": "The Rookie Lot",
-      "aliases": [],
-      "description": "Five-piece melodic hardcore band from Levittown, New York, started in 1998. Members included Jesse Lacey, Garrett Tierney and Brian Lane (who later formed Brand New):contentReference[oaicite:2]{index=2}:contentReference[oaicite:3]{index=3}.",
-      "image_url": "",
-      "location": {
-        "lat": 40.7259,
-        "lng": -73.5143,
-        "city": "Levittown",
-        "country": "United States"
-      },
-      "start_date": "1998",
-      "end_date": "2000",
-      "origin": "Levittown, USA",
-      "tag_ids": [
-        "genre_melodic_hardcore",
-        "genre_hardcore_punk"
-      ],
-      "label_ids": [],
-      "member_ids": [
-        "member_52",
-        "member_110",
-        "member_111",
-        "member_121",
-        "member_122"
-      ],
-      "band_ids": [],
-      "roles": [],
-      "artist_ids": []
-    },
-    {
-      "id": "band_32",
-      "type": "band",
-      "name": "Glassjaw",
-      "aliases": [
-        "Glass Jaw",
-        "The Glassjaw"
-      ],
-      "description": "American post-hardcore band from Hempstead, New York, formed in 1993 by vocalist Daryl Palumbo and guitarist Justin Beck. The band pioneered the post-hardcore genre with a sound blending alternative metal and early nu metal elements:contentReference[oaicite:4]{index=4}:contentReference[oaicite:5]{index=5}.",
-      "image_url": "",
-      "location": {
-        "lat": 40.7062,
-        "lng": -73.6187,
-        "city": "Hempstead",
-        "country": "United States"
-      },
-      "start_date": "1993",
-      "end_date": null,
-      "origin": "Hempstead, USA",
-      "tag_ids": [
-        "genre_post_hardcore",
-        "genre_alternative_metal",
-        "genre_nu_metal"
-      ],
-      "label_ids": [
-        "label_43",
-        "label_34",
-        "label_41",
-        "label_42"
-      ],
-      "member_ids": [
-        "member_113",
-        "member_114",
-        "member_115"
-      ],
-      "band_ids": [],
-      "roles": [],
-      "artist_ids": []
-    },
-    {
-      "id": "band_33",
-      "type": "band",
-      "name": "Head Automatica",
-      "aliases": [],
-      "description": "American rock/power pop band from Long Island, New York, formed in 2003 as a side project of Glassjaw’s Daryl Palumbo with producer Dan \"The Automator\" Nakamura:contentReference[oaicite:6]{index=6}:contentReference[oaicite:7]{index=7}. The band combined electronic rock with pop punk influences.",
-      "image_url": "",
-      "location": {
-        "lat": 40.6687,
-        "lng": -73.5271,
-        "city": "Long Island",
-        "country": "United States"
-      },
-      "start_date": "2003",
-      "end_date": "2012",
-      "origin": "Long Island, USA",
-      "tag_ids": [
-        "genre_power_pop",
-        "genre_pop_punk",
-        "genre_indie_rock"
-      ],
-      "label_ids": [
-        "label_41"
-      ],
-      "member_ids": [
-        "member_113"
-      ],
-      "band_ids": [],
-      "roles": [],
-      "artist_ids": []
-    },
-    {
-      "id": "band_34",
-      "type": "band",
-      "name": "Hatebreed",
-      "aliases": [],
-      "description": "American metalcore/hardcore band from Bridgeport, Connecticut, formed in 1994. Known for blending hardcore punk with heavy metal, they helped shape the Connecticut hardcore scene:contentReference[oaicite:8]{index=8}:contentReference[oaicite:9]{index=9}.",
-      "image_url": "",
-      "location": {
-        "lat": 41.1865,
-        "lng": -73.1952,
-        "city": "Bridgeport",
-        "country": "United States"
-      },
-      "start_date": "1994",
-      "end_date": null,
-      "origin": "Bridgeport, USA",
-      "tag_ids": [
-        "genre_metalcore",
-        "genre_hardcore_punk"
-      ],
-      "label_ids": [
-        "label_22",
-        "label_32",
-        "label_33",
-        "label_34",
-        "label_35",
-        "label_30",
-        "label_36"
-      ],
-      "member_ids": [
-        "member_116",
-        "member_117"
-      ],
-      "band_ids": [],
-      "roles": [],
-      "artist_ids": []
-    },
-    {
-      "id": "band_35",
-      "type": "band",
-      "name": "The Bouncing Souls",
-      "aliases": [
-        "Bouncing Souls"
-      ],
-      "description": "American punk rock band from New Brunswick, New Jersey, formed in 1989. Their upbeat, melodic punk anthems reenergized the New Jersey punk scene in the 1990s:contentReference[oaicite:10]{index=10}:contentReference[oaicite:11]{index=11}.",
-      "image_url": "",
-      "location": {
-        "lat": 40.4862,
-        "lng": -74.4518,
-        "city": "New Brunswick",
-        "country": "United States"
-      },
-      "start_date": "1989",
-      "end_date": null,
-      "origin": "New Brunswick, USA",
-      "tag_ids": [
-        "genre_punk_rock",
-        "genre_pop_punk",
-        "genre_skate_punk",
-        "genre_hardcore_punk"
-      ],
-      "label_ids": [
-        "label_37",
-        "label_38",
-        "label_3",
-        "label_39",
-        "label_40"
-      ],
-      "member_ids": [
-        "member_118",
-        "member_119",
-        "member_120"
-      ],
-      "band_ids": [],
-      "roles": [],
-      "artist_ids": []
+      "tag_ids": []
     },
     {
       "id": "member_109",
       "type": "member",
-      "name": "Vincent Accardi",
-      "aliases": [
-        "Vin Accardi"
-      ],
-      "description": "Lead guitarist and backing vocalist of Brand New:contentReference[oaicite:12]{index=12}. He joined the band in 2000, coming from the local Long Island scene.",
+      "name": "Dave Navarro",
+      "aliases": [],
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_25",
+      "type": "band",
+      "name": "Mike Ness",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "2000",
+      "start_date": null,
       "end_date": null,
       "origin": "",
-      "tag_ids": [
-        "tag_guitarist",
-        "tag_vocalist"
-      ],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [
-        "band_30"
-      ],
-      "roles": [
-        "guitar",
-        "vocals"
-      ],
-      "artist_ids": []
+      "tag_ids": []
     },
     {
       "id": "member_110",
       "type": "member",
-      "name": "Garrett Tierney",
+      "name": "Mike Ness",
       "aliases": [],
-      "description": "Bass guitarist of Brand New, formerly a member of the Rookie Lot:contentReference[oaicite:13]{index=13}:contentReference[oaicite:14]{index=14}.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_26",
+      "type": "band",
+      "name": "Our Lady Peace",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "1998",
+      "start_date": null,
       "end_date": null,
       "origin": "",
-      "tag_ids": [
-        "tag_bassist"
-      ],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [
-        "band_30",
-        "band_31"
-      ],
-      "roles": [
-        "bass"
-      ],
-      "artist_ids": []
+      "tag_ids": []
     },
     {
       "id": "member_111",
       "type": "member",
-      "name": "Brian Lane",
+      "name": "Raine Maida",
       "aliases": [],
-      "description": "Drummer of Brand New, and previously the drummer of the Rookie Lot:contentReference[oaicite:15]{index=15}.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1998",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [
-        "tag_drummer"
-      ],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [
-        "band_30",
-        "band_31"
-      ],
-      "roles": [
-        "drums"
-      ],
-      "artist_ids": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_112",
       "type": "member",
-      "name": "Derrick Sherman",
+      "name": "Duncan Coutts",
       "aliases": [],
-      "description": "Guitarist and keyboardist for Brand New (touring member 2005–2009, official 2009–2013):contentReference[oaicite:16]{index=16}.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "2005",
-      "end_date": "2013",
-      "origin": "",
-      "tag_ids": [
-        "tag_guitarist"
-      ],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [
-        "band_30"
-      ],
-      "roles": [
-        "guitar",
-        "keyboards"
-      ],
-      "artist_ids": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_113",
       "type": "member",
-      "name": "Daryl Palumbo",
+      "name": "Steve Mazur",
       "aliases": [],
-      "description": "American singer, best known as the lead vocalist of Glassjaw:contentReference[oaicite:17]{index=17} and the founder of Head Automatica.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 40.6687,
-        "lng": -73.5271,
-        "city": "Bellmore",
-        "country": "United States"
-      },
-      "start_date": "1993",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [
-        "tag_vocalist"
-      ],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [
-        "band_32",
-        "band_33"
-      ],
-      "roles": [
-        "vocals"
-      ],
-      "artist_ids": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_114",
       "type": "member",
-      "name": "Justin Beck",
+      "name": "Jason Pierce",
       "aliases": [],
-      "description": "Guitarist, songwriter and co-founder of Glassjaw:contentReference[oaicite:18]{index=18}.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1993",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [
-        "tag_guitarist"
-      ],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [
-        "band_32"
-      ],
-      "roles": [
-        "guitar"
-      ],
-      "artist_ids": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_115",
       "type": "member",
-      "name": "Manuel Carrero",
-      "aliases": [
-        "Manny Carrero"
-      ],
-      "description": "Bass guitarist of Glassjaw (1998–2000, 2004–2015):contentReference[oaicite:19]{index=19}. He also briefly played with Saves the Day:contentReference[oaicite:20]{index=20}.",
+      "name": "Mike Turner",
+      "aliases": [],
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 40.7062,
-        "lng": -73.6187,
-        "city": "Hempstead",
-        "country": "United States"
-      },
-      "start_date": "1998",
-      "end_date": "2015",
-      "origin": "",
-      "tag_ids": [
-        "tag_bassist"
-      ],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [
-        "band_32"
-      ],
-      "roles": [
-        "bass"
-      ],
-      "artist_ids": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_116",
       "type": "member",
-      "name": "Jamey Jasta",
-      "aliases": [
-        "James Shanahan",
-        "El Odio"
-      ],
-      "description": "American vocalist, best known as the lead singer of metalcore band Hatebreed:contentReference[oaicite:21]{index=21}:contentReference[oaicite:22]{index=22}. Founder of Stillborn Records and other side projects.",
+      "name": "Jeremy Taggart",
+      "aliases": [],
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_27",
+      "type": "band",
+      "name": "Rusted Root",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 41.27,
-        "lng": -72.947,
-        "city": "West Haven",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "1994",
+      "start_date": null,
       "end_date": null,
       "origin": "",
-      "tag_ids": [
-        "tag_vocalist"
-      ],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [
-        "band_34"
-      ],
-      "roles": [
-        "vocals"
-      ],
-      "artist_ids": []
+      "tag_ids": []
     },
     {
       "id": "member_117",
       "type": "member",
-      "name": "Chris Beattie",
-      "aliases": [
-        "Chris \"Boulder\" Beattie"
-      ],
-      "description": "Bass player and co-founder of Hatebreed:contentReference[oaicite:23]{index=23}:contentReference[oaicite:24]{index=24}.",
+      "name": "Michael Glabicki",
+      "aliases": [],
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1994",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [
-        "tag_bassist"
-      ],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [
-        "band_34"
-      ],
-      "roles": [
-        "bass"
-      ],
-      "artist_ids": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_118",
       "type": "member",
-      "name": "Greg Attonito",
+      "name": "Liz Berlin",
       "aliases": [],
-      "description": "Lead vocalist of The Bouncing Souls, which he co-founded in 1989:contentReference[oaicite:25]{index=25}.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 40.7064,
-        "lng": -74.5493,
-        "city": "Basking Ridge",
-        "country": "United States"
-      },
-      "start_date": "1989",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [
-        "tag_vocalist"
-      ],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [
-        "band_35"
-      ],
-      "roles": [
-        "vocals"
-      ],
-      "artist_ids": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_119",
       "type": "member",
-      "name": "Pete Steinkopf",
+      "name": "Jim DiSpirito",
       "aliases": [],
-      "description": "Guitarist and co-founder of The Bouncing Souls:contentReference[oaicite:26]{index=26}.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 40.7064,
-        "lng": -74.5493,
-        "city": "Basking Ridge",
-        "country": "United States"
-      },
-      "start_date": "1989",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [
-        "tag_guitarist"
-      ],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [
-        "band_35"
-      ],
-      "roles": [
-        "guitar"
-      ],
-      "artist_ids": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_120",
       "type": "member",
-      "name": "Bryan Kienlen",
+      "name": "Patrick Norman",
       "aliases": [],
-      "description": "Bass guitarist and co-founder of The Bouncing Souls:contentReference[oaicite:27]{index=27}. Also known for designing the band’s iconic logos.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 40.7064,
-        "lng": -74.5493,
-        "city": "Basking Ridge",
-        "country": "United States"
-      },
-      "start_date": "1989",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [
-        "tag_bassist"
-      ],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [
-        "band_35"
-      ],
-      "roles": [
-        "bass"
-      ],
-      "artist_ids": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_121",
       "type": "member",
-      "name": "Brandon Reilly",
+      "name": "Doc Britton",
       "aliases": [],
-      "description": "Guitarist of The Rookie Lot (1998–2000), later known as guitarist/vocalist of The Movielife:contentReference[oaicite:28]{index=28}:contentReference[oaicite:29]{index=29} and Nightmare of You.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": null,
-        "lng": null,
-        "city": "",
-        "country": ""
-      },
-      "start_date": "1998",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [
-        "tag_guitarist",
-        "tag_vocalist"
-      ],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [
-        "band_31"
-      ],
-      "roles": [
-        "guitar",
-        "vocals"
-      ],
-      "artist_ids": []
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     },
     {
       "id": "member_122",
       "type": "member",
-      "name": "Alex Dunne",
+      "name": "Dann Pettigrew",
       "aliases": [],
-      "description": "Guitarist of The Rookie Lot (1998–2000). After the band split, he went on to play in the hardcore punk band Crime in Stereo:contentReference[oaicite:30]{index=30}:contentReference[oaicite:31]{index=31}.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_28",
+      "type": "band",
+      "name": "Sevendust",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
         "lat": null,
         "lng": null,
         "city": "",
         "country": ""
       },
-      "start_date": "1998",
+      "start_date": null,
       "end_date": null,
       "origin": "",
-      "tag_ids": [
-        "tag_guitarist"
-      ],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [
-        "band_31"
-      ],
-      "roles": [
-        "guitar"
-      ],
-      "artist_ids": []
+      "tag_ids": []
     },
     {
-      "id": "label_26",
-      "type": "label",
-      "name": "DreamWorks Records",
+      "id": "member_123",
+      "type": "member",
+      "name": "Lajon Witherspoon",
       "aliases": [],
-      "description": "Defunct major record label that signed Brand New in 2003:contentReference[oaicite:32]{index=32}:contentReference[oaicite:33]{index=33}. It was acquired by Interscope Records in 2004.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 34.0522,
-        "lng": -118.2437,
-        "city": "Los Angeles",
-        "country": "United States"
-      },
-      "start_date": "1996",
-      "end_date": "2004",
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [],
+      "website_url": "",
+      "socials": {},
       "roles": [],
-      "artist_ids": [
-        "band_30"
-      ]
+      "tag_ids": []
     },
     {
-      "id": "label_27",
-      "type": "label",
-      "name": "Triple Crown Records",
+      "id": "member_124",
+      "type": "member",
+      "name": "Clint Lowery",
       "aliases": [],
-      "description": "New York-based independent rock label founded in 1997 by Fred Feldman:contentReference[oaicite:34]{index=34}. Released Brand New’s debut album in 2001.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_125",
+      "type": "member",
+      "name": "John Connolly",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_126",
+      "type": "member",
+      "name": "Vince Hornsby",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_127",
+      "type": "member",
+      "name": "Morgan Rose",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_29",
+      "type": "band",
+      "name": "Collective Soul",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 40.7128,
-        "lng": -74.006,
-        "city": "New York",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "1997",
+      "start_date": null,
       "end_date": null,
       "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [],
-      "roles": [],
-      "artist_ids": [
-        "band_30"
-      ]
+      "tag_ids": []
     },
     {
-      "id": "label_28",
-      "type": "label",
-      "name": "Tiny Evil",
+      "id": "member_128",
+      "type": "member",
+      "name": "Ed Roland",
       "aliases": [],
-      "description": "Imprint of Interscope Records run by executive Luke Wood. Notable releases included Brand New’s third album:contentReference[oaicite:35]{index=35}:contentReference[oaicite:36]{index=36}.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_129",
+      "type": "member",
+      "name": "Dean Roland",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_130",
+      "type": "member",
+      "name": "Will Turpin",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_131",
+      "type": "member",
+      "name": "Shane Evans",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_132",
+      "type": "member",
+      "name": "Ross Childress",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_133",
+      "type": "member",
+      "name": "Joel Kosche",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_30",
+      "type": "band",
+      "name": "Godsmack",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 34.0522,
-        "lng": -118.2437,
-        "city": "Los Angeles",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "2004",
+      "start_date": null,
       "end_date": null,
       "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [],
-      "roles": [],
-      "artist_ids": [
-        "band_30"
-      ]
+      "tag_ids": []
     },
     {
-      "id": "label_29",
-      "type": "label",
-      "name": "Iodine Recordings",
+      "id": "member_134",
+      "type": "member",
+      "name": "Sully Erna",
       "aliases": [],
-      "description": "Independent punk/hardcore label from Boston, Massachusetts, founded in 1996. Early home to bands such as Brand New:contentReference[oaicite:37]{index=37}.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 42.3601,
-        "lng": -71.0589,
-        "city": "Boston",
-        "country": "United States"
-      },
-      "start_date": "1996",
-      "end_date": "2003",
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [],
+      "website_url": "",
+      "socials": {},
       "roles": [],
-      "artist_ids": [
-        "band_30"
-      ]
+      "tag_ids": []
     },
     {
-      "id": "label_30",
-      "type": "label",
-      "name": "Razor & Tie",
+      "id": "member_135",
+      "type": "member",
+      "name": "Tony Rombola",
       "aliases": [],
-      "description": "Independent label based in New York City, known for rock releases and compilations:contentReference[oaicite:38]{index=38}. Released Brand New’s album Deja Entendu (2003) in partnership with Triple Crown:contentReference[oaicite:39]{index=39}:contentReference[oaicite:40]{index=40} and later signed Hatebreed.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_136",
+      "type": "member",
+      "name": "Robbie Merrill",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_137",
+      "type": "member",
+      "name": "Shannon Larkin",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_138",
+      "type": "member",
+      "name": "Tommy Stewart",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_31",
+      "type": "band",
+      "name": "Megadeth",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 40.7282,
-        "lng": -73.9946,
-        "city": "New York",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "1990",
+      "start_date": null,
       "end_date": null,
       "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [],
-      "roles": [],
-      "artist_ids": [
-        "band_30",
-        "band_34"
-      ]
+      "tag_ids": []
     },
     {
-      "id": "label_31",
-      "type": "label",
-      "name": "Procrastinate! Music Traitors",
+      "id": "member_139",
+      "type": "member",
+      "name": "Dave Mustaine",
       "aliases": [],
-      "description": "Independent label founded by Brand New for self-releasing their music (e.g., the 2017 album \"Science Fiction\":contentReference[oaicite:41]{index=41}).",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_140",
+      "type": "member",
+      "name": "David Ellefson",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_141",
+      "type": "member",
+      "name": "Kiko Loureiro",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_142",
+      "type": "member",
+      "name": "Dirk Verbeuren",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_143",
+      "type": "member",
+      "name": "Marty Friedman",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_144",
+      "type": "member",
+      "name": "Nick Menza",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_32",
+      "type": "band",
+      "name": "The Supersuckers",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 40.6687,
-        "lng": -73.5271,
-        "city": "Long Island",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "2008",
+      "start_date": null,
       "end_date": null,
       "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [],
-      "roles": [],
-      "artist_ids": [
-        "band_30"
-      ]
+      "tag_ids": []
     },
     {
-      "id": "label_32",
-      "type": "label",
-      "name": "Stillborn Records",
+      "id": "member_145",
+      "type": "member",
+      "name": "Eddie Spaghetti",
       "aliases": [],
-      "description": "Hardcore/metal label founded by Hatebreed vocalist Jamey Jasta, based in West Haven, Connecticut:contentReference[oaicite:42]{index=42}. Released early Hatebreed material.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_146",
+      "type": "member",
+      "name": "Lightning Lane",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_147",
+      "type": "member",
+      "name": "Ronnie Barnett",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_148",
+      "type": "member",
+      "name": "Dan \"Thunder\" Bolton",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_149",
+      "type": "member",
+      "name": "Thaddeus Turner",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_33",
+      "type": "band",
+      "name": "Big Sugar",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 41.27,
-        "lng": -72.947,
-        "city": "West Haven",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "1995",
+      "start_date": null,
       "end_date": null,
       "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [],
-      "roles": [],
-      "artist_ids": [
-        "band_34"
-      ]
+      "tag_ids": []
     },
     {
-      "id": "label_33",
-      "type": "label",
-      "name": "Universal Records",
+      "id": "member_150",
+      "type": "member",
+      "name": "Gordie Johnson",
       "aliases": [],
-      "description": "Major record label under Universal Music Group. Hatebreed’s album \"Perseverance\" (2002) was released through Universal:contentReference[oaicite:43]{index=43}.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 40.7648,
-        "lng": -73.9808,
-        "city": "New York",
-        "country": "United States"
-      },
-      "start_date": "1995",
-      "end_date": "2006",
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [],
+      "website_url": "",
+      "socials": {},
       "roles": [],
-      "artist_ids": [
-        "band_34"
-      ]
+      "tag_ids": []
     },
     {
-      "id": "label_34",
-      "type": "label",
-      "name": "Roadrunner Records",
+      "id": "member_151",
+      "type": "member",
+      "name": "Garry Lowe",
       "aliases": [],
-      "description": "Heavy rock/metal label founded in 1980 in the Netherlands, now a division of Warner Music based in New York:contentReference[oaicite:44]{index=44}. Released Glassjaw’s debut and later Hatebreed albums.",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_152",
+      "type": "member",
+      "name": "Kelly Hoppe",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_153",
+      "type": "member",
+      "name": "Al Cross",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_34",
+      "type": "band",
+      "name": "Muse",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 40.742,
-        "lng": -73.9895,
-        "city": "New York",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "1980",
+      "start_date": null,
       "end_date": null,
       "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [],
-      "roles": [],
-      "artist_ids": [
-        "band_32",
-        "band_34"
-      ]
+      "tag_ids": []
     },
     {
-      "id": "label_35",
-      "type": "label",
-      "name": "Koch Records",
-      "aliases": [
-        "E1 Music"
-      ],
-      "description": "Independent label (later eOne Music) based in New York. Released Hatebreed’s live and cover albums in 2008–2009:contentReference[oaicite:45]{index=45}.",
-      "image_url": "",
-      "location": {
-        "lat": 40.7306,
-        "lng": -73.9916,
-        "city": "New York",
-        "country": "United States"
-      },
-      "start_date": "1987",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [],
-      "roles": [],
-      "artist_ids": [
-        "band_34"
-      ]
-    },
-    {
-      "id": "label_36",
-      "type": "label",
-      "name": "Nuclear Blast",
+      "id": "member_154",
+      "type": "member",
+      "name": "Matt Bellamy",
       "aliases": [],
-      "description": "Independent metal label founded in 1987 in Donzdorf, Germany:contentReference[oaicite:46]{index=46}. Released Hatebreed’s recent albums (e.g., 2020’s \"Weight of the False Self\":contentReference[oaicite:47]{index=47}).",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 48.6854,
-        "lng": 9.8105,
-        "city": "Donzdorf",
-        "country": "Germany"
-      },
-      "start_date": "1987",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [],
+      "website_url": "",
+      "socials": {},
       "roles": [],
-      "artist_ids": [
-        "band_34"
-      ]
+      "tag_ids": []
     },
     {
-      "id": "label_37",
-      "type": "label",
-      "name": "Chunksaah Records",
+      "id": "member_155",
+      "type": "member",
+      "name": "Chris Wolstenholme",
       "aliases": [],
-      "description": "Independent punk label founded in 1993 by The Bouncing Souls, originally in New Brunswick and now based in Asbury Park, NJ:contentReference[oaicite:49]{index=49}.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 40.2204,
-        "lng": -74.0121,
-        "city": "Asbury Park",
-        "country": "United States"
-      },
-      "start_date": "1993",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [],
+      "website_url": "",
+      "socials": {},
       "roles": [],
-      "artist_ids": [
-        "band_35"
-      ]
+      "tag_ids": []
     },
     {
-      "id": "label_38",
-      "type": "label",
-      "name": "BYO Records",
-      "aliases": [
-        "Better Youth Organization"
-      ],
-      "description": "Better Youth Organization Records, a Los Angeles punk label founded in 1982 by members of Youth Brigade:contentReference[oaicite:50]{index=50}. Released a Bouncing Souls split EP in 2002.",
-      "image_url": "",
-      "location": {
-        "lat": 34.0522,
-        "lng": -118.2437,
-        "city": "Los Angeles",
-        "country": "United States"
-      },
-      "start_date": "1982",
-      "end_date": "2019",
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [],
-      "roles": [],
-      "artist_ids": [
-        "band_35"
-      ]
-    },
-    {
-      "id": "label_39",
-      "type": "label",
-      "name": "Pure Noise Records",
+      "id": "member_156",
+      "type": "member",
+      "name": "Dominic Howard",
       "aliases": [],
-      "description": "American punk/alternative record label founded in 2009 and originally based in Berkeley, California:contentReference[oaicite:51]{index=51}. Released recent Bouncing Souls material.",
+      "description": "",
       "image_url": "",
-      "location": {
-        "lat": 37.8716,
-        "lng": -122.2727,
-        "city": "Berkeley",
-        "country": "United States"
-      },
-      "start_date": "2009",
-      "end_date": null,
-      "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [],
+      "website_url": "",
+      "socials": {},
       "roles": [],
-      "artist_ids": [
-        "band_35"
-      ]
+      "tag_ids": []
     },
     {
-      "id": "label_40",
-      "type": "label",
-      "name": "Century Media Records",
+      "id": "band_35",
+      "type": "band",
+      "name": "John Oszajca",
       "aliases": [],
-      "description": "Heavy metal record label founded in 1988 in Germany, with a US branch. Released Glassjaw’s 2017 album \"Material Control\".",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 51.3397,
-        "lng": 12.3731,
-        "city": "Leipzig",
-        "country": "Germany"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "1988",
+      "start_date": null,
       "end_date": null,
       "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [],
-      "roles": [],
-      "artist_ids": [
-        "band_32"
-      ]
+      "tag_ids": []
     },
     {
-      "id": "label_41",
-      "type": "label",
-      "name": "I Am Records",
+      "id": "member_157",
+      "type": "member",
+      "name": "John Oszajca",
       "aliases": [],
-      "description": "Independent imprint used by Glassjaw for self-releases (e.g., the 2011 \"Our Color Green\" EP).",
+      "description": "",
       "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_36",
+      "type": "band",
+      "name": "Pushmonkey",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "location": {
-        "lat": 40.6687,
-        "lng": -73.5271,
-        "city": "Long Island",
-        "country": "United States"
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
       },
-      "start_date": "2010",
+      "start_date": null,
       "end_date": null,
       "origin": "",
-      "tag_ids": [],
-      "label_ids": [],
-      "member_ids": [],
-      "band_ids": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_158",
+      "type": "member",
+      "name": "Tony Park",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
       "roles": [],
-      "artist_ids": [
-        "band_32"
-      ]
+      "tag_ids": []
+    },
+    {
+      "id": "member_159",
+      "type": "member",
+      "name": "Gavin Saunders",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_160",
+      "type": "member",
+      "name": "Will Hoffman",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_161",
+      "type": "member",
+      "name": "Darwin Keys",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_162",
+      "type": "member",
+      "name": "Pat Sublett",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_37",
+      "type": "band",
+      "name": "Cyclefly",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "location": {
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
+      },
+      "start_date": null,
+      "end_date": null,
+      "origin": "",
+      "tag_ids": []
+    },
+    {
+      "id": "member_163",
+      "type": "member",
+      "name": "Noel Lenahan",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_164",
+      "type": "member",
+      "name": "Gerry Hopkins",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_165",
+      "type": "member",
+      "name": "Ness Redlick",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_166",
+      "type": "member",
+      "name": "Neeson Patterson",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "band_38",
+      "type": "band",
+      "name": "Indigenous",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "location": {
+        "lat": null,
+        "lng": null,
+        "city": "",
+        "country": ""
+      },
+      "start_date": null,
+      "end_date": null,
+      "origin": "",
+      "tag_ids": []
+    },
+    {
+      "id": "member_167",
+      "type": "member",
+      "name": "Shawn Gonzales",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_168",
+      "type": "member",
+      "name": "Jermaine Turner",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_169",
+      "type": "member",
+      "name": "Inca Turner",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
+    },
+    {
+      "id": "member_170",
+      "type": "member",
+      "name": "Jeneda Turner",
+      "aliases": [],
+      "description": "",
+      "image_url": "",
+      "website_url": "",
+      "socials": {},
+      "roles": [],
+      "tag_ids": []
     }
   ],
   "links": [
@@ -5239,53 +2807,53 @@
       "type": "membership",
       "source": "member_1",
       "target": "band_1",
-      "label": "guitar/vocals (1987–1989)",
-      "start_date": null,
-      "end_date": null
+      "label": "lead vocals",
+      "start_date": "1987",
+      "end_date": "1989"
     },
     {
       "id": "link_2",
       "type": "membership",
       "source": "member_2",
       "target": "band_1",
-      "label": "bass/vocals (1987–1989)",
-      "start_date": null,
-      "end_date": null
+      "label": "guitar, backing vocals",
+      "start_date": "1987",
+      "end_date": "1989"
     },
     {
       "id": "link_3",
       "type": "membership",
       "source": "member_3",
       "target": "band_1",
-      "label": "lead vocals (1987–1989)",
-      "start_date": null,
-      "end_date": null
+      "label": "bass, backing vocals",
+      "start_date": "1987",
+      "end_date": "1989"
     },
     {
       "id": "link_4",
       "type": "membership",
       "source": "member_4",
       "target": "band_1",
-      "label": "drums (1987–1989)",
-      "start_date": null,
-      "end_date": null
+      "label": "drums",
+      "start_date": "1987",
+      "end_date": "1989"
     },
     {
       "id": "link_5",
       "type": "membership",
-      "source": "member_1",
+      "source": "member_2",
       "target": "band_2",
-      "label": "vocals/guitar (1991–present)",
-      "start_date": null,
+      "label": "vocals, guitar",
+      "start_date": "1991",
       "end_date": null
     },
     {
       "id": "link_6",
       "type": "membership",
-      "source": "member_2",
+      "source": "member_3",
       "target": "band_2",
-      "label": "bass/vocals (1991–present)",
-      "start_date": null,
+      "label": "bass guitar, vocals",
+      "start_date": "1991",
       "end_date": null
     },
     {
@@ -5293,89 +2861,89 @@
       "type": "membership",
       "source": "member_5",
       "target": "band_2",
-      "label": "guitar/vocals (1993–present)",
-      "start_date": null,
+      "label": "guitar, vocals",
+      "start_date": "1993",
       "end_date": null
     },
     {
       "id": "link_8",
       "type": "membership",
-      "source": "member_7",
+      "source": "member_6",
       "target": "band_2",
-      "label": "drums (1991–2006)",
-      "start_date": null,
+      "label": "drums, percussion",
+      "start_date": "2006",
       "end_date": null
     },
     {
       "id": "link_9",
       "type": "membership",
-      "source": "member_6",
+      "source": "member_7",
       "target": "band_2",
-      "label": "drums (2006–present)",
-      "start_date": null,
-      "end_date": null
+      "label": "drums",
+      "start_date": "1991",
+      "end_date": "2006"
     },
     {
       "id": "link_10",
-      "type": "label_signing",
-      "source": "band_2",
-      "target": "label_3",
-      "label": "early EP released on Lookout! Records",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_8",
+      "target": "band_3",
+      "label": "bass guitar, vocals",
+      "start_date": "1992",
       "end_date": null
     },
     {
       "id": "link_11",
-      "type": "label_signing",
-      "source": "band_2",
-      "target": "label_3",
-      "label": "signed to Epitaph Records",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_9",
+      "target": "band_3",
+      "label": "guitar, vocals",
+      "start_date": "1992",
       "end_date": null
     },
     {
       "id": "link_12",
-      "type": "label_signing",
-      "source": "band_2",
-      "target": "label_2",
-      "label": "released albums via Hellcat Records",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_10",
+      "target": "band_3",
+      "label": "drums, occasional vocals",
+      "start_date": "1998",
       "end_date": null
     },
     {
       "id": "link_13",
-      "type": "label_signing",
-      "source": "band_2",
-      "target": "label_4",
-      "label": "released material on Fat Wreck Chords",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_11",
+      "target": "band_3",
+      "label": "drums",
+      "start_date": "1992",
+      "end_date": "1998"
     },
     {
       "id": "link_14",
-      "type": "label_signing",
-      "source": "band_2",
-      "target": "label_19",
-      "label": "recent releases pressed by Pirates Press",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_12",
+      "target": "band_3",
+      "label": "guitar, vocals",
+      "start_date": "2015",
+      "end_date": "2022"
     },
     {
       "id": "link_15",
-      "type": "label_signing",
-      "source": "band_2",
-      "target": "label_20",
-      "label": "major label distribution",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_9",
+      "target": "band_4",
+      "label": "lead vocals, guitar, keyboards",
+      "start_date": "2005",
       "end_date": null
     },
     {
       "id": "link_16",
       "type": "membership",
-      "source": "member_9",
+      "source": "member_13",
       "target": "band_4",
-      "label": "lead vocals/guitar/keyboards (2005–present)",
-      "start_date": null,
+      "label": "guitar, keyboards",
+      "start_date": "2005",
       "end_date": null
     },
     {
@@ -5383,2627 +2951,1574 @@
       "type": "membership",
       "source": "member_14",
       "target": "band_4",
-      "label": "guitars/keyboards (2005–present)",
-      "start_date": null,
+      "label": "drums, percussion, backing vocals",
+      "start_date": "2011",
       "end_date": null
     },
     {
       "id": "link_18",
       "type": "membership",
-      "source": "member_26",
+      "source": "member_15",
       "target": "band_4",
-      "label": "drums/keys/guitar (2011–present)",
-      "start_date": null,
+      "label": "bass, backing vocals",
+      "start_date": "2019",
       "end_date": null
     },
     {
       "id": "link_19",
       "type": "membership",
-      "source": "member_47",
+      "source": "member_16",
       "target": "band_4",
-      "label": "bass/synthesizers (2019–present)",
-      "start_date": null,
-      "end_date": null
+      "label": "drums, backing vocals",
+      "start_date": "2005",
+      "end_date": "2011"
     },
     {
       "id": "link_20",
       "type": "membership",
-      "source": "member_26",
+      "source": "member_17",
       "target": "band_4",
-      "label": "drums (2005–2011)",
-      "start_date": null,
-      "end_date": null
+      "label": "bass, backing vocals",
+      "start_date": "2005",
+      "end_date": "2007"
     },
     {
       "id": "link_21",
       "type": "membership",
-      "source": "member_22",
+      "source": "member_18",
       "target": "band_4",
-      "label": "bass/backing vocals (2005–2007)",
-      "start_date": null,
-      "end_date": null
+      "label": "bass, keyboards, backing vocals",
+      "start_date": "2007",
+      "end_date": "2019"
     },
     {
       "id": "link_22",
       "type": "membership",
-      "source": "member_23",
+      "source": "member_19",
       "target": "band_4",
-      "label": "bass/synthesizers (2007–2014)",
-      "start_date": null,
+      "label": "bass, backing vocals",
+      "start_date": "2014",
       "end_date": null
     },
     {
       "id": "link_23",
       "type": "membership",
-      "source": "member_24",
-      "target": "band_4",
-      "label": "bass (2014)",
-      "start_date": null,
+      "source": "member_2",
+      "target": "band_5",
+      "label": "lead vocals, lead guitar",
+      "start_date": "1999",
       "end_date": null
     },
     {
       "id": "link_24",
       "type": "membership",
-      "source": "member_1",
+      "source": "member_20",
       "target": "band_5",
-      "label": "lead vocals/guitar (1999–present)",
-      "start_date": null,
+      "label": "lead vocals",
+      "start_date": "1999",
       "end_date": null
     },
     {
       "id": "link_25",
       "type": "membership",
-      "source": "member_13",
+      "source": "member_10",
       "target": "band_5",
-      "label": "lead vocals (1999–present)",
-      "start_date": null,
+      "label": "drums, percussion",
+      "start_date": "2002",
       "end_date": null
     },
     {
       "id": "link_26",
       "type": "membership",
-      "source": "member_10",
+      "source": "member_21",
       "target": "band_5",
-      "label": "drums (2002–present)",
-      "start_date": null,
+      "label": "bass guitar",
+      "start_date": "2011",
       "end_date": null
     },
     {
       "id": "link_27",
       "type": "membership",
-      "source": "member_14",
-      "target": "band_5",
-      "label": "bass/keyboards (2011–present)",
-      "start_date": null,
+      "source": "member_12",
+      "target": "band_6",
+      "label": "guitar, vocals",
+      "start_date": "1996",
       "end_date": null
     },
     {
       "id": "link_28",
       "type": "membership",
-      "source": "member_12",
+      "source": "member_22",
       "target": "band_6",
-      "label": "guitar/vocals (1996–present)",
-      "start_date": null,
+      "label": "bass, vocals",
+      "start_date": "1997",
       "end_date": null
     },
     {
       "id": "link_29",
       "type": "membership",
-      "source": "member_15",
+      "source": "member_16",
       "target": "band_6",
-      "label": "bass/vocals (1997–present)",
-      "start_date": null,
+      "label": "drums",
+      "start_date": "2023",
       "end_date": null
     },
     {
       "id": "link_30",
       "type": "membership",
-      "source": "member_20",
+      "source": "member_23",
       "target": "band_6",
-      "label": "drums (2023–present)",
-      "start_date": null,
-      "end_date": null
+      "label": "bass",
+      "start_date": "1996",
+      "end_date": "1997"
     },
     {
       "id": "link_31",
       "type": "membership",
-      "source": "member_23",
+      "source": "member_24",
       "target": "band_6",
-      "label": "bass/backing vocals (1996–1997)",
-      "start_date": null,
-      "end_date": null
+      "label": "drums, percussion",
+      "start_date": "1996",
+      "end_date": "2000"
     },
     {
       "id": "link_32",
       "type": "membership",
-      "source": "member_24",
+      "source": "member_25",
       "target": "band_6",
-      "label": "drums (1996–2000)",
-      "start_date": null,
-      "end_date": null
+      "label": "drums, percussion",
+      "start_date": "2000",
+      "end_date": "2001"
     },
     {
       "id": "link_33",
       "type": "membership",
-      "source": "member_25",
+      "source": "member_26",
       "target": "band_6",
-      "label": "drums (2000–2001)",
-      "start_date": null,
-      "end_date": null
+      "label": "drums, vocals",
+      "start_date": "2001",
+      "end_date": "2023"
     },
     {
       "id": "link_34",
       "type": "membership",
-      "source": "member_26",
-      "target": "band_6",
-      "label": "drums (2001–2023)",
-      "start_date": null,
+      "source": "member_27",
+      "target": "band_7",
+      "label": "lead vocals, piano",
+      "start_date": "2000",
       "end_date": null
     },
     {
       "id": "link_35",
       "type": "membership",
-      "source": "member_16",
+      "source": "member_28",
       "target": "band_7",
-      "label": "lead vocals/piano (2000–present)",
-      "start_date": null,
+      "label": "bass, backing vocals",
+      "start_date": "2000",
       "end_date": null
     },
     {
       "id": "link_36",
       "type": "membership",
-      "source": "member_17",
+      "source": "member_29",
       "target": "band_7",
-      "label": "bass/backing vocals (2000–present)",
-      "start_date": null,
+      "label": "drums",
+      "start_date": "2006",
       "end_date": null
     },
     {
       "id": "link_37",
       "type": "membership",
-      "source": "member_18",
+      "source": "member_30",
       "target": "band_7",
-      "label": "drums/backing vocals (2006–present)",
-      "start_date": null,
+      "label": "guitar",
+      "start_date": "2018",
       "end_date": null
     },
     {
       "id": "link_38",
       "type": "membership",
-      "source": "member_19",
+      "source": "member_31",
       "target": "band_7",
-      "label": "guitar/backing vocals (2018–present)",
-      "start_date": null,
-      "end_date": null
+      "label": "guitar, backing vocals",
+      "start_date": "2000",
+      "end_date": "2015"
     },
     {
       "id": "link_39",
       "type": "membership",
-      "source": "member_20",
+      "source": "member_6",
       "target": "band_7",
-      "label": "guitar/backing vocals (2015–2018)",
-      "start_date": null,
-      "end_date": null
+      "label": "drums, backing vocals",
+      "start_date": "2000",
+      "end_date": "2006"
     },
     {
       "id": "link_40",
       "type": "membership",
-      "source": "member_21",
+      "source": "member_32",
       "target": "band_7",
-      "label": "guitar/backing vocals (2000–2015)",
-      "start_date": null,
-      "end_date": null
+      "label": "guitar, backing vocals",
+      "start_date": "2015",
+      "end_date": "2018"
     },
     {
       "id": "link_41",
       "type": "membership",
-      "source": "member_6",
-      "target": "band_7",
-      "label": "drums/backing vocals (2000–2006)",
-      "start_date": null,
+      "source": "member_33",
+      "target": "band_8",
+      "label": "vocals, multi-instrumentalist",
+      "start_date": "1988",
       "end_date": null
     },
     {
       "id": "link_42",
       "type": "membership",
-      "source": "member_22",
+      "source": "member_34",
       "target": "band_8",
-      "label": "vocals/guitars/bass/keys (1988–present)",
-      "start_date": null,
+      "label": "keyboards, synthesizers",
+      "start_date": "2016",
       "end_date": null
     },
     {
       "id": "link_43",
       "type": "membership",
-      "source": "member_23",
+      "source": "member_35",
       "target": "band_8",
-      "label": "keyboards/synthesizers (2016–present)",
-      "start_date": null,
+      "label": "guitar",
+      "start_date": "1994",
       "end_date": null
     },
     {
       "id": "link_44",
       "type": "membership",
-      "source": "member_24",
+      "source": "member_36",
       "target": "band_8",
-      "label": "guitar/synthesizers/keys (1994–1996; 2013–present)",
-      "start_date": null,
+      "label": "keyboards, guitar",
+      "start_date": "2005",
       "end_date": null
     },
     {
       "id": "link_45",
       "type": "membership",
-      "source": "member_25",
+      "source": "member_37",
       "target": "band_8",
-      "label": "bass/keys/guitars (2005–2008; 2013–present)",
-      "start_date": null,
+      "label": "drums",
+      "start_date": "2005",
       "end_date": null
     },
     {
       "id": "link_46",
       "type": "membership",
-      "source": "member_26",
+      "source": "member_38",
       "target": "band_8",
-      "label": "drums/percussion/bass/guitars/keys (2008–2009; 2013–present)",
-      "start_date": null,
-      "end_date": null
+      "label": "bass, guitar",
+      "start_date": "1993",
+      "end_date": "2005"
     },
     {
       "id": "link_47",
       "type": "membership",
-      "source": "member_27",
-      "target": "band_9",
-      "label": "lead vocals/keyboards (2004–present)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_14",
+      "target": "band_8",
+      "label": "drums",
+      "start_date": "2009",
+      "end_date": "2013"
     },
     {
       "id": "link_48",
       "type": "membership",
-      "source": "member_28",
-      "target": "band_9",
-      "label": "guitar/keyboards/backing vocals (2009–present)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_39",
+      "target": "band_8",
+      "label": "bass, guitar",
+      "start_date": "1994",
+      "end_date": "2003"
     },
     {
       "id": "link_49",
       "type": "membership",
-      "source": "member_29",
+      "source": "member_40",
       "target": "band_9",
-      "label": "drums/percussion (2004–2010; 2017–present)",
-      "start_date": null,
+      "label": "lead vocals, keyboards",
+      "start_date": "2004",
       "end_date": null
     },
     {
       "id": "link_50",
       "type": "membership",
-      "source": "member_30",
+      "source": "member_41",
       "target": "band_9",
-      "label": "lead guitar/backing vocals (2004–2010)",
-      "start_date": null,
+      "label": "guitar, backing vocals",
+      "start_date": "2007",
       "end_date": null
     },
     {
       "id": "link_51",
       "type": "membership",
-      "source": "member_31",
+      "source": "member_42",
       "target": "band_9",
-      "label": "bass (2004–2015)",
-      "start_date": null,
+      "label": "drums",
+      "start_date": "2004",
       "end_date": null
     },
     {
       "id": "link_52",
       "type": "membership",
-      "source": "member_32",
+      "source": "member_43",
       "target": "band_9",
-      "label": "rhythm guitar/backing vocals (2004–2005)",
-      "start_date": null,
-      "end_date": null
+      "label": "guitar, backing vocals",
+      "start_date": "2004",
+      "end_date": "2010"
     },
     {
       "id": "link_53",
       "type": "membership",
-      "source": "member_33",
+      "source": "member_44",
       "target": "band_9",
-      "label": "rhythm guitar/backing vocals (2006–2007)",
-      "start_date": null,
-      "end_date": null
+      "label": "guitar",
+      "start_date": "2004",
+      "end_date": "2005"
     },
     {
       "id": "link_54",
       "type": "membership",
-      "source": "member_34",
+      "source": "member_45",
       "target": "band_9",
-      "label": "bass (2005)",
-      "start_date": null,
-      "end_date": null
+      "label": "guitar",
+      "start_date": "2005",
+      "end_date": "2007"
     },
     {
       "id": "link_55",
       "type": "membership",
-      "source": "member_35",
-      "target": "band_10",
-      "label": "lead vocals/rhythm guitar (2003–present)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_46",
+      "target": "band_9",
+      "label": "bass",
+      "start_date": "2004",
+      "end_date": "2015"
     },
     {
       "id": "link_56",
       "type": "membership",
-      "source": "member_36",
-      "target": "band_10",
-      "label": "lead guitar/backing vocals (2003–present)",
-      "start_date": null,
+      "source": "member_47",
+      "target": "band_9",
+      "label": "bass",
+      "start_date": "2005",
       "end_date": null
     },
     {
       "id": "link_57",
       "type": "membership",
-      "source": "member_37",
+      "source": "member_48",
       "target": "band_10",
-      "label": "drums/percussion (2003–present)",
-      "start_date": null,
+      "label": "lead vocals, rhythm guitar",
+      "start_date": "2003",
       "end_date": null
     },
     {
       "id": "link_58",
       "type": "membership",
-      "source": "member_38",
+      "source": "member_49",
       "target": "band_10",
-      "label": "bass/backing vocals (2003–present)",
-      "start_date": null,
+      "label": "lead guitar, backing vocals",
+      "start_date": "2003",
       "end_date": null
     },
     {
       "id": "link_59",
       "type": "membership",
-      "source": "member_39",
-      "target": "band_11",
-      "label": "lead vocals/bass (1983–present)",
-      "start_date": null,
+      "source": "member_50",
+      "target": "band_10",
+      "label": "drums",
+      "start_date": "2003",
       "end_date": null
     },
     {
       "id": "link_60",
       "type": "membership",
-      "source": "member_40",
-      "target": "band_11",
-      "label": "guitar/vocals (1983–present)",
-      "start_date": null,
+      "source": "member_51",
+      "target": "band_10",
+      "label": "bass, backing vocals",
+      "start_date": "2003",
       "end_date": null
     },
     {
       "id": "link_61",
       "type": "membership",
-      "source": "member_41",
-      "target": "band_11",
-      "label": "drums (1983–1985; 1986–present)",
-      "start_date": null,
+      "source": "member_52",
+      "target": "band_10",
+      "label": "bass",
+      "start_date": "2003",
       "end_date": null
     },
     {
       "id": "link_62",
       "type": "membership",
-      "source": "member_42",
-      "target": "band_11",
-      "label": "guitar/vocals (1991–present)",
-      "start_date": null,
+      "source": "member_53",
+      "target": "band_10",
+      "label": "lead guitar, backing vocals",
+      "start_date": "2003",
       "end_date": null
     },
     {
       "id": "link_63",
       "type": "membership",
-      "source": "member_43",
-      "target": "band_12",
-      "label": "lead vocals (2001–present)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_54",
+      "target": "band_11",
+      "label": "bass guitar, vocals",
+      "start_date": "1983",
+      "end_date": "2024"
     },
     {
       "id": "link_64",
       "type": "membership",
-      "source": "member_44",
-      "target": "band_12",
-      "label": "lead guitar/keyboards/vocals (1999–2003; 2010–present)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_55",
+      "target": "band_11",
+      "label": "rhythm guitar, backing vocals",
+      "start_date": "1983",
+      "end_date": "2024"
     },
     {
       "id": "link_65",
       "type": "membership",
-      "source": "member_45",
-      "target": "band_12",
-      "label": "bass (2001–2003; 2010–present)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_56",
+      "target": "band_11",
+      "label": "drums",
+      "start_date": "1983",
+      "end_date": "2024"
     },
     {
       "id": "link_66",
       "type": "membership",
-      "source": "member_46",
-      "target": "band_12",
-      "label": "drums (2001–present)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_57",
+      "target": "band_11",
+      "label": "lead guitar, trumpet, backing vocals",
+      "start_date": "1991",
+      "end_date": "2024"
     },
     {
       "id": "link_67",
       "type": "membership",
-      "source": "member_47",
-      "target": "band_12",
-      "label": "bass/backing vocals (2003–2010)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_58",
+      "target": "band_11",
+      "label": "guitar",
+      "start_date": "1987",
+      "end_date": "1989"
     },
     {
       "id": "link_68",
       "type": "membership",
-      "source": "member_48",
-      "target": "band_12",
-      "label": "lead guitar/vocals (2003–2008)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_59",
+      "target": "band_11",
+      "label": "guitar",
+      "start_date": "1989",
+      "end_date": "1991"
     },
     {
       "id": "link_69",
       "type": "membership",
-      "source": "member_49",
+      "source": "member_60",
       "target": "band_12",
-      "label": "lead guitar/keyboards/vocals (2008–2010)",
-      "start_date": null,
+      "label": "lead vocals",
+      "start_date": "2001",
       "end_date": null
     },
     {
       "id": "link_70",
       "type": "membership",
-      "source": "member_50",
+      "source": "member_61",
       "target": "band_12",
-      "label": "rhythm guitar (1999–2018)",
-      "start_date": null,
+      "label": "guitar, vocals",
+      "start_date": "1999",
       "end_date": null
     },
     {
       "id": "link_71",
       "type": "membership",
-      "source": "member_51",
+      "source": "member_62",
       "target": "band_12",
-      "label": "lead vocals (1999–2001)",
-      "start_date": null,
+      "label": "bass",
+      "start_date": "2001",
       "end_date": null
     },
     {
       "id": "link_72",
       "type": "membership",
-      "source": "member_52",
+      "source": "member_63",
       "target": "band_12",
-      "label": "bass/vocals (1999)",
-      "start_date": null,
+      "label": "drums",
+      "start_date": "2001",
       "end_date": null
     },
     {
       "id": "link_73",
       "type": "membership",
-      "source": "member_53",
+      "source": "member_64",
       "target": "band_12",
-      "label": "drums (1999)",
-      "start_date": null,
-      "end_date": null
+      "label": "bass",
+      "start_date": "1999",
+      "end_date": "2001"
     },
     {
       "id": "link_74",
-      "type": "label_signing",
-      "source": "band_1",
-      "target": "label_1",
-      "label": "signed to Lookout! Records",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_65",
+      "target": "band_12",
+      "label": "lead vocals",
+      "start_date": "1999",
+      "end_date": "2001"
     },
     {
       "id": "link_75",
-      "type": "label_signing",
-      "source": "band_1",
-      "target": "label_2",
-      "label": "later releases on Hellcat Records",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_66",
+      "target": "band_12",
+      "label": "guitar",
+      "start_date": "1999",
+      "end_date": "2018"
     },
     {
       "id": "link_76",
-      "type": "label_signing",
-      "source": "band_2",
-      "target": "label_1",
-      "label": "early EP released on Lookout! Records",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_67",
+      "target": "band_12",
+      "label": "guitar, vocals",
+      "start_date": "2003",
+      "end_date": "2007"
     },
     {
       "id": "link_77",
-      "type": "label_signing",
-      "source": "band_2",
-      "target": "label_3",
-      "label": "signed to Epitaph Records",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_15",
+      "target": "band_12",
+      "label": "bass",
+      "start_date": "2003",
+      "end_date": "2010"
     },
     {
       "id": "link_78",
-      "type": "label_signing",
-      "source": "band_2",
-      "target": "label_2",
-      "label": "released albums via Hellcat Records",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_68",
+      "target": "band_12",
+      "label": "guitar, keyboards, vocals",
+      "start_date": "2007",
+      "end_date": "2010"
     },
     {
       "id": "link_79",
-      "type": "label_signing",
-      "source": "band_2",
-      "target": "label_4",
-      "label": "released material on Fat Wreck Chords",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_69",
+      "target": "band_13",
+      "label": "lead vocals",
+      "start_date": "1993",
+      "end_date": "2017"
     },
     {
       "id": "link_80",
-      "type": "label_signing",
-      "source": "band_2",
-      "target": "label_19",
-      "label": "recent releases via Pirates Press",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_70",
+      "target": "band_13",
+      "label": "lead guitar",
+      "start_date": "1993",
+      "end_date": "2009"
     },
     {
       "id": "link_81",
-      "type": "label_signing",
-      "source": "band_2",
-      "target": "label_20",
-      "label": "major label debut Louder Now via Warner Bros.",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_71",
+      "target": "band_13",
+      "label": "bass",
+      "start_date": "1993",
+      "end_date": "2009"
     },
     {
       "id": "link_82",
-      "type": "label_signing",
-      "source": "band_2",
-      "target": "label_23",
-      "label": "released albums through Sire Records",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_72",
+      "target": "band_13",
+      "label": "drums",
+      "start_date": "1993",
+      "end_date": "1995"
     },
     {
       "id": "link_83",
-      "type": "label_signing",
-      "source": "band_2",
-      "target": "label_14",
-      "label": "later releases via Hopeless Records",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_73",
+      "target": "band_14",
+      "label": "vocals",
+      "start_date": "1989",
       "end_date": null
     },
     {
       "id": "link_84",
-      "type": "label_signing",
-      "source": "band_4",
-      "target": "label_5",
-      "label": "released debut on Geffen",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_74",
+      "target": "band_14",
+      "label": "vocals",
+      "start_date": "1989",
+      "end_date": "2004"
     },
     {
       "id": "link_85",
-      "type": "label_signing",
-      "source": "band_4",
-      "target": "label_6",
-      "label": "issued releases via Suretone",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_75",
+      "target": "band_14",
+      "label": "guitar",
+      "start_date": "1989",
+      "end_date": "1995"
     },
     {
       "id": "link_86",
-      "type": "label_signing",
-      "source": "band_4",
-      "target": "label_7",
-      "label": "self‑released via To the Stars",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_76",
+      "target": "band_14",
+      "label": "guitar",
+      "start_date": "1991",
+      "end_date": "1993"
     },
     {
       "id": "link_87",
-      "type": "label_signing",
-      "source": "band_4",
-      "target": "label_8",
-      "label": "signed to Rise Records",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_77",
+      "target": "band_14",
+      "label": "guitar",
+      "start_date": "1989",
+      "end_date": "1991"
     },
     {
       "id": "link_88",
-      "type": "label_signing",
-      "source": "band_5",
-      "target": "label_2",
-      "label": "released albums on Hellcat Records",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_78",
+      "target": "band_14",
+      "label": "drums",
+      "start_date": "1997",
+      "end_date": "2004"
     },
     {
       "id": "link_89",
-      "type": "label_signing",
-      "source": "band_5",
-      "target": "label_11",
-      "label": "major‑label distribution via Atlantic",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_2",
+      "target": "band_15",
+      "label": "guitar",
+      "start_date": "1988",
+      "end_date": "1990"
     },
     {
       "id": "link_90",
-      "type": "label_signing",
-      "source": "band_6",
-      "target": "label_9",
-      "label": "early releases on Asian Man Records",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_3",
+      "target": "band_15",
+      "label": "bass",
+      "start_date": "1988",
+      "end_date": "1990"
     },
     {
       "id": "link_91",
-      "type": "label_signing",
-      "source": "band_6",
-      "target": "label_10",
-      "label": "signed to Vagrant Records",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_1",
+      "target": "band_15",
+      "label": "vocals",
+      "start_date": "1988",
+      "end_date": "1990"
     },
     {
       "id": "link_92",
-      "type": "label_signing",
-      "source": "band_6",
-      "target": "label_11",
-      "label": "released Crimson via V2 Records",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_4",
+      "target": "band_15",
+      "label": "drums",
+      "start_date": "1988",
+      "end_date": "1990"
     },
     {
       "id": "link_93",
-      "type": "label_signing",
-      "source": "band_6",
-      "target": "label_12",
-      "label": "major label release on Epic Records",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_2",
+      "target": "band_16",
+      "label": "vocals",
+      "start_date": "1996",
       "end_date": null
     },
     {
       "id": "link_94",
-      "type": "label_signing",
-      "source": "band_6",
-      "target": "label_3",
-      "label": "later releases via Epitaph",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_3",
+      "target": "band_16",
+      "label": "bass",
+      "start_date": "1996",
       "end_date": null
     },
     {
       "id": "link_95",
-      "type": "label_signing",
-      "source": "band_6",
-      "target": "label_8",
-      "label": "recent releases via Rise Records",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_79",
+      "target": "band_16",
+      "label": "saxophone",
+      "start_date": "1996",
       "end_date": null
     },
     {
       "id": "link_96",
-      "type": "label_signing",
-      "source": "band_7",
-      "target": "label_15",
-      "label": "released early albums through Reprise Records",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_80",
+      "target": "band_16",
+      "label": "guitar",
+      "start_date": "1996",
       "end_date": null
     },
     {
       "id": "link_97",
-      "type": "label_signing",
-      "source": "band_7",
-      "target": "label_14",
-      "label": "later signed to Hopeless Records",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_3",
+      "target": "band_17",
+      "label": "bass, vocals",
+      "start_date": "2000",
       "end_date": null
     },
     {
       "id": "link_98",
-      "type": "label_signing",
-      "source": "band_7",
-      "target": "label_13",
-      "label": "released music via Big Noise",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_2",
+      "target": "band_17",
+      "label": "guitar, vocals",
+      "start_date": "2000",
+      "end_date": "2006"
     },
     {
       "id": "link_99",
-      "type": "label_signing",
-      "source": "band_9",
-      "target": "label_17",
-      "label": "signed to Fueled by Ramen",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_81",
+      "target": "band_17",
+      "label": "drums",
+      "start_date": "2000",
+      "end_date": "2006"
     },
     {
       "id": "link_100",
-      "type": "label_signing",
-      "source": "band_9",
-      "target": "label_16",
-      "label": "parent label Atlantic Records",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_1",
+      "target": "band_18",
+      "label": "vocals, guitar",
+      "start_date": "1993",
+      "end_date": "1994"
     },
     {
       "id": "link_101",
-      "type": "label_signing",
-      "source": "band_10",
-      "target": "label_24",
-      "label": "released debut EP on Emerald Moon Records",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_82",
+      "target": "band_18",
+      "label": "bass",
+      "start_date": "1993",
+      "end_date": "1994"
     },
     {
       "id": "link_102",
-      "type": "label_signing",
-      "source": "band_10",
-      "target": "label_14",
-      "label": "signed to Hopeless Records",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_83",
+      "target": "band_18",
+      "label": "drums",
+      "start_date": "1993",
+      "end_date": "1994"
     },
     {
       "id": "link_103",
-      "type": "label_signing",
-      "source": "band_10",
-      "target": "label_25",
-      "label": "major label deal with Interscope Records",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_1",
+      "target": "band_19",
+      "label": "vocals, guitar",
+      "start_date": "1999",
+      "end_date": "2003"
     },
     {
       "id": "link_104",
-      "type": "label_signing",
-      "source": "band_10",
-      "target": "label_17",
-      "label": "later releases via Fueled by Ramen",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_84",
+      "target": "band_19",
+      "label": "bass",
+      "start_date": "1999",
+      "end_date": "2003"
     },
     {
       "id": "link_105",
-      "type": "label_signing",
-      "source": "band_11",
-      "target": "label_18",
-      "label": "released early EPs on Mystic Records",
-      "start_date": null,
-      "end_date": null
+      "type": "membership",
+      "source": "member_85",
+      "target": "band_19",
+      "label": "drums",
+      "start_date": "1999",
+      "end_date": "2003"
     },
     {
       "id": "link_106",
-      "type": "label_signing",
-      "source": "band_11",
-      "target": "label_3",
-      "label": "signed to Epitaph Records",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_1",
+      "target": "band_20",
+      "label": "vocals",
+      "start_date": "2008",
       "end_date": null
     },
     {
       "id": "link_107",
-      "type": "label_signing",
-      "source": "band_11",
-      "target": "label_4",
-      "label": "releases on Fat Wreck Chords",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_86",
+      "target": "band_20",
+      "label": "guitar",
+      "start_date": "2008",
       "end_date": null
     },
     {
       "id": "link_108",
-      "type": "label_signing",
-      "source": "band_12",
-      "target": "label_22",
-      "label": "released Tell All Your Friends via Victory Records",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_87",
+      "target": "band_20",
+      "label": "bass",
+      "start_date": "2008",
       "end_date": null
     },
     {
       "id": "link_109",
-      "type": "label_signing",
-      "source": "band_12",
-      "target": "label_20",
-      "label": "major label debut Louder Now via Warner Bros.",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_88",
+      "target": "band_20",
+      "label": "drums",
+      "start_date": "2008",
       "end_date": null
     },
     {
       "id": "link_110",
-      "type": "label_signing",
-      "source": "band_12",
-      "target": "label_23",
-      "label": "released albums through Sire Records",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_89",
+      "target": "band_21",
+      "label": "vocals",
+      "start_date": "1997",
       "end_date": null
     },
     {
       "id": "link_111",
-      "type": "label_signing",
-      "source": "band_12",
-      "target": "label_14",
-      "label": "later releases on Hopeless Records",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_90",
+      "target": "band_21",
+      "label": "guitar",
+      "start_date": "1997",
       "end_date": null
     },
     {
       "id": "link_112",
-      "type": "label_signing",
-      "source": "band_12",
-      "target": "label_21",
-      "label": "recent releases via Fantasy Records",
-      "start_date": null,
+      "type": "membership",
+      "source": "member_91",
+      "target": "band_21",
+      "label": "bass",
+      "start_date": "1997",
       "end_date": null
     },
     {
       "id": "link_113",
       "type": "membership",
-      "source": "member_8",
-      "target": "band_3",
-      "label": "bass/vocals",
-      "start_date": null,
-      "end_date": null
+      "source": "member_92",
+      "target": "band_21",
+      "label": "guitar",
+      "start_date": "1997",
+      "end_date": "1999"
     },
     {
       "id": "link_114",
       "type": "membership",
-      "source": "member_9",
-      "target": "band_3",
-      "label": "guitar/vocals",
-      "start_date": null,
-      "end_date": null
+      "source": "member_93",
+      "target": "band_21",
+      "label": "drums",
+      "start_date": "1997",
+      "end_date": "1999"
     },
     {
       "id": "link_115",
       "type": "membership",
-      "source": "member_10",
-      "target": "band_3",
-      "label": "drums",
-      "start_date": null,
-      "end_date": null
+      "source": "member_94",
+      "target": "band_22",
+      "label": "vocals, guitar",
+      "start_date": "1987",
+      "end_date": "2012"
     },
     {
       "id": "link_116",
       "type": "membership",
-      "source": "member_11",
-      "target": "band_3",
-      "label": "drums",
-      "start_date": null,
-      "end_date": null
+      "source": "member_95",
+      "target": "band_22",
+      "label": "guitar",
+      "start_date": "1995",
+      "end_date": "1999"
     },
     {
       "id": "link_117",
       "type": "membership",
-      "source": "member_12",
-      "target": "band_3",
-      "label": "guitar/vocals",
-      "start_date": null,
-      "end_date": null
+      "source": "member_96",
+      "target": "band_22",
+      "label": "guitar",
+      "start_date": "1999",
+      "end_date": "2010"
     },
     {
       "id": "link_118",
       "type": "membership",
-      "source": "member_1",
-      "target": "band_13",
-      "label": "guitar/vocals (1985–1987)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_97",
+      "target": "band_22",
+      "label": "guitar",
+      "start_date": "2010",
+      "end_date": "2012"
     },
     {
       "id": "link_119",
       "type": "membership",
-      "source": "member_2",
-      "target": "band_13",
-      "label": "bass (1985–1987)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_98",
+      "target": "band_22",
+      "label": "bass, backing vocals",
+      "start_date": "1995",
+      "end_date": "2012"
     },
     {
       "id": "link_120",
       "type": "membership",
-      "source": "member_1",
-      "target": "band_14",
-      "label": "vocals (1989)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_99",
+      "target": "band_22",
+      "label": "drums",
+      "start_date": "1995",
+      "end_date": "2012"
     },
     {
       "id": "link_121",
       "type": "membership",
-      "source": "member_2",
-      "target": "band_14",
-      "label": "guitar (1989)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_100",
+      "target": "band_22",
+      "label": "drums",
+      "start_date": "1987",
+      "end_date": "1995"
     },
     {
       "id": "link_122",
       "type": "membership",
-      "source": "member_54",
-      "target": "band_14",
-      "label": "drums (1989)",
-      "start_date": null,
+      "source": "member_101",
+      "target": "band_23",
+      "label": "vocals",
+      "start_date": "1986",
       "end_date": null
     },
     {
       "id": "link_123",
       "type": "membership",
-      "source": "member_55",
-      "target": "band_14",
-      "label": "keyboards (1989)",
-      "start_date": null,
+      "source": "member_102",
+      "target": "band_23",
+      "label": "guitar",
+      "start_date": "1986",
       "end_date": null
     },
     {
       "id": "link_124",
       "type": "membership",
-      "source": "member_56",
-      "target": "band_14",
-      "label": "vocals (1989)",
-      "start_date": null,
+      "source": "member_103",
+      "target": "band_23",
+      "label": "bass",
+      "start_date": "1993",
       "end_date": null
     },
     {
       "id": "link_125",
       "type": "membership",
-      "source": "member_57",
-      "target": "band_14",
-      "label": "guitar (1989)",
-      "start_date": null,
+      "source": "member_104",
+      "target": "band_23",
+      "label": "drums",
+      "start_date": "1986",
       "end_date": null
     },
     {
       "id": "link_126",
       "type": "membership",
-      "source": "member_58",
-      "target": "band_14",
-      "label": "bass (1989)",
-      "start_date": null,
+      "source": "member_105",
+      "target": "band_24",
+      "label": "lead vocals",
+      "start_date": "1983",
       "end_date": null
     },
     {
       "id": "link_127",
       "type": "membership",
-      "source": "member_1",
-      "target": "band_15",
-      "label": "vocals (1989)",
-      "start_date": null,
+      "source": "member_106",
+      "target": "band_24",
+      "label": "bass",
+      "start_date": "1983",
       "end_date": null
     },
     {
       "id": "link_128",
       "type": "membership",
-      "source": "member_2",
-      "target": "band_15",
-      "label": "bass (1989)",
-      "start_date": null,
+      "source": "member_107",
+      "target": "band_24",
+      "label": "drums",
+      "start_date": "1988",
       "end_date": null
     },
     {
       "id": "link_129",
       "type": "membership",
-      "source": "member_4",
-      "target": "band_15",
-      "label": "drums (1989)",
-      "start_date": null,
+      "source": "member_108",
+      "target": "band_24",
+      "label": "guitar, backing vocals",
+      "start_date": "1988",
       "end_date": null
     },
     {
       "id": "link_130",
       "type": "membership",
-      "source": "member_59",
-      "target": "band_15",
-      "label": "guitar (1989)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_109",
+      "target": "band_24",
+      "label": "guitar",
+      "start_date": "1993",
+      "end_date": "1998"
     },
     {
       "id": "link_131",
       "type": "membership",
-      "source": "member_60",
-      "target": "band_15",
-      "label": "guitar (1989)",
-      "start_date": null,
+      "source": "member_110",
+      "target": "band_25",
+      "label": "lead vocals, guitar",
+      "start_date": "1981",
       "end_date": null
     },
     {
       "id": "link_132",
       "type": "membership",
-      "source": "member_1",
-      "target": "band_16",
-      "label": "member (1995)",
-      "start_date": null,
+      "source": "member_111",
+      "target": "band_26",
+      "label": "lead vocals",
+      "start_date": "1992",
       "end_date": null
     },
     {
       "id": "link_133",
       "type": "membership",
-      "source": "member_2",
-      "target": "band_16",
-      "label": "bass (1995)",
-      "start_date": null,
+      "source": "member_112",
+      "target": "band_26",
+      "label": "bass guitar",
+      "start_date": "1995",
       "end_date": null
     },
     {
       "id": "link_134",
       "type": "membership",
-      "source": "member_61",
-      "target": "band_16",
-      "label": "member (1995)",
-      "start_date": null,
+      "source": "member_113",
+      "target": "band_26",
+      "label": "guitar, backing vocals",
+      "start_date": "2002",
       "end_date": null
     },
     {
       "id": "link_135",
       "type": "membership",
-      "source": "member_62",
-      "target": "band_16",
-      "label": "member (1995)",
-      "start_date": null,
+      "source": "member_114",
+      "target": "band_26",
+      "label": "drums",
+      "start_date": "2002",
       "end_date": null
     },
     {
       "id": "link_136",
       "type": "membership",
-      "source": "member_63",
-      "target": "band_16",
-      "label": "member (1995)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_115",
+      "target": "band_26",
+      "label": "guitar",
+      "start_date": "1992",
+      "end_date": "2001"
     },
     {
       "id": "link_137",
       "type": "membership",
-      "source": "member_64",
-      "target": "band_16",
-      "label": "member (1995)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_116",
+      "target": "band_26",
+      "label": "drums",
+      "start_date": "1993",
+      "end_date": "2014"
     },
     {
       "id": "link_138",
       "type": "membership",
-      "source": "member_4",
-      "target": "band_16",
-      "label": "drums (1995)",
-      "start_date": null,
+      "source": "member_117",
+      "target": "band_27",
+      "label": "lead vocals, guitar",
+      "start_date": "1990",
       "end_date": null
     },
     {
       "id": "link_139",
       "type": "membership",
-      "source": "member_2",
-      "target": "band_17",
-      "label": "lead vocals/double bass (2000–present)",
-      "start_date": null,
+      "source": "member_118",
+      "target": "band_27",
+      "label": "vocals, percussion",
+      "start_date": "1990",
       "end_date": null
     },
     {
       "id": "link_140",
       "type": "membership",
-      "source": "member_1",
-      "target": "band_17",
-      "label": "guitar (2000–present)",
-      "start_date": null,
+      "source": "member_119",
+      "target": "band_27",
+      "label": "percussion, backing vocals",
+      "start_date": "1990",
       "end_date": null
     },
     {
       "id": "link_141",
       "type": "membership",
-      "source": "member_65",
-      "target": "band_17",
-      "label": "drums (2000–present)",
-      "start_date": null,
+      "source": "member_120",
+      "target": "band_27",
+      "label": "bass",
+      "start_date": "1990",
       "end_date": null
     },
     {
       "id": "link_142",
       "type": "membership",
-      "source": "member_66",
-      "target": "band_17",
-      "label": "guitar (2000)",
-      "start_date": null,
+      "source": "member_121",
+      "target": "band_27",
+      "label": "mandolin, keyboards",
+      "start_date": "1990",
       "end_date": null
     },
     {
       "id": "link_143",
       "type": "membership",
-      "source": "member_7",
-      "target": "band_17",
-      "label": "drums (2000)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_122",
+      "target": "band_27",
+      "label": "drums",
+      "start_date": "1990",
+      "end_date": "1999"
     },
     {
       "id": "link_144",
       "type": "membership",
-      "source": "member_1",
-      "target": "band_22",
-      "label": "vocals/guitar (2021–present)",
-      "start_date": null,
+      "source": "member_123",
+      "target": "band_28",
+      "label": "lead vocals",
+      "start_date": "1994",
       "end_date": null
     },
     {
       "id": "link_145",
       "type": "membership",
-      "source": "member_2",
-      "target": "band_22",
-      "label": "bass (2021–present)",
-      "start_date": null,
+      "source": "member_124",
+      "target": "band_28",
+      "label": "guitar, backing vocals",
+      "start_date": "1994",
       "end_date": null
     },
     {
       "id": "link_146",
       "type": "membership",
-      "source": "member_69",
-      "target": "band_22",
-      "label": "guitar (2021–present)",
-      "start_date": null,
+      "source": "member_125",
+      "target": "band_28",
+      "label": "guitar, backing vocals",
+      "start_date": "1994",
       "end_date": null
     },
     {
       "id": "link_147",
       "type": "membership",
-      "source": "member_70",
-      "target": "band_22",
-      "label": "drums (2021–present)",
-      "start_date": null,
+      "source": "member_126",
+      "target": "band_28",
+      "label": "bass",
+      "start_date": "1994",
       "end_date": null
     },
     {
       "id": "link_148",
       "type": "membership",
-      "source": "member_71",
-      "target": "band_22",
-      "label": "vocals (2021–present)",
-      "start_date": null,
+      "source": "member_127",
+      "target": "band_28",
+      "label": "drums, backing vocals",
+      "start_date": "1994",
       "end_date": null
     },
     {
       "id": "link_149",
       "type": "membership",
-      "source": "member_1",
-      "target": "band_21",
-      "label": "vocals/guitar (2023–present)",
-      "start_date": null,
+      "source": "member_128",
+      "target": "band_29",
+      "label": "lead vocals, guitar",
+      "start_date": "1993",
       "end_date": null
     },
     {
       "id": "link_150",
       "type": "membership",
-      "source": "member_3",
-      "target": "band_21",
-      "label": "vocals (2023–present)",
-      "start_date": null,
+      "source": "member_129",
+      "target": "band_29",
+      "label": "rhythm guitar",
+      "start_date": "1993",
       "end_date": null
     },
     {
       "id": "link_151",
       "type": "membership",
-      "source": "member_67",
-      "target": "band_21",
-      "label": "drums (2023–present)",
-      "start_date": null,
+      "source": "member_130",
+      "target": "band_29",
+      "label": "bass guitar",
+      "start_date": "1993",
       "end_date": null
     },
     {
       "id": "link_152",
       "type": "membership",
-      "source": "member_68",
-      "target": "band_21",
-      "label": "bass (2023–present)",
-      "start_date": null,
+      "source": "member_131",
+      "target": "band_29",
+      "label": "drums",
+      "start_date": "1993",
       "end_date": null
     },
     {
       "id": "link_153",
       "type": "membership",
-      "source": "member_3",
-      "target": "band_18",
-      "label": "vocals (1993)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_132",
+      "target": "band_29",
+      "label": "lead guitar",
+      "start_date": "1993",
+      "end_date": "2001"
     },
     {
       "id": "link_154",
       "type": "membership",
-      "source": "member_72",
-      "target": "band_18",
-      "label": "guitar (1993)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_133",
+      "target": "band_29",
+      "label": "lead guitar",
+      "start_date": "2001",
+      "end_date": "2013"
     },
     {
       "id": "link_155",
       "type": "membership",
-      "source": "member_73",
-      "target": "band_18",
-      "label": "guitar (1993)",
-      "start_date": null,
+      "source": "member_134",
+      "target": "band_30",
+      "label": "lead vocals, guitar",
+      "start_date": "1995",
       "end_date": null
     },
     {
       "id": "link_156",
       "type": "membership",
-      "source": "member_74",
-      "target": "band_18",
-      "label": "bass (1993)",
-      "start_date": null,
+      "source": "member_135",
+      "target": "band_30",
+      "label": "guitar",
+      "start_date": "1995",
       "end_date": null
     },
     {
       "id": "link_157",
       "type": "membership",
-      "source": "member_75",
-      "target": "band_18",
-      "label": "drums (1993)",
-      "start_date": null,
+      "source": "member_136",
+      "target": "band_30",
+      "label": "bass guitar",
+      "start_date": "1995",
       "end_date": null
     },
     {
       "id": "link_158",
       "type": "membership",
-      "source": "member_3",
-      "target": "band_19",
-      "label": "guitar/vocals (1999–2003)",
-      "start_date": null,
+      "source": "member_137",
+      "target": "band_30",
+      "label": "drums",
+      "start_date": "2002",
       "end_date": null
     },
     {
       "id": "link_159",
       "type": "membership",
-      "source": "member_76",
-      "target": "band_19",
-      "label": "bass (1999–2003)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_138",
+      "target": "band_30",
+      "label": "drums",
+      "start_date": "1995",
+      "end_date": "2002"
     },
     {
       "id": "link_160",
       "type": "membership",
-      "source": "member_77",
-      "target": "band_19",
-      "label": "drums (1999–2003)",
-      "start_date": null,
+      "source": "member_139",
+      "target": "band_31",
+      "label": "lead vocals, guitar",
+      "start_date": "1983",
       "end_date": null
     },
     {
       "id": "link_161",
       "type": "membership",
-      "source": "member_3",
-      "target": "band_20",
-      "label": "vocals (2008–2012; 2020–present)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_140",
+      "target": "band_31",
+      "label": "bass guitar",
+      "start_date": "1983",
+      "end_date": "2022"
     },
     {
       "id": "link_162",
       "type": "membership",
-      "source": "member_80",
-      "target": "band_20",
-      "label": "guitar (2008–2012)",
-      "start_date": null,
+      "source": "member_141",
+      "target": "band_31",
+      "label": "lead guitar",
+      "start_date": "2015",
       "end_date": null
     },
     {
       "id": "link_163",
       "type": "membership",
-      "source": "member_81",
-      "target": "band_20",
-      "label": "bass (2008–2012)",
-      "start_date": null,
+      "source": "member_142",
+      "target": "band_31",
+      "label": "drums",
+      "start_date": "2016",
       "end_date": null
     },
     {
       "id": "link_164",
       "type": "membership",
-      "source": "member_82",
-      "target": "band_20",
-      "label": "drums (2008–2012)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_143",
+      "target": "band_31",
+      "label": "lead guitar",
+      "start_date": "1990",
+      "end_date": "2000"
     },
     {
       "id": "link_165",
       "type": "membership",
-      "source": "member_78",
-      "target": "band_20",
-      "label": "guitar/bass (2020–present)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_144",
+      "target": "band_31",
+      "label": "drums",
+      "start_date": "1989",
+      "end_date": "1998"
     },
     {
       "id": "link_166",
       "type": "membership",
-      "source": "member_79",
-      "target": "band_20",
-      "label": "drums (2020–present)",
-      "start_date": null,
+      "source": "member_145",
+      "target": "band_32",
+      "label": "lead vocals, bass guitar",
+      "start_date": "1988",
       "end_date": null
     },
     {
       "id": "link_167",
       "type": "membership",
-      "source": "member_5",
-      "target": "band_23",
-      "label": "vocals/guitar (2010–present)",
-      "start_date": null,
+      "source": "member_146",
+      "target": "band_32",
+      "label": "guitar, backing vocals",
+      "start_date": "2012",
       "end_date": null
     },
     {
       "id": "link_168",
       "type": "membership",
-      "source": "member_83",
-      "target": "band_23",
-      "label": "bass/vocals (2010–present)",
-      "start_date": null,
+      "source": "member_147",
+      "target": "band_32",
+      "label": "drums, backing vocals",
+      "start_date": "1988",
       "end_date": null
     },
     {
       "id": "link_169",
       "type": "membership",
-      "source": "member_84",
-      "target": "band_23",
-      "label": "guitar (2010–present)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_148",
+      "target": "band_32",
+      "label": "guitar, backing vocals",
+      "start_date": "1988",
+      "end_date": "2015"
     },
     {
       "id": "link_170",
       "type": "membership",
-      "source": "member_85",
-      "target": "band_23",
-      "label": "drums (2010–present)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_149",
+      "target": "band_32",
+      "label": "guitar, backing vocals",
+      "start_date": "2015",
+      "end_date": "2017"
     },
     {
       "id": "link_171",
       "type": "membership",
-      "source": "member_86",
-      "target": "band_4",
-      "label": "guitars/keyboards (2005–2014; 2018–present)",
-      "start_date": null,
+      "source": "member_150",
+      "target": "band_33",
+      "label": "lead vocals, guitar",
+      "start_date": "1988",
       "end_date": null
     },
     {
       "id": "link_172",
       "type": "membership",
-      "source": "member_87",
-      "target": "band_4",
-      "label": "drums (2005–2011)",
-      "start_date": null,
+      "source": "member_151",
+      "target": "band_33",
+      "label": "bass guitar",
+      "start_date": "1988",
       "end_date": null
     },
     {
       "id": "link_173",
       "type": "membership",
-      "source": "member_88",
-      "target": "band_4",
-      "label": "bass/backing vocals (2005–2007)",
-      "start_date": null,
+      "source": "member_152",
+      "target": "band_33",
+      "label": "percussion, keyboards",
+      "start_date": "1988",
       "end_date": null
     },
     {
       "id": "link_174",
       "type": "membership",
-      "source": "member_89",
-      "target": "band_4",
-      "label": "bass/synthesizers (2007–2014; 2018–2019)",
-      "start_date": null,
+      "source": "member_153",
+      "target": "band_33",
+      "label": "drums",
+      "start_date": "2010",
       "end_date": null
     },
     {
       "id": "link_175",
       "type": "membership",
-      "source": "member_90",
-      "target": "band_4",
-      "label": "bass (2014)",
-      "start_date": null,
+      "source": "member_154",
+      "target": "band_34",
+      "label": "lead vocals, guitar",
+      "start_date": "1994",
       "end_date": null
     },
     {
       "id": "link_176",
       "type": "membership",
-      "source": "member_9",
-      "target": "band_24",
-      "label": "vocals/guitar (2001–2003)",
-      "start_date": null,
+      "source": "member_155",
+      "target": "band_34",
+      "label": "bass guitar, backing vocals",
+      "start_date": "1994",
       "end_date": null
     },
     {
       "id": "link_177",
       "type": "membership",
-      "source": "member_10",
-      "target": "band_24",
-      "label": "drums (2001–2003)",
-      "start_date": null,
+      "source": "member_156",
+      "target": "band_34",
+      "label": "drums",
+      "start_date": "1994",
       "end_date": null
     },
     {
       "id": "link_178",
       "type": "membership",
-      "source": "member_86",
-      "target": "band_24",
-      "label": "guitar (2001–2003)",
-      "start_date": null,
+      "source": "member_157",
+      "target": "band_35",
+      "label": "lead vocals, guitar",
+      "start_date": "2000",
       "end_date": null
     },
     {
       "id": "link_179",
       "type": "membership",
-      "source": "member_94",
-      "target": "band_24",
-      "label": "bass (2002–2003)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_158",
+      "target": "band_36",
+      "label": "lead vocals",
+      "start_date": "1994",
+      "end_date": "2002"
     },
     {
       "id": "link_180",
       "type": "membership",
-      "source": "member_8",
-      "target": "band_25",
-      "label": "vocals/bass (2005–2009)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_159",
+      "target": "band_36",
+      "label": "guitar, backing vocals",
+      "start_date": "1994",
+      "end_date": "2002"
     },
     {
       "id": "link_181",
       "type": "membership",
-      "source": "member_10",
-      "target": "band_25",
-      "label": "drums (2005–2009)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_160",
+      "target": "band_36",
+      "label": "guitar",
+      "start_date": "1994",
+      "end_date": "2002"
     },
     {
       "id": "link_182",
       "type": "membership",
-      "source": "member_91",
-      "target": "band_25",
-      "label": "lead guitar (2005–2009)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_161",
+      "target": "band_36",
+      "label": "drums",
+      "start_date": "1994",
+      "end_date": "2002"
     },
     {
       "id": "link_183",
       "type": "membership",
-      "source": "member_92",
-      "target": "band_25",
-      "label": "rhythm guitar (2005–2009)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_162",
+      "target": "band_36",
+      "label": "bass",
+      "start_date": "1994",
+      "end_date": "2002"
     },
     {
       "id": "link_184",
       "type": "membership",
-      "source": "member_93",
-      "target": "band_25",
-      "label": "vocals (2005)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_163",
+      "target": "band_37",
+      "label": "lead vocals, guitar",
+      "start_date": "1998",
+      "end_date": "2003"
     },
     {
       "id": "link_185",
       "type": "membership",
-      "source": "member_8",
-      "target": "band_26",
-      "label": "vocals/bass/keyboards (2019–2020)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_164",
+      "target": "band_37",
+      "label": "guitar",
+      "start_date": "1998",
+      "end_date": "2003"
     },
     {
       "id": "link_186",
       "type": "membership",
-      "source": "member_35",
-      "target": "band_26",
-      "label": "vocals/guitars/keyboards (2019–2020)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_165",
+      "target": "band_37",
+      "label": "bass",
+      "start_date": "1998",
+      "end_date": "2003"
     },
     {
       "id": "link_187",
       "type": "membership",
-      "source": "member_87",
-      "target": "band_6",
-      "label": "drums (2023–present; touring substitute 2000–2001)",
-      "start_date": null,
-      "end_date": null
+      "source": "member_166",
+      "target": "band_37",
+      "label": "drums",
+      "start_date": "1998",
+      "end_date": "2003"
     },
     {
       "id": "link_188",
       "type": "membership",
-      "source": "member_95",
-      "target": "band_6",
-      "label": "bass/backing vocals (1996–1997)",
-      "start_date": null,
+      "source": "member_167",
+      "target": "band_38",
+      "label": "lead vocals, guitar",
+      "start_date": "1995",
       "end_date": null
     },
     {
       "id": "link_189",
       "type": "membership",
-      "source": "member_96",
-      "target": "band_6",
-      "label": "drums (1996–2000)",
-      "start_date": null,
+      "source": "member_168",
+      "target": "band_38",
+      "label": "drums",
+      "start_date": "1995",
       "end_date": null
     },
     {
       "id": "link_190",
       "type": "membership",
-      "source": "member_97",
-      "target": "band_6",
-      "label": "drums (2000–2001)",
-      "start_date": null,
+      "source": "member_169",
+      "target": "band_38",
+      "label": "guitar",
+      "start_date": "1995",
       "end_date": null
     },
     {
       "id": "link_191",
       "type": "membership",
-      "source": "member_98",
-      "target": "band_6",
-      "label": "drums/percussion/backing vocals (2001–2023)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_192",
-      "type": "membership",
-      "source": "member_99",
-      "target": "band_27",
-      "label": "vocals (1994–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_193",
-      "type": "membership",
-      "source": "member_100",
-      "target": "band_27",
-      "label": "bass/backing vocals (1994–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_194",
-      "type": "membership",
-      "source": "member_101",
-      "target": "band_27",
-      "label": "keyboards/saxophone/backing vocals (1997–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_195",
-      "type": "membership",
-      "source": "member_102",
-      "target": "band_27",
-      "label": "drums/percussion/backing vocals (2002–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_196",
-      "type": "membership",
-      "source": "member_103",
-      "target": "band_27",
-      "label": "guitar/backing vocals (2006–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_197",
-      "type": "membership",
-      "source": "member_10",
-      "target": "band_27",
-      "label": "drums/percussion (1996–1998)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_198",
-      "type": "membership",
-      "source": "member_104",
-      "target": "band_28",
-      "label": "lead vocals (2011–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_199",
-      "type": "membership",
-      "source": "member_14",
-      "target": "band_28",
-      "label": "guitar (2011–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_200",
-      "type": "membership",
-      "source": "member_105",
-      "target": "band_28",
-      "label": "bass (2011–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_201",
-      "type": "membership",
-      "source": "member_106",
-      "target": "band_28",
-      "label": "drums (2011–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_202",
-      "type": "membership",
-      "source": "member_2",
-      "target": "band_29",
-      "label": "bass/vocals (2018–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_203",
-      "type": "membership",
-      "source": "member_107",
-      "target": "band_29",
-      "label": "guitar (2018–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_204",
-      "type": "membership",
-      "source": "member_108",
-      "target": "band_29",
-      "label": "drums (2018–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_205",
-      "type": "membership",
-      "source": "member_52",
-      "target": "band_30",
-      "label": "vocals/guitar (2000–2018; 2024–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_206",
-      "type": "membership",
-      "source": "member_109",
-      "target": "band_30",
-      "label": "lead guitar/vocals (2000–2018; 2024–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_207",
-      "type": "membership",
-      "source": "member_110",
-      "target": "band_30",
-      "label": "bass (2000–2018; 2024–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_208",
-      "type": "membership",
-      "source": "member_111",
-      "target": "band_30",
-      "label": "drums (2000–2018; 2024–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_209",
-      "type": "membership",
-      "source": "member_112",
-      "target": "band_30",
-      "label": "guitar/keyboards (2005–2013)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_210",
-      "type": "membership",
-      "source": "member_52",
-      "target": "band_31",
-      "label": "vocals/guitar (1998–2000)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_211",
-      "type": "membership",
-      "source": "member_110",
-      "target": "band_31",
-      "label": "bass (1998–2000)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_212",
-      "type": "membership",
-      "source": "member_111",
-      "target": "band_31",
-      "label": "drums (1998–2000)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_213",
-      "type": "membership",
-      "source": "member_121",
-      "target": "band_31",
-      "label": "guitar/vocals (1998–2000)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_214",
-      "type": "membership",
-      "source": "member_122",
-      "target": "band_31",
-      "label": "guitar (1998–2000)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_215",
-      "type": "membership",
-      "source": "member_113",
-      "target": "band_32",
-      "label": "lead vocals (1993–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_216",
-      "type": "membership",
-      "source": "member_114",
-      "target": "band_32",
-      "label": "guitar (1993–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_217",
-      "type": "membership",
-      "source": "member_115",
-      "target": "band_32",
-      "label": "bass (1998–2000; 2004–2015)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_218",
-      "type": "membership",
-      "source": "member_113",
-      "target": "band_33",
-      "label": "lead vocals (2003–2012; 2023–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_219",
-      "type": "membership",
-      "source": "member_116",
-      "target": "band_34",
-      "label": "lead vocals (1994–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_220",
-      "type": "membership",
-      "source": "member_117",
-      "target": "band_34",
-      "label": "bass (1994–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_221",
-      "type": "membership",
-      "source": "member_118",
-      "target": "band_35",
-      "label": "lead vocals (1989–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_222",
-      "type": "membership",
-      "source": "member_119",
-      "target": "band_35",
-      "label": "guitar (1989–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_223",
-      "type": "membership",
-      "source": "member_120",
-      "target": "band_35",
-      "label": "bass (1989–present)",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_224",
-      "type": "label_signing",
-      "source": "band_2",
-      "target": "label_5",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_225",
-      "type": "label_signing",
-      "source": "band_2",
-      "target": "label_6",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_226",
-      "type": "label_signing",
-      "source": "band_4",
-      "target": "label_9",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_227",
-      "type": "label_signing",
-      "source": "band_4",
-      "target": "label_10",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_228",
-      "type": "label_signing",
-      "source": "band_6",
-      "target": "label_13",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_229",
-      "type": "label_signing",
-      "source": "band_6",
-      "target": "label_14",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_230",
-      "type": "label_signing",
-      "source": "band_6",
-      "target": "label_15",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_231",
-      "type": "label_signing",
-      "source": "band_7",
-      "target": "label_16",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_232",
-      "type": "label_signing",
-      "source": "band_7",
-      "target": "label_17",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_233",
-      "type": "label_signing",
-      "source": "band_7",
-      "target": "label_18",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_234",
-      "type": "label_signing",
-      "source": "band_9",
-      "target": "label_19",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_235",
-      "type": "label_signing",
-      "source": "band_9",
-      "target": "label_6",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_236",
-      "type": "label_signing",
-      "source": "band_10",
-      "target": "label_20",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_237",
-      "type": "label_signing",
-      "source": "band_10",
-      "target": "label_21",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_238",
-      "type": "label_signing",
-      "source": "band_10",
-      "target": "label_19",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_239",
-      "type": "label_signing",
-      "source": "band_11",
-      "target": "label_22",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_240",
-      "type": "label_signing",
-      "source": "band_12",
-      "target": "label_6",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_241",
-      "type": "label_signing",
-      "source": "band_12",
-      "target": "label_5",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_242",
-      "type": "label_signing",
-      "source": "band_12",
-      "target": "label_24",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_243",
-      "type": "label_signing",
-      "source": "band_12",
-      "target": "label_17",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_244",
-      "type": "label_signing",
-      "source": "band_30",
-      "target": "label_28",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_245",
-      "type": "label_signing",
-      "source": "band_30",
-      "target": "label_26",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_246",
-      "type": "label_signing",
-      "source": "band_30",
-      "target": "label_25",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_247",
-      "type": "label_signing",
-      "source": "band_30",
-      "target": "label_27",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_248",
-      "type": "label_signing",
-      "source": "band_30",
-      "target": "label_29",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_249",
-      "type": "label_signing",
-      "source": "band_30",
-      "target": "label_30",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_250",
-      "type": "label_signing",
-      "source": "band_30",
-      "target": "label_31",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_251",
-      "type": "label_signing",
-      "source": "band_32",
-      "target": "label_34",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_252",
-      "type": "label_signing",
-      "source": "band_32",
-      "target": "label_41",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_253",
-      "type": "label_signing",
-      "source": "band_33",
-      "target": "label_41",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_254",
-      "type": "label_signing",
-      "source": "band_34",
-      "target": "label_22",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_255",
-      "type": "label_signing",
-      "source": "band_34",
-      "target": "label_32",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_256",
-      "type": "label_signing",
-      "source": "band_34",
-      "target": "label_33",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_257",
-      "type": "label_signing",
-      "source": "band_34",
-      "target": "label_34",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_258",
-      "type": "label_signing",
-      "source": "band_34",
-      "target": "label_35",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_259",
-      "type": "label_signing",
-      "source": "band_34",
-      "target": "label_30",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_260",
-      "type": "label_signing",
-      "source": "band_34",
-      "target": "label_36",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_261",
-      "type": "label_signing",
-      "source": "band_35",
-      "target": "label_37",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_262",
-      "type": "label_signing",
-      "source": "band_35",
-      "target": "label_38",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_263",
-      "type": "label_signing",
-      "source": "band_35",
-      "target": "label_3",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_264",
-      "type": "label_signing",
-      "source": "band_35",
-      "target": "label_39",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_265",
-      "type": "label_signing",
-      "source": "band_35",
-      "target": "label_40",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_266",
-      "type": "label_signing",
-      "source": "band_35",
-      "target": "label_8",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_267",
-      "type": "label_signing",
-      "source": "band_5",
-      "target": "label_16",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_268",
-      "type": "label_signing",
-      "source": "band_12",
-      "target": "label_16",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_269",
-      "type": "label_signing",
-      "source": "band_32",
-      "target": "label_20",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_270",
-      "type": "label_signing",
-      "source": "band_33",
-      "target": "label_20",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_271",
-      "type": "label_signing",
-      "source": "band_32",
-      "target": "label_40",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_272",
-      "type": "membership",
-      "source": "member_13",
-      "target": "band_4",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_273",
-      "type": "membership",
-      "source": "member_15",
-      "target": "band_4",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_274",
-      "type": "membership",
-      "source": "member_16",
-      "target": "band_4",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_275",
-      "type": "membership",
-      "source": "member_17",
-      "target": "band_4",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_276",
-      "type": "membership",
-      "source": "member_18",
-      "target": "band_4",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_277",
-      "type": "membership",
-      "source": "member_19",
-      "target": "band_4",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_278",
-      "type": "membership",
-      "source": "member_20",
-      "target": "band_5",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_279",
-      "type": "membership",
-      "source": "member_21",
-      "target": "band_5",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_280",
-      "type": "membership",
-      "source": "member_22",
-      "target": "band_6",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_281",
-      "type": "membership",
-      "source": "member_16",
-      "target": "band_6",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_282",
-      "type": "membership",
-      "source": "member_27",
-      "target": "band_7",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_283",
-      "type": "membership",
-      "source": "member_28",
-      "target": "band_7",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_284",
-      "type": "membership",
-      "source": "member_29",
-      "target": "band_7",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_285",
-      "type": "membership",
-      "source": "member_30",
-      "target": "band_7",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_286",
-      "type": "membership",
-      "source": "member_31",
-      "target": "band_7",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_287",
-      "type": "membership",
-      "source": "member_7",
-      "target": "band_7",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_288",
-      "type": "membership",
-      "source": "member_32",
-      "target": "band_8",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_289",
-      "type": "membership",
-      "source": "member_33",
-      "target": "band_8",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_290",
-      "type": "membership",
-      "source": "member_34",
-      "target": "band_8",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_291",
-      "type": "membership",
-      "source": "member_35",
-      "target": "band_8",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_292",
-      "type": "membership",
-      "source": "member_14",
-      "target": "band_8",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_293",
-      "type": "membership",
-      "source": "member_36",
-      "target": "band_9",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_294",
-      "type": "membership",
-      "source": "member_37",
-      "target": "band_9",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_295",
-      "type": "membership",
-      "source": "member_38",
-      "target": "band_9",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_296",
-      "type": "membership",
-      "source": "member_39",
-      "target": "band_9",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_297",
-      "type": "membership",
-      "source": "member_40",
-      "target": "band_9",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_298",
-      "type": "membership",
-      "source": "member_41",
-      "target": "band_9",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_299",
-      "type": "membership",
-      "source": "member_42",
-      "target": "band_9",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_300",
-      "type": "membership",
-      "source": "member_43",
-      "target": "band_9",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_301",
-      "type": "membership",
-      "source": "member_44",
-      "target": "band_10",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_302",
-      "type": "membership",
-      "source": "member_45",
-      "target": "band_10",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_303",
-      "type": "membership",
-      "source": "member_46",
-      "target": "band_10",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_304",
-      "type": "membership",
-      "source": "member_47",
-      "target": "band_10",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_305",
-      "type": "membership",
-      "source": "member_48",
-      "target": "band_11",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_306",
-      "type": "membership",
-      "source": "member_49",
-      "target": "band_11",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_307",
-      "type": "membership",
-      "source": "member_50",
-      "target": "band_11",
-      "label": "",
-      "start_date": null,
-      "end_date": null
-    },
-    {
-      "id": "link_308",
-      "type": "membership",
-      "source": "member_51",
-      "target": "band_11",
-      "label": "",
-      "start_date": null,
+      "source": "member_170",
+      "target": "band_38",
+      "label": "bass, backing vocals",
+      "start_date": "1995",
       "end_date": null
     }
   ]
